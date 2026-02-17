@@ -32,24 +32,42 @@ def generate_synthetic_data(start_date, end_date, agg_level):
     
     data = []
     
-    # Create evolving source weights that change dramatically over time
+    # Create evolving source weights with clear winners emerging over time
     np.random.seed(42)
     time_steps = len(periods)
     
     for i, period in enumerate(periods):
-        # Create time-varying source distribution using sine waves with different phases
-        # This creates natural shifts in lead source popularity
-        weights = {}
-        for j, source in enumerate(sources):
-            # Each source has different trend patterns
-            phase = j * np.pi / 6  # Different phase for each source
-            trend = np.sin(2 * np.pi * i / time_steps * 3 + phase) ** 2
-            seasonal = np.sin(2 * np.pi * i / time_steps * 12 + phase * 2)
-            random_shock = np.random.normal(0, 0.3)
-            
-            weights[source] = max(0.1, trend + seasonal * 0.3 + random_shock)
+        # Progress through time (0 to 1)
+        progress = i / max(time_steps - 1, 1)
         
-        # Normalize weights
+        weights = {}
+        
+        # Google becomes dominant source - starts low, grows to 40% of volume
+        weights['Google'] = 0.08 + (0.35 * progress)
+        
+        # O2C becomes second major source - grows to 25% of volume
+        weights['O2C'] = 0.08 + (0.20 * progress)
+        
+        # Barrington maintains steady presence at 15%
+        weights['Barrington'] = 0.15 + np.random.normal(0, 0.02)
+        
+        # Legacy sources decline over time
+        weights['Roku'] = 0.12 * (1 - progress * 0.7)  # Declines from 12% to ~4%
+        weights['VOXR'] = 0.10 * (1 - progress * 0.6)  # Declines from 10% to ~4%
+        
+        # Other sources stay relatively small and stable
+        weights['Lucent'] = 0.06 + np.random.normal(0, 0.01)
+        weights['Channel Edge'] = 0.05 + np.random.normal(0, 0.01)
+        weights['Policy Chat'] = 0.05 + np.random.normal(0, 0.01)
+        weights['Youtube'] = 0.04 + np.random.normal(0, 0.01)
+        weights['Ring 2'] = 0.03 + np.random.normal(0, 0.01)
+        weights['Regal'] = 0.03 + np.random.normal(0, 0.01)
+        weights['Other'] = 0.02 + np.random.normal(0, 0.01)
+        
+        # Ensure no negative weights
+        weights = {k: max(0.01, v) for k, v in weights.items()}
+        
+        # Normalize weights to sum to 1
         total_weight = sum(weights.values())
         weights = {k: v/total_weight for k, v in weights.items()}
         
