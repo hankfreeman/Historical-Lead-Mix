@@ -1,0 +1,8773 @@
+PERIOD,LEAD_SOURCE,LEAD_COUNT
+2023-01-01,Barrington,4
+2023-01-01,Channel Edge,1
+2023-01-01,Google,7
+2023-01-01,Lucent,1
+2023-01-01,O2C,3
+2023-01-01,Other,1
+2023-01-01,Policy Chat,1
+2023-01-01,Ring 2,2
+2023-01-01,Roku,6
+2023-01-01,VOXR,1
+2023-01-01,Youtube,5
+2023-01-01,Regal,1
+2023-01-02,Barrington,3
+2023-01-02,Channel Edge,1
+2023-01-02,Google,13
+2023-01-02,Lucent,1
+2023-01-02,O2C,4
+2023-01-02,Other,2
+2023-01-02,Policy Chat,4
+2023-01-02,Ring 2,1
+2023-01-02,Roku,2
+2023-01-02,VOXR,2
+2023-01-02,Youtube,5
+2023-01-02,Regal,2
+2023-01-03,Barrington,5
+2023-01-03,Channel Edge,2
+2023-01-03,Google,5
+2023-01-03,Lucent,1
+2023-01-03,O2C,4
+2023-01-03,Other,3
+2023-01-03,Policy Chat,3
+2023-01-03,Ring 2,4
+2023-01-03,Roku,2
+2023-01-03,VOXR,2
+2023-01-03,Youtube,7
+2023-01-03,Regal,6
+2023-01-04,Barrington,3
+2023-01-04,Channel Edge,4
+2023-01-04,Google,9
+2023-01-04,Lucent,3
+2023-01-04,O2C,12
+2023-01-04,Other,1
+2023-01-04,Policy Chat,1
+2023-01-04,Ring 2,1
+2023-01-04,Roku,2
+2023-01-04,VOXR,4
+2023-01-04,Youtube,3
+2023-01-04,Regal,2
+2023-01-05,Barrington,6
+2023-01-05,Channel Edge,2
+2023-01-05,Google,5
+2023-01-05,Lucent,1
+2023-01-05,O2C,5
+2023-01-05,Other,3
+2023-01-05,Policy Chat,6
+2023-01-05,Ring 2,1
+2023-01-05,Roku,1
+2023-01-05,VOXR,5
+2023-01-05,Youtube,11
+2023-01-05,Regal,4
+2023-01-06,Barrington,1
+2023-01-06,Channel Edge,2
+2023-01-06,Google,10
+2023-01-06,Lucent,1
+2023-01-06,O2C,4
+2023-01-06,Other,4
+2023-01-06,Policy Chat,3
+2023-01-06,Ring 2,1
+2023-01-06,Roku,3
+2023-01-06,VOXR,3
+2023-01-06,Youtube,4
+2023-01-06,Regal,6
+2023-01-07,Barrington,5
+2023-01-07,Channel Edge,1
+2023-01-07,Google,15
+2023-01-07,Lucent,1
+2023-01-07,O2C,7
+2023-01-07,Other,3
+2023-01-07,Policy Chat,3
+2023-01-07,Ring 2,1
+2023-01-07,Roku,7
+2023-01-07,VOXR,1
+2023-01-07,Youtube,7
+2023-01-07,Regal,4
+2023-01-08,Barrington,4
+2023-01-08,Channel Edge,3
+2023-01-08,Google,4
+2023-01-08,Lucent,1
+2023-01-08,O2C,4
+2023-01-08,Other,1
+2023-01-08,Policy Chat,3
+2023-01-08,Ring 2,3
+2023-01-08,Roku,2
+2023-01-08,VOXR,1
+2023-01-08,Youtube,6
+2023-01-08,Regal,3
+2023-01-09,Barrington,3
+2023-01-09,Channel Edge,1
+2023-01-09,Google,10
+2023-01-09,Lucent,2
+2023-01-09,O2C,5
+2023-01-09,Other,1
+2023-01-09,Policy Chat,1
+2023-01-09,Ring 2,4
+2023-01-09,Roku,6
+2023-01-09,VOXR,1
+2023-01-09,Youtube,3
+2023-01-09,Regal,4
+2023-01-10,Barrington,3
+2023-01-10,Channel Edge,2
+2023-01-10,Google,10
+2023-01-10,Lucent,4
+2023-01-10,O2C,4
+2023-01-10,Other,2
+2023-01-10,Policy Chat,3
+2023-01-10,Ring 2,1
+2023-01-10,Roku,5
+2023-01-10,VOXR,4
+2023-01-10,Youtube,7
+2023-01-10,Regal,3
+2023-01-11,Barrington,3
+2023-01-11,Channel Edge,4
+2023-01-11,Google,8
+2023-01-11,Lucent,1
+2023-01-11,O2C,6
+2023-01-11,Other,1
+2023-01-11,Policy Chat,3
+2023-01-11,Ring 2,1
+2023-01-11,Roku,2
+2023-01-11,VOXR,2
+2023-01-11,Youtube,8
+2023-01-11,Regal,4
+2023-01-12,Barrington,4
+2023-01-12,Channel Edge,2
+2023-01-12,Google,7
+2023-01-12,Lucent,1
+2023-01-12,O2C,6
+2023-01-12,Other,2
+2023-01-12,Policy Chat,3
+2023-01-12,Ring 2,2
+2023-01-12,Roku,4
+2023-01-12,VOXR,1
+2023-01-12,Youtube,4
+2023-01-12,Regal,3
+2023-01-13,Barrington,4
+2023-01-13,Channel Edge,7
+2023-01-13,Google,9
+2023-01-13,Lucent,5
+2023-01-13,O2C,3
+2023-01-13,Other,1
+2023-01-13,Policy Chat,5
+2023-01-13,Ring 2,4
+2023-01-13,Roku,7
+2023-01-13,VOXR,1
+2023-01-13,Youtube,3
+2023-01-13,Regal,3
+2023-01-14,Barrington,5
+2023-01-14,Channel Edge,2
+2023-01-14,Google,11
+2023-01-14,Lucent,2
+2023-01-14,O2C,8
+2023-01-14,Other,1
+2023-01-14,Policy Chat,1
+2023-01-14,Ring 2,3
+2023-01-14,Roku,11
+2023-01-14,VOXR,2
+2023-01-14,Youtube,2
+2023-01-14,Regal,3
+2023-01-15,Barrington,4
+2023-01-15,Channel Edge,1
+2023-01-15,Google,10
+2023-01-15,Lucent,3
+2023-01-15,O2C,6
+2023-01-15,Other,1
+2023-01-15,Policy Chat,4
+2023-01-15,Ring 2,1
+2023-01-15,Roku,5
+2023-01-15,VOXR,3
+2023-01-15,Youtube,5
+2023-01-15,Regal,1
+2023-01-16,Barrington,3
+2023-01-16,Channel Edge,2
+2023-01-16,Google,7
+2023-01-16,Lucent,1
+2023-01-16,O2C,3
+2023-01-16,Other,3
+2023-01-16,Policy Chat,1
+2023-01-16,Ring 2,5
+2023-01-16,Roku,7
+2023-01-16,VOXR,3
+2023-01-16,Youtube,9
+2023-01-16,Regal,5
+2023-01-17,Barrington,2
+2023-01-17,Channel Edge,3
+2023-01-17,Google,11
+2023-01-17,Lucent,3
+2023-01-17,O2C,6
+2023-01-17,Other,1
+2023-01-17,Policy Chat,3
+2023-01-17,Ring 2,1
+2023-01-17,Roku,7
+2023-01-17,VOXR,2
+2023-01-17,Youtube,4
+2023-01-17,Regal,4
+2023-01-18,Barrington,3
+2023-01-18,Channel Edge,2
+2023-01-18,Google,12
+2023-01-18,Lucent,2
+2023-01-18,O2C,12
+2023-01-18,Other,1
+2023-01-18,Policy Chat,3
+2023-01-18,Ring 2,1
+2023-01-18,Roku,5
+2023-01-18,VOXR,3
+2023-01-18,Youtube,3
+2023-01-18,Regal,2
+2023-01-19,Barrington,2
+2023-01-19,Channel Edge,3
+2023-01-19,Google,6
+2023-01-19,Lucent,2
+2023-01-19,O2C,7
+2023-01-19,Other,3
+2023-01-19,Policy Chat,3
+2023-01-19,Ring 2,1
+2023-01-19,Roku,2
+2023-01-19,VOXR,1
+2023-01-19,Youtube,6
+2023-01-19,Regal,1
+2023-01-20,Barrington,3
+2023-01-20,Channel Edge,1
+2023-01-20,Google,13
+2023-01-20,Lucent,1
+2023-01-20,O2C,7
+2023-01-20,Other,3
+2023-01-20,Policy Chat,3
+2023-01-20,Ring 2,1
+2023-01-20,Roku,3
+2023-01-20,VOXR,3
+2023-01-20,Youtube,7
+2023-01-20,Regal,5
+2023-01-21,Barrington,5
+2023-01-21,Channel Edge,1
+2023-01-21,Google,9
+2023-01-21,Lucent,1
+2023-01-21,O2C,4
+2023-01-21,Other,1
+2023-01-21,Policy Chat,5
+2023-01-21,Ring 2,3
+2023-01-21,Roku,1
+2023-01-21,VOXR,2
+2023-01-21,Youtube,1
+2023-01-21,Regal,1
+2023-01-22,Barrington,3
+2023-01-22,Channel Edge,2
+2023-01-22,Google,11
+2023-01-22,Lucent,1
+2023-01-22,O2C,4
+2023-01-22,Other,1
+2023-01-22,Policy Chat,4
+2023-01-22,Ring 2,1
+2023-01-22,Roku,2
+2023-01-22,VOXR,1
+2023-01-22,Youtube,6
+2023-01-22,Regal,4
+2023-01-23,Barrington,4
+2023-01-23,Channel Edge,5
+2023-01-23,Google,11
+2023-01-23,Lucent,1
+2023-01-23,O2C,11
+2023-01-23,Other,1
+2023-01-23,Policy Chat,3
+2023-01-23,Ring 2,1
+2023-01-23,Roku,3
+2023-01-23,VOXR,3
+2023-01-23,Youtube,4
+2023-01-23,Regal,1
+2023-01-24,Barrington,2
+2023-01-24,Channel Edge,4
+2023-01-24,Google,8
+2023-01-24,Lucent,5
+2023-01-24,O2C,7
+2023-01-24,Other,2
+2023-01-24,Policy Chat,4
+2023-01-24,Ring 2,3
+2023-01-24,Roku,4
+2023-01-24,VOXR,2
+2023-01-24,Youtube,5
+2023-01-24,Regal,2
+2023-01-25,Barrington,3
+2023-01-25,Channel Edge,3
+2023-01-25,Google,7
+2023-01-25,Lucent,1
+2023-01-25,O2C,4
+2023-01-25,Other,4
+2023-01-25,Policy Chat,1
+2023-01-25,Ring 2,1
+2023-01-25,Roku,2
+2023-01-25,VOXR,3
+2023-01-25,Youtube,4
+2023-01-25,Regal,1
+2023-01-26,Barrington,5
+2023-01-26,Channel Edge,4
+2023-01-26,Google,11
+2023-01-26,Lucent,1
+2023-01-26,O2C,10
+2023-01-26,Other,2
+2023-01-26,Policy Chat,3
+2023-01-26,Ring 2,3
+2023-01-26,Roku,3
+2023-01-26,VOXR,2
+2023-01-26,Youtube,7
+2023-01-26,Regal,2
+2023-01-27,Barrington,4
+2023-01-27,Channel Edge,4
+2023-01-27,Google,10
+2023-01-27,Lucent,2
+2023-01-27,O2C,5
+2023-01-27,Other,1
+2023-01-27,Policy Chat,1
+2023-01-27,Ring 2,2
+2023-01-27,Roku,1
+2023-01-27,VOXR,2
+2023-01-27,Youtube,3
+2023-01-27,Regal,1
+2023-01-28,Barrington,1
+2023-01-28,Channel Edge,4
+2023-01-28,Google,11
+2023-01-28,Lucent,3
+2023-01-28,O2C,3
+2023-01-28,Other,1
+2023-01-28,Policy Chat,1
+2023-01-28,Ring 2,3
+2023-01-28,Roku,1
+2023-01-28,VOXR,5
+2023-01-28,Youtube,9
+2023-01-28,Regal,1
+2023-01-29,Barrington,2
+2023-01-29,Channel Edge,2
+2023-01-29,Google,9
+2023-01-29,Lucent,1
+2023-01-29,O2C,1
+2023-01-29,Other,1
+2023-01-29,Policy Chat,5
+2023-01-29,Ring 2,2
+2023-01-29,Roku,6
+2023-01-29,VOXR,1
+2023-01-29,Youtube,4
+2023-01-29,Regal,1
+2023-01-30,Barrington,5
+2023-01-30,Channel Edge,1
+2023-01-30,Google,5
+2023-01-30,Lucent,2
+2023-01-30,O2C,9
+2023-01-30,Other,3
+2023-01-30,Policy Chat,1
+2023-01-30,Ring 2,3
+2023-01-30,Roku,6
+2023-01-30,VOXR,1
+2023-01-30,Youtube,7
+2023-01-30,Regal,3
+2023-01-31,Barrington,5
+2023-01-31,Channel Edge,5
+2023-01-31,Google,9
+2023-01-31,Lucent,2
+2023-01-31,O2C,7
+2023-01-31,Other,1
+2023-01-31,Policy Chat,3
+2023-01-31,Ring 2,2
+2023-01-31,Roku,1
+2023-01-31,VOXR,1
+2023-01-31,Youtube,5
+2023-01-31,Regal,1
+2023-02-01,Barrington,3
+2023-02-01,Channel Edge,3
+2023-02-01,Google,10
+2023-02-01,Lucent,4
+2023-02-01,O2C,5
+2023-02-01,Other,1
+2023-02-01,Policy Chat,1
+2023-02-01,Ring 2,1
+2023-02-01,Roku,6
+2023-02-01,VOXR,2
+2023-02-01,Youtube,1
+2023-02-01,Regal,4
+2023-02-02,Barrington,2
+2023-02-02,Channel Edge,2
+2023-02-02,Google,11
+2023-02-02,Lucent,2
+2023-02-02,O2C,5
+2023-02-02,Other,1
+2023-02-02,Policy Chat,1
+2023-02-02,Ring 2,3
+2023-02-02,Roku,6
+2023-02-02,VOXR,1
+2023-02-02,Youtube,3
+2023-02-02,Regal,2
+2023-02-03,Barrington,5
+2023-02-03,Channel Edge,2
+2023-02-03,Google,9
+2023-02-03,Lucent,1
+2023-02-03,O2C,7
+2023-02-03,Other,1
+2023-02-03,Policy Chat,2
+2023-02-03,Ring 2,2
+2023-02-03,Roku,4
+2023-02-03,VOXR,1
+2023-02-03,Youtube,11
+2023-02-03,Regal,7
+2023-02-04,Barrington,4
+2023-02-04,Channel Edge,3
+2023-02-04,Google,9
+2023-02-04,Lucent,1
+2023-02-04,O2C,6
+2023-02-04,Other,1
+2023-02-04,Policy Chat,2
+2023-02-04,Ring 2,1
+2023-02-04,Roku,4
+2023-02-04,VOXR,2
+2023-02-04,Youtube,8
+2023-02-04,Regal,1
+2023-02-05,Barrington,7
+2023-02-05,Channel Edge,2
+2023-02-05,Google,1
+2023-02-05,Lucent,2
+2023-02-05,O2C,1
+2023-02-05,Other,2
+2023-02-05,Policy Chat,3
+2023-02-05,Ring 2,2
+2023-02-05,Roku,5
+2023-02-05,VOXR,2
+2023-02-05,Youtube,11
+2023-02-05,Regal,7
+2023-02-06,Barrington,4
+2023-02-06,Channel Edge,3
+2023-02-06,Google,8
+2023-02-06,Lucent,3
+2023-02-06,O2C,6
+2023-02-06,Other,2
+2023-02-06,Policy Chat,1
+2023-02-06,Ring 2,2
+2023-02-06,Roku,5
+2023-02-06,VOXR,1
+2023-02-06,Youtube,4
+2023-02-06,Regal,3
+2023-02-07,Barrington,3
+2023-02-07,Channel Edge,1
+2023-02-07,Google,6
+2023-02-07,Lucent,2
+2023-02-07,O2C,8
+2023-02-07,Other,1
+2023-02-07,Policy Chat,3
+2023-02-07,Ring 2,2
+2023-02-07,Roku,3
+2023-02-07,VOXR,1
+2023-02-07,Youtube,5
+2023-02-07,Regal,2
+2023-02-08,Barrington,3
+2023-02-08,Channel Edge,3
+2023-02-08,Google,13
+2023-02-08,Lucent,2
+2023-02-08,O2C,4
+2023-02-08,Other,2
+2023-02-08,Policy Chat,3
+2023-02-08,Ring 2,2
+2023-02-08,Roku,3
+2023-02-08,VOXR,4
+2023-02-08,Youtube,7
+2023-02-08,Regal,4
+2023-02-09,Barrington,3
+2023-02-09,Channel Edge,1
+2023-02-09,Google,7
+2023-02-09,Lucent,1
+2023-02-09,O2C,8
+2023-02-09,Other,1
+2023-02-09,Policy Chat,1
+2023-02-09,Ring 2,2
+2023-02-09,Roku,1
+2023-02-09,VOXR,3
+2023-02-09,Youtube,9
+2023-02-09,Regal,1
+2023-02-10,Barrington,2
+2023-02-10,Channel Edge,1
+2023-02-10,Google,9
+2023-02-10,Lucent,3
+2023-02-10,O2C,2
+2023-02-10,Other,1
+2023-02-10,Policy Chat,5
+2023-02-10,Ring 2,1
+2023-02-10,Roku,8
+2023-02-10,VOXR,1
+2023-02-10,Youtube,5
+2023-02-10,Regal,4
+2023-02-11,Barrington,3
+2023-02-11,Channel Edge,4
+2023-02-11,Google,5
+2023-02-11,Lucent,1
+2023-02-11,O2C,10
+2023-02-11,Other,2
+2023-02-11,Policy Chat,1
+2023-02-11,Ring 2,3
+2023-02-11,Roku,3
+2023-02-11,VOXR,6
+2023-02-11,Youtube,7
+2023-02-11,Regal,1
+2023-02-12,Barrington,5
+2023-02-12,Channel Edge,1
+2023-02-12,Google,7
+2023-02-12,Lucent,5
+2023-02-12,O2C,6
+2023-02-12,Other,4
+2023-02-12,Policy Chat,3
+2023-02-12,Ring 2,3
+2023-02-12,Roku,5
+2023-02-12,VOXR,1
+2023-02-12,Youtube,7
+2023-02-12,Regal,3
+2023-02-13,Barrington,4
+2023-02-13,Channel Edge,2
+2023-02-13,Google,7
+2023-02-13,Lucent,3
+2023-02-13,O2C,10
+2023-02-13,Other,2
+2023-02-13,Policy Chat,2
+2023-02-13,Ring 2,3
+2023-02-13,Roku,3
+2023-02-13,VOXR,2
+2023-02-13,Youtube,6
+2023-02-13,Regal,2
+2023-02-14,Barrington,3
+2023-02-14,Channel Edge,2
+2023-02-14,Google,6
+2023-02-14,Lucent,1
+2023-02-14,O2C,7
+2023-02-14,Other,3
+2023-02-14,Policy Chat,1
+2023-02-14,Ring 2,1
+2023-02-14,Roku,1
+2023-02-14,VOXR,1
+2023-02-14,Youtube,6
+2023-02-14,Regal,1
+2023-02-15,Barrington,4
+2023-02-15,Channel Edge,3
+2023-02-15,Google,11
+2023-02-15,Lucent,1
+2023-02-15,O2C,5
+2023-02-15,Other,3
+2023-02-15,Policy Chat,7
+2023-02-15,Ring 2,5
+2023-02-15,Roku,2
+2023-02-15,VOXR,1
+2023-02-15,Youtube,6
+2023-02-15,Regal,6
+2023-02-16,Barrington,2
+2023-02-16,Channel Edge,2
+2023-02-16,Google,6
+2023-02-16,Lucent,4
+2023-02-16,O2C,3
+2023-02-16,Other,1
+2023-02-16,Policy Chat,4
+2023-02-16,Ring 2,1
+2023-02-16,Roku,4
+2023-02-16,VOXR,2
+2023-02-16,Youtube,4
+2023-02-16,Regal,2
+2023-02-17,Barrington,4
+2023-02-17,Channel Edge,4
+2023-02-17,Google,7
+2023-02-17,Lucent,1
+2023-02-17,O2C,11
+2023-02-17,Other,2
+2023-02-17,Policy Chat,5
+2023-02-17,Ring 2,2
+2023-02-17,Roku,1
+2023-02-17,VOXR,4
+2023-02-17,Youtube,4
+2023-02-17,Regal,3
+2023-02-18,Barrington,3
+2023-02-18,Channel Edge,1
+2023-02-18,Google,5
+2023-02-18,Lucent,3
+2023-02-18,O2C,4
+2023-02-18,Other,3
+2023-02-18,Policy Chat,4
+2023-02-18,Ring 2,2
+2023-02-18,Roku,3
+2023-02-18,VOXR,1
+2023-02-18,Youtube,5
+2023-02-18,Regal,1
+2023-02-19,Barrington,4
+2023-02-19,Channel Edge,2
+2023-02-19,Google,11
+2023-02-19,Lucent,2
+2023-02-19,O2C,9
+2023-02-19,Other,2
+2023-02-19,Policy Chat,6
+2023-02-19,Ring 2,2
+2023-02-19,Roku,3
+2023-02-19,VOXR,1
+2023-02-19,Youtube,5
+2023-02-19,Regal,2
+2023-02-20,Barrington,4
+2023-02-20,Channel Edge,2
+2023-02-20,Google,9
+2023-02-20,Lucent,2
+2023-02-20,O2C,5
+2023-02-20,Other,1
+2023-02-20,Policy Chat,3
+2023-02-20,Ring 2,1
+2023-02-20,Roku,4
+2023-02-20,VOXR,1
+2023-02-20,Youtube,4
+2023-02-20,Regal,2
+2023-02-21,Barrington,3
+2023-02-21,Channel Edge,6
+2023-02-21,Google,8
+2023-02-21,Lucent,1
+2023-02-21,O2C,5
+2023-02-21,Other,1
+2023-02-21,Policy Chat,5
+2023-02-21,Ring 2,2
+2023-02-21,Roku,2
+2023-02-21,VOXR,3
+2023-02-21,Youtube,4
+2023-02-21,Regal,4
+2023-02-22,Barrington,6
+2023-02-22,Channel Edge,2
+2023-02-22,Google,8
+2023-02-22,Lucent,3
+2023-02-22,O2C,5
+2023-02-22,Other,4
+2023-02-22,Policy Chat,5
+2023-02-22,Ring 2,6
+2023-02-22,Roku,2
+2023-02-22,VOXR,1
+2023-02-22,Youtube,4
+2023-02-22,Regal,6
+2023-02-23,Barrington,6
+2023-02-23,Channel Edge,2
+2023-02-23,Google,5
+2023-02-23,Lucent,2
+2023-02-23,O2C,3
+2023-02-23,Other,1
+2023-02-23,Policy Chat,1
+2023-02-23,Ring 2,1
+2023-02-23,Roku,2
+2023-02-23,VOXR,4
+2023-02-23,Youtube,2
+2023-02-23,Regal,2
+2023-02-24,Barrington,1
+2023-02-24,Channel Edge,2
+2023-02-24,Google,11
+2023-02-24,Lucent,3
+2023-02-24,O2C,7
+2023-02-24,Other,2
+2023-02-24,Policy Chat,2
+2023-02-24,Ring 2,2
+2023-02-24,Roku,3
+2023-02-24,VOXR,1
+2023-02-24,Youtube,9
+2023-02-24,Regal,2
+2023-02-25,Barrington,2
+2023-02-25,Channel Edge,3
+2023-02-25,Google,11
+2023-02-25,Lucent,2
+2023-02-25,O2C,3
+2023-02-25,Other,2
+2023-02-25,Policy Chat,3
+2023-02-25,Ring 2,6
+2023-02-25,Roku,1
+2023-02-25,VOXR,1
+2023-02-25,Youtube,6
+2023-02-25,Regal,5
+2023-02-26,Barrington,5
+2023-02-26,Channel Edge,2
+2023-02-26,Google,12
+2023-02-26,Lucent,4
+2023-02-26,O2C,8
+2023-02-26,Other,4
+2023-02-26,Policy Chat,3
+2023-02-26,Ring 2,1
+2023-02-26,Roku,3
+2023-02-26,VOXR,3
+2023-02-26,Youtube,9
+2023-02-26,Regal,2
+2023-02-27,Barrington,3
+2023-02-27,Channel Edge,2
+2023-02-27,Google,10
+2023-02-27,Lucent,3
+2023-02-27,O2C,8
+2023-02-27,Other,1
+2023-02-27,Policy Chat,3
+2023-02-27,Ring 2,1
+2023-02-27,Roku,4
+2023-02-27,VOXR,2
+2023-02-27,Youtube,3
+2023-02-27,Regal,4
+2023-02-28,Barrington,3
+2023-02-28,Channel Edge,3
+2023-02-28,Google,6
+2023-02-28,Lucent,1
+2023-02-28,O2C,3
+2023-02-28,Other,1
+2023-02-28,Policy Chat,4
+2023-02-28,Ring 2,2
+2023-02-28,Roku,6
+2023-02-28,VOXR,1
+2023-02-28,Youtube,6
+2023-02-28,Regal,1
+2023-03-01,Barrington,3
+2023-03-01,Channel Edge,2
+2023-03-01,Google,9
+2023-03-01,Lucent,2
+2023-03-01,O2C,6
+2023-03-01,Other,1
+2023-03-01,Policy Chat,2
+2023-03-01,Ring 2,2
+2023-03-01,Roku,1
+2023-03-01,VOXR,1
+2023-03-01,Youtube,4
+2023-03-01,Regal,2
+2023-03-02,Barrington,3
+2023-03-02,Channel Edge,4
+2023-03-02,Google,15
+2023-03-02,Lucent,4
+2023-03-02,O2C,9
+2023-03-02,Other,2
+2023-03-02,Policy Chat,7
+2023-03-02,Ring 2,3
+2023-03-02,Roku,3
+2023-03-02,VOXR,6
+2023-03-02,Youtube,4
+2023-03-02,Regal,3
+2023-03-03,Barrington,5
+2023-03-03,Channel Edge,5
+2023-03-03,Google,5
+2023-03-03,Lucent,1
+2023-03-03,O2C,3
+2023-03-03,Other,4
+2023-03-03,Policy Chat,1
+2023-03-03,Ring 2,3
+2023-03-03,Roku,7
+2023-03-03,VOXR,2
+2023-03-03,Youtube,5
+2023-03-03,Regal,5
+2023-03-04,Barrington,2
+2023-03-04,Channel Edge,2
+2023-03-04,Google,7
+2023-03-04,Lucent,1
+2023-03-04,O2C,3
+2023-03-04,Other,2
+2023-03-04,Policy Chat,3
+2023-03-04,Ring 2,1
+2023-03-04,Roku,7
+2023-03-04,VOXR,1
+2023-03-04,Youtube,8
+2023-03-04,Regal,2
+2023-03-05,Barrington,4
+2023-03-05,Channel Edge,2
+2023-03-05,Google,12
+2023-03-05,Lucent,2
+2023-03-05,O2C,5
+2023-03-05,Other,1
+2023-03-05,Policy Chat,3
+2023-03-05,Ring 2,3
+2023-03-05,Roku,4
+2023-03-05,VOXR,1
+2023-03-05,Youtube,10
+2023-03-05,Regal,5
+2023-03-06,Barrington,3
+2023-03-06,Channel Edge,3
+2023-03-06,Google,12
+2023-03-06,Lucent,3
+2023-03-06,O2C,10
+2023-03-06,Other,2
+2023-03-06,Policy Chat,1
+2023-03-06,Ring 2,3
+2023-03-06,Roku,3
+2023-03-06,VOXR,3
+2023-03-06,Youtube,4
+2023-03-06,Regal,1
+2023-03-07,Barrington,4
+2023-03-07,Channel Edge,3
+2023-03-07,Google,15
+2023-03-07,Lucent,2
+2023-03-07,O2C,5
+2023-03-07,Other,1
+2023-03-07,Policy Chat,1
+2023-03-07,Ring 2,2
+2023-03-07,Roku,2
+2023-03-07,VOXR,2
+2023-03-07,Youtube,8
+2023-03-07,Regal,6
+2023-03-08,Barrington,6
+2023-03-08,Channel Edge,2
+2023-03-08,Google,10
+2023-03-08,Lucent,1
+2023-03-08,O2C,7
+2023-03-08,Other,2
+2023-03-08,Policy Chat,3
+2023-03-08,Ring 2,2
+2023-03-08,Roku,6
+2023-03-08,VOXR,1
+2023-03-08,Youtube,5
+2023-03-08,Regal,2
+2023-03-09,Barrington,3
+2023-03-09,Channel Edge,2
+2023-03-09,Google,17
+2023-03-09,Lucent,1
+2023-03-09,O2C,7
+2023-03-09,Other,3
+2023-03-09,Policy Chat,5
+2023-03-09,Ring 2,2
+2023-03-09,Roku,5
+2023-03-09,VOXR,1
+2023-03-09,Youtube,6
+2023-03-09,Regal,3
+2023-03-10,Barrington,2
+2023-03-10,Channel Edge,2
+2023-03-10,Google,13
+2023-03-10,Lucent,1
+2023-03-10,O2C,5
+2023-03-10,Other,3
+2023-03-10,Policy Chat,2
+2023-03-10,Ring 2,1
+2023-03-10,Roku,6
+2023-03-10,VOXR,3
+2023-03-10,Youtube,7
+2023-03-10,Regal,4
+2023-03-11,Barrington,3
+2023-03-11,Channel Edge,4
+2023-03-11,Google,13
+2023-03-11,Lucent,1
+2023-03-11,O2C,7
+2023-03-11,Other,1
+2023-03-11,Policy Chat,1
+2023-03-11,Ring 2,2
+2023-03-11,Roku,1
+2023-03-11,VOXR,2
+2023-03-11,Youtube,6
+2023-03-11,Regal,3
+2023-03-12,Barrington,5
+2023-03-12,Channel Edge,1
+2023-03-12,Google,15
+2023-03-12,Lucent,1
+2023-03-12,O2C,7
+2023-03-12,Other,2
+2023-03-12,Policy Chat,2
+2023-03-12,Ring 2,3
+2023-03-12,Roku,1
+2023-03-12,VOXR,1
+2023-03-12,Youtube,4
+2023-03-12,Regal,4
+2023-03-13,Barrington,10
+2023-03-13,Channel Edge,4
+2023-03-13,Google,16
+2023-03-13,Lucent,1
+2023-03-13,O2C,6
+2023-03-13,Other,1
+2023-03-13,Policy Chat,2
+2023-03-13,Ring 2,2
+2023-03-13,Roku,7
+2023-03-13,VOXR,2
+2023-03-13,Youtube,7
+2023-03-13,Regal,6
+2023-03-14,Barrington,2
+2023-03-14,Channel Edge,5
+2023-03-14,Google,11
+2023-03-14,Lucent,2
+2023-03-14,O2C,7
+2023-03-14,Other,1
+2023-03-14,Policy Chat,4
+2023-03-14,Ring 2,3
+2023-03-14,Roku,4
+2023-03-14,VOXR,4
+2023-03-14,Youtube,6
+2023-03-14,Regal,2
+2023-03-15,Barrington,4
+2023-03-15,Channel Edge,2
+2023-03-15,Google,12
+2023-03-15,Lucent,3
+2023-03-15,O2C,7
+2023-03-15,Other,1
+2023-03-15,Policy Chat,4
+2023-03-15,Ring 2,2
+2023-03-15,Roku,5
+2023-03-15,VOXR,3
+2023-03-15,Youtube,7
+2023-03-15,Regal,1
+2023-03-16,Barrington,1
+2023-03-16,Channel Edge,2
+2023-03-16,Google,10
+2023-03-16,Lucent,2
+2023-03-16,O2C,6
+2023-03-16,Other,3
+2023-03-16,Policy Chat,2
+2023-03-16,Ring 2,2
+2023-03-16,Roku,3
+2023-03-16,VOXR,2
+2023-03-16,Youtube,6
+2023-03-16,Regal,6
+2023-03-17,Barrington,6
+2023-03-17,Channel Edge,3
+2023-03-17,Google,17
+2023-03-17,Lucent,1
+2023-03-17,O2C,7
+2023-03-17,Other,1
+2023-03-17,Policy Chat,3
+2023-03-17,Ring 2,2
+2023-03-17,Roku,1
+2023-03-17,VOXR,2
+2023-03-17,Youtube,4
+2023-03-17,Regal,2
+2023-03-18,Barrington,3
+2023-03-18,Channel Edge,4
+2023-03-18,Google,13
+2023-03-18,Lucent,3
+2023-03-18,O2C,4
+2023-03-18,Other,1
+2023-03-18,Policy Chat,3
+2023-03-18,Ring 2,1
+2023-03-18,Roku,4
+2023-03-18,VOXR,1
+2023-03-18,Youtube,6
+2023-03-18,Regal,1
+2023-03-19,Barrington,1
+2023-03-19,Channel Edge,1
+2023-03-19,Google,7
+2023-03-19,Lucent,1
+2023-03-19,O2C,6
+2023-03-19,Other,1
+2023-03-19,Policy Chat,3
+2023-03-19,Ring 2,1
+2023-03-19,Roku,6
+2023-03-19,VOXR,2
+2023-03-19,Youtube,3
+2023-03-19,Regal,3
+2023-03-20,Barrington,5
+2023-03-20,Channel Edge,1
+2023-03-20,Google,11
+2023-03-20,Lucent,2
+2023-03-20,O2C,8
+2023-03-20,Other,2
+2023-03-20,Policy Chat,4
+2023-03-20,Ring 2,3
+2023-03-20,Roku,5
+2023-03-20,VOXR,2
+2023-03-20,Youtube,4
+2023-03-20,Regal,3
+2023-03-21,Barrington,4
+2023-03-21,Channel Edge,4
+2023-03-21,Google,10
+2023-03-21,Lucent,1
+2023-03-21,O2C,9
+2023-03-21,Other,1
+2023-03-21,Policy Chat,4
+2023-03-21,Ring 2,4
+2023-03-21,Roku,6
+2023-03-21,VOXR,2
+2023-03-21,Youtube,9
+2023-03-21,Regal,3
+2023-03-22,Barrington,7
+2023-03-22,Channel Edge,1
+2023-03-22,Google,10
+2023-03-22,Lucent,2
+2023-03-22,O2C,5
+2023-03-22,Other,1
+2023-03-22,Policy Chat,8
+2023-03-22,Ring 2,2
+2023-03-22,Roku,6
+2023-03-22,VOXR,1
+2023-03-22,Youtube,4
+2023-03-22,Regal,3
+2023-03-23,Barrington,7
+2023-03-23,Channel Edge,1
+2023-03-23,Google,9
+2023-03-23,Lucent,3
+2023-03-23,O2C,6
+2023-03-23,Other,1
+2023-03-23,Policy Chat,2
+2023-03-23,Ring 2,2
+2023-03-23,Roku,4
+2023-03-23,VOXR,1
+2023-03-23,Youtube,7
+2023-03-23,Regal,4
+2023-03-24,Barrington,5
+2023-03-24,Channel Edge,1
+2023-03-24,Google,8
+2023-03-24,Lucent,1
+2023-03-24,O2C,6
+2023-03-24,Other,2
+2023-03-24,Policy Chat,5
+2023-03-24,Ring 2,3
+2023-03-24,Roku,5
+2023-03-24,VOXR,1
+2023-03-24,Youtube,9
+2023-03-24,Regal,1
+2023-03-25,Barrington,6
+2023-03-25,Channel Edge,1
+2023-03-25,Google,8
+2023-03-25,Lucent,5
+2023-03-25,O2C,11
+2023-03-25,Other,2
+2023-03-25,Policy Chat,3
+2023-03-25,Ring 2,1
+2023-03-25,Roku,6
+2023-03-25,VOXR,3
+2023-03-25,Youtube,4
+2023-03-25,Regal,4
+2023-03-26,Barrington,6
+2023-03-26,Channel Edge,2
+2023-03-26,Google,3
+2023-03-26,Lucent,7
+2023-03-26,O2C,5
+2023-03-26,Other,3
+2023-03-26,Policy Chat,2
+2023-03-26,Ring 2,1
+2023-03-26,Roku,7
+2023-03-26,VOXR,2
+2023-03-26,Youtube,8
+2023-03-26,Regal,2
+2023-03-27,Barrington,3
+2023-03-27,Channel Edge,2
+2023-03-27,Google,18
+2023-03-27,Lucent,1
+2023-03-27,O2C,6
+2023-03-27,Other,1
+2023-03-27,Policy Chat,4
+2023-03-27,Ring 2,6
+2023-03-27,Roku,2
+2023-03-27,VOXR,1
+2023-03-27,Youtube,7
+2023-03-27,Regal,3
+2023-03-28,Barrington,2
+2023-03-28,Channel Edge,2
+2023-03-28,Google,10
+2023-03-28,Lucent,3
+2023-03-28,O2C,4
+2023-03-28,Other,1
+2023-03-28,Policy Chat,5
+2023-03-28,Ring 2,1
+2023-03-28,Roku,3
+2023-03-28,VOXR,4
+2023-03-28,Youtube,8
+2023-03-28,Regal,6
+2023-03-29,Barrington,5
+2023-03-29,Channel Edge,2
+2023-03-29,Google,14
+2023-03-29,Lucent,5
+2023-03-29,O2C,9
+2023-03-29,Other,3
+2023-03-29,Policy Chat,2
+2023-03-29,Ring 2,4
+2023-03-29,Roku,7
+2023-03-29,VOXR,1
+2023-03-29,Youtube,4
+2023-03-29,Regal,4
+2023-03-30,Barrington,1
+2023-03-30,Channel Edge,2
+2023-03-30,Google,9
+2023-03-30,Lucent,1
+2023-03-30,O2C,10
+2023-03-30,Other,1
+2023-03-30,Policy Chat,3
+2023-03-30,Ring 2,3
+2023-03-30,Roku,6
+2023-03-30,VOXR,3
+2023-03-30,Youtube,8
+2023-03-30,Regal,3
+2023-03-31,Barrington,3
+2023-03-31,Channel Edge,1
+2023-03-31,Google,13
+2023-03-31,Lucent,3
+2023-03-31,O2C,8
+2023-03-31,Other,1
+2023-03-31,Policy Chat,2
+2023-03-31,Ring 2,2
+2023-03-31,Roku,4
+2023-03-31,VOXR,4
+2023-03-31,Youtube,2
+2023-03-31,Regal,7
+2023-04-01,Barrington,1
+2023-04-01,Channel Edge,5
+2023-04-01,Google,4
+2023-04-01,Lucent,2
+2023-04-01,O2C,5
+2023-04-01,Other,2
+2023-04-01,Policy Chat,3
+2023-04-01,Ring 2,4
+2023-04-01,Roku,1
+2023-04-01,VOXR,2
+2023-04-01,Youtube,7
+2023-04-01,Regal,1
+2023-04-02,Barrington,2
+2023-04-02,Channel Edge,2
+2023-04-02,Google,8
+2023-04-02,Lucent,4
+2023-04-02,O2C,9
+2023-04-02,Other,1
+2023-04-02,Policy Chat,5
+2023-04-02,Ring 2,4
+2023-04-02,Roku,4
+2023-04-02,VOXR,1
+2023-04-02,Youtube,7
+2023-04-02,Regal,3
+2023-04-03,Barrington,3
+2023-04-03,Channel Edge,2
+2023-04-03,Google,7
+2023-04-03,Lucent,3
+2023-04-03,O2C,6
+2023-04-03,Other,2
+2023-04-03,Policy Chat,2
+2023-04-03,Ring 2,1
+2023-04-03,Roku,1
+2023-04-03,VOXR,2
+2023-04-03,Youtube,9
+2023-04-03,Regal,4
+2023-04-04,Barrington,2
+2023-04-04,Channel Edge,2
+2023-04-04,Google,10
+2023-04-04,Lucent,2
+2023-04-04,O2C,7
+2023-04-04,Other,3
+2023-04-04,Policy Chat,6
+2023-04-04,Ring 2,2
+2023-04-04,Roku,5
+2023-04-04,VOXR,1
+2023-04-04,Youtube,8
+2023-04-04,Regal,1
+2023-04-05,Barrington,7
+2023-04-05,Channel Edge,4
+2023-04-05,Google,11
+2023-04-05,Lucent,1
+2023-04-05,O2C,3
+2023-04-05,Other,1
+2023-04-05,Policy Chat,5
+2023-04-05,Ring 2,3
+2023-04-05,Roku,4
+2023-04-05,VOXR,2
+2023-04-05,Youtube,6
+2023-04-05,Regal,4
+2023-04-06,Barrington,9
+2023-04-06,Channel Edge,1
+2023-04-06,Google,9
+2023-04-06,Lucent,1
+2023-04-06,O2C,3
+2023-04-06,Other,3
+2023-04-06,Policy Chat,4
+2023-04-06,Ring 2,5
+2023-04-06,Roku,3
+2023-04-06,VOXR,1
+2023-04-06,Youtube,6
+2023-04-06,Regal,3
+2023-04-07,Barrington,3
+2023-04-07,Channel Edge,2
+2023-04-07,Google,8
+2023-04-07,Lucent,3
+2023-04-07,O2C,7
+2023-04-07,Other,1
+2023-04-07,Policy Chat,3
+2023-04-07,Ring 2,3
+2023-04-07,Roku,2
+2023-04-07,VOXR,3
+2023-04-07,Youtube,7
+2023-04-07,Regal,1
+2023-04-08,Barrington,4
+2023-04-08,Channel Edge,1
+2023-04-08,Google,11
+2023-04-08,Lucent,1
+2023-04-08,O2C,3
+2023-04-08,Other,1
+2023-04-08,Policy Chat,1
+2023-04-08,Ring 2,4
+2023-04-08,Roku,7
+2023-04-08,VOXR,2
+2023-04-08,Youtube,7
+2023-04-08,Regal,1
+2023-04-09,Barrington,6
+2023-04-09,Channel Edge,3
+2023-04-09,Google,15
+2023-04-09,Lucent,3
+2023-04-09,O2C,6
+2023-04-09,Other,1
+2023-04-09,Policy Chat,6
+2023-04-09,Ring 2,2
+2023-04-09,Roku,4
+2023-04-09,VOXR,1
+2023-04-09,Youtube,6
+2023-04-09,Regal,5
+2023-04-10,Barrington,6
+2023-04-10,Channel Edge,4
+2023-04-10,Google,11
+2023-04-10,Lucent,1
+2023-04-10,O2C,2
+2023-04-10,Other,2
+2023-04-10,Policy Chat,4
+2023-04-10,Ring 2,6
+2023-04-10,Roku,2
+2023-04-10,VOXR,1
+2023-04-10,Youtube,7
+2023-04-10,Regal,5
+2023-04-11,Barrington,5
+2023-04-11,Channel Edge,3
+2023-04-11,Google,14
+2023-04-11,Lucent,3
+2023-04-11,O2C,5
+2023-04-11,Other,1
+2023-04-11,Policy Chat,5
+2023-04-11,Ring 2,3
+2023-04-11,Roku,6
+2023-04-11,VOXR,1
+2023-04-11,Youtube,11
+2023-04-11,Regal,3
+2023-04-12,Barrington,6
+2023-04-12,Channel Edge,2
+2023-04-12,Google,11
+2023-04-12,Lucent,1
+2023-04-12,O2C,9
+2023-04-12,Other,1
+2023-04-12,Policy Chat,3
+2023-04-12,Ring 2,3
+2023-04-12,Roku,4
+2023-04-12,VOXR,2
+2023-04-12,Youtube,7
+2023-04-12,Regal,5
+2023-04-13,Barrington,4
+2023-04-13,Channel Edge,4
+2023-04-13,Google,9
+2023-04-13,Lucent,2
+2023-04-13,O2C,7
+2023-04-13,Other,1
+2023-04-13,Policy Chat,2
+2023-04-13,Ring 2,3
+2023-04-13,Roku,6
+2023-04-13,VOXR,4
+2023-04-13,Youtube,3
+2023-04-13,Regal,2
+2023-04-14,Barrington,6
+2023-04-14,Channel Edge,2
+2023-04-14,Google,13
+2023-04-14,Lucent,2
+2023-04-14,O2C,5
+2023-04-14,Other,2
+2023-04-14,Policy Chat,5
+2023-04-14,Ring 2,2
+2023-04-14,Roku,6
+2023-04-14,VOXR,5
+2023-04-14,Youtube,8
+2023-04-14,Regal,3
+2023-04-15,Barrington,3
+2023-04-15,Channel Edge,2
+2023-04-15,Google,10
+2023-04-15,Lucent,1
+2023-04-15,O2C,9
+2023-04-15,Other,5
+2023-04-15,Policy Chat,6
+2023-04-15,Ring 2,3
+2023-04-15,Roku,1
+2023-04-15,VOXR,1
+2023-04-15,Youtube,2
+2023-04-15,Regal,2
+2023-04-16,Barrington,3
+2023-04-16,Channel Edge,2
+2023-04-16,Google,13
+2023-04-16,Lucent,1
+2023-04-16,O2C,12
+2023-04-16,Other,1
+2023-04-16,Policy Chat,2
+2023-04-16,Ring 2,3
+2023-04-16,Roku,6
+2023-04-16,VOXR,2
+2023-04-16,Youtube,6
+2023-04-16,Regal,1
+2023-04-17,Barrington,6
+2023-04-17,Channel Edge,2
+2023-04-17,Google,11
+2023-04-17,Lucent,2
+2023-04-17,O2C,11
+2023-04-17,Other,1
+2023-04-17,Policy Chat,2
+2023-04-17,Ring 2,3
+2023-04-17,Roku,7
+2023-04-17,VOXR,2
+2023-04-17,Youtube,3
+2023-04-17,Regal,7
+2023-04-18,Barrington,7
+2023-04-18,Channel Edge,3
+2023-04-18,Google,15
+2023-04-18,Lucent,1
+2023-04-18,O2C,6
+2023-04-18,Other,3
+2023-04-18,Policy Chat,2
+2023-04-18,Ring 2,1
+2023-04-18,Roku,2
+2023-04-18,VOXR,2
+2023-04-18,Youtube,5
+2023-04-18,Regal,4
+2023-04-19,Barrington,4
+2023-04-19,Channel Edge,3
+2023-04-19,Google,8
+2023-04-19,Lucent,1
+2023-04-19,O2C,10
+2023-04-19,Other,3
+2023-04-19,Policy Chat,6
+2023-04-19,Ring 2,3
+2023-04-19,Roku,3
+2023-04-19,VOXR,1
+2023-04-19,Youtube,6
+2023-04-19,Regal,2
+2023-04-20,Barrington,3
+2023-04-20,Channel Edge,3
+2023-04-20,Google,7
+2023-04-20,Lucent,3
+2023-04-20,O2C,9
+2023-04-20,Other,2
+2023-04-20,Policy Chat,3
+2023-04-20,Ring 2,1
+2023-04-20,Roku,4
+2023-04-20,VOXR,2
+2023-04-20,Youtube,5
+2023-04-20,Regal,4
+2023-04-21,Barrington,4
+2023-04-21,Channel Edge,2
+2023-04-21,Google,10
+2023-04-21,Lucent,1
+2023-04-21,O2C,7
+2023-04-21,Other,1
+2023-04-21,Policy Chat,1
+2023-04-21,Ring 2,2
+2023-04-21,Roku,6
+2023-04-21,VOXR,1
+2023-04-21,Youtube,10
+2023-04-21,Regal,2
+2023-04-22,Barrington,5
+2023-04-22,Channel Edge,3
+2023-04-22,Google,10
+2023-04-22,Lucent,1
+2023-04-22,O2C,11
+2023-04-22,Other,3
+2023-04-22,Policy Chat,3
+2023-04-22,Ring 2,2
+2023-04-22,Roku,2
+2023-04-22,VOXR,4
+2023-04-22,Youtube,4
+2023-04-22,Regal,2
+2023-04-23,Barrington,3
+2023-04-23,Channel Edge,4
+2023-04-23,Google,11
+2023-04-23,Lucent,1
+2023-04-23,O2C,3
+2023-04-23,Other,1
+2023-04-23,Policy Chat,2
+2023-04-23,Ring 2,5
+2023-04-23,Roku,3
+2023-04-23,VOXR,1
+2023-04-23,Youtube,7
+2023-04-23,Regal,4
+2023-04-24,Barrington,4
+2023-04-24,Channel Edge,4
+2023-04-24,Google,13
+2023-04-24,Lucent,2
+2023-04-24,O2C,7
+2023-04-24,Other,3
+2023-04-24,Policy Chat,2
+2023-04-24,Ring 2,5
+2023-04-24,Roku,10
+2023-04-24,VOXR,2
+2023-04-24,Youtube,9
+2023-04-24,Regal,4
+2023-04-25,Barrington,2
+2023-04-25,Channel Edge,6
+2023-04-25,Google,7
+2023-04-25,Lucent,1
+2023-04-25,O2C,5
+2023-04-25,Other,4
+2023-04-25,Policy Chat,2
+2023-04-25,Ring 2,2
+2023-04-25,Roku,6
+2023-04-25,VOXR,3
+2023-04-25,Youtube,5
+2023-04-25,Regal,5
+2023-04-26,Barrington,5
+2023-04-26,Channel Edge,5
+2023-04-26,Google,11
+2023-04-26,Lucent,2
+2023-04-26,O2C,5
+2023-04-26,Other,1
+2023-04-26,Policy Chat,2
+2023-04-26,Ring 2,3
+2023-04-26,Roku,1
+2023-04-26,VOXR,1
+2023-04-26,Youtube,14
+2023-04-26,Regal,3
+2023-04-27,Barrington,3
+2023-04-27,Channel Edge,2
+2023-04-27,Google,13
+2023-04-27,Lucent,3
+2023-04-27,O2C,11
+2023-04-27,Other,1
+2023-04-27,Policy Chat,5
+2023-04-27,Ring 2,3
+2023-04-27,Roku,3
+2023-04-27,VOXR,2
+2023-04-27,Youtube,6
+2023-04-27,Regal,5
+2023-04-28,Barrington,5
+2023-04-28,Channel Edge,1
+2023-04-28,Google,9
+2023-04-28,Lucent,2
+2023-04-28,O2C,5
+2023-04-28,Other,3
+2023-04-28,Policy Chat,7
+2023-04-28,Ring 2,2
+2023-04-28,Roku,2
+2023-04-28,VOXR,1
+2023-04-28,Youtube,6
+2023-04-28,Regal,4
+2023-04-29,Barrington,10
+2023-04-29,Channel Edge,1
+2023-04-29,Google,12
+2023-04-29,Lucent,1
+2023-04-29,O2C,9
+2023-04-29,Other,1
+2023-04-29,Policy Chat,2
+2023-04-29,Ring 2,2
+2023-04-29,Roku,6
+2023-04-29,VOXR,3
+2023-04-29,Youtube,6
+2023-04-29,Regal,5
+2023-04-30,Barrington,5
+2023-04-30,Channel Edge,5
+2023-04-30,Google,4
+2023-04-30,Lucent,1
+2023-04-30,O2C,6
+2023-04-30,Other,1
+2023-04-30,Policy Chat,2
+2023-04-30,Ring 2,1
+2023-04-30,Roku,1
+2023-04-30,VOXR,2
+2023-04-30,Youtube,9
+2023-04-30,Regal,4
+2023-05-01,Barrington,3
+2023-05-01,Channel Edge,1
+2023-05-01,Google,11
+2023-05-01,Lucent,3
+2023-05-01,O2C,6
+2023-05-01,Other,1
+2023-05-01,Policy Chat,2
+2023-05-01,Ring 2,3
+2023-05-01,Roku,4
+2023-05-01,VOXR,2
+2023-05-01,Youtube,12
+2023-05-01,Regal,1
+2023-05-02,Barrington,4
+2023-05-02,Channel Edge,2
+2023-05-02,Google,14
+2023-05-02,Lucent,3
+2023-05-02,O2C,7
+2023-05-02,Other,3
+2023-05-02,Policy Chat,2
+2023-05-02,Ring 2,2
+2023-05-02,Roku,6
+2023-05-02,VOXR,1
+2023-05-02,Youtube,11
+2023-05-02,Regal,2
+2023-05-03,Barrington,7
+2023-05-03,Channel Edge,5
+2023-05-03,Google,9
+2023-05-03,Lucent,2
+2023-05-03,O2C,11
+2023-05-03,Other,4
+2023-05-03,Policy Chat,3
+2023-05-03,Ring 2,1
+2023-05-03,Roku,4
+2023-05-03,VOXR,3
+2023-05-03,Youtube,6
+2023-05-03,Regal,5
+2023-05-04,Barrington,5
+2023-05-04,Channel Edge,2
+2023-05-04,Google,3
+2023-05-04,Lucent,3
+2023-05-04,O2C,4
+2023-05-04,Other,4
+2023-05-04,Policy Chat,5
+2023-05-04,Ring 2,5
+2023-05-04,Roku,4
+2023-05-04,VOXR,2
+2023-05-04,Youtube,10
+2023-05-04,Regal,1
+2023-05-05,Barrington,3
+2023-05-05,Channel Edge,5
+2023-05-05,Google,11
+2023-05-05,Lucent,4
+2023-05-05,O2C,5
+2023-05-05,Other,4
+2023-05-05,Policy Chat,1
+2023-05-05,Ring 2,1
+2023-05-05,Roku,1
+2023-05-05,VOXR,1
+2023-05-05,Youtube,9
+2023-05-05,Regal,2
+2023-05-06,Barrington,9
+2023-05-06,Channel Edge,4
+2023-05-06,Google,13
+2023-05-06,Lucent,1
+2023-05-06,O2C,8
+2023-05-06,Other,3
+2023-05-06,Policy Chat,2
+2023-05-06,Ring 2,2
+2023-05-06,Roku,3
+2023-05-06,VOXR,1
+2023-05-06,Youtube,3
+2023-05-06,Regal,3
+2023-05-07,Barrington,5
+2023-05-07,Channel Edge,2
+2023-05-07,Google,17
+2023-05-07,Lucent,4
+2023-05-07,O2C,7
+2023-05-07,Other,1
+2023-05-07,Policy Chat,4
+2023-05-07,Ring 2,1
+2023-05-07,Roku,6
+2023-05-07,VOXR,2
+2023-05-07,Youtube,7
+2023-05-07,Regal,2
+2023-05-08,Barrington,6
+2023-05-08,Channel Edge,2
+2023-05-08,Google,9
+2023-05-08,Lucent,1
+2023-05-08,O2C,10
+2023-05-08,Other,2
+2023-05-08,Policy Chat,1
+2023-05-08,Ring 2,1
+2023-05-08,Roku,5
+2023-05-08,VOXR,2
+2023-05-08,Youtube,9
+2023-05-08,Regal,2
+2023-05-09,Barrington,1
+2023-05-09,Channel Edge,3
+2023-05-09,Google,9
+2023-05-09,Lucent,2
+2023-05-09,O2C,6
+2023-05-09,Other,1
+2023-05-09,Policy Chat,3
+2023-05-09,Ring 2,3
+2023-05-09,Roku,6
+2023-05-09,VOXR,2
+2023-05-09,Youtube,8
+2023-05-09,Regal,7
+2023-05-10,Barrington,8
+2023-05-10,Channel Edge,1
+2023-05-10,Google,11
+2023-05-10,Lucent,1
+2023-05-10,O2C,8
+2023-05-10,Other,2
+2023-05-10,Policy Chat,6
+2023-05-10,Ring 2,3
+2023-05-10,Roku,7
+2023-05-10,VOXR,6
+2023-05-10,Youtube,6
+2023-05-10,Regal,5
+2023-05-11,Barrington,2
+2023-05-11,Channel Edge,3
+2023-05-11,Google,13
+2023-05-11,Lucent,1
+2023-05-11,O2C,2
+2023-05-11,Other,3
+2023-05-11,Policy Chat,1
+2023-05-11,Ring 2,5
+2023-05-11,Roku,6
+2023-05-11,VOXR,2
+2023-05-11,Youtube,10
+2023-05-11,Regal,3
+2023-05-12,Barrington,4
+2023-05-12,Channel Edge,6
+2023-05-12,Google,7
+2023-05-12,Lucent,2
+2023-05-12,O2C,11
+2023-05-12,Other,3
+2023-05-12,Policy Chat,5
+2023-05-12,Ring 2,3
+2023-05-12,Roku,7
+2023-05-12,VOXR,1
+2023-05-12,Youtube,10
+2023-05-12,Regal,7
+2023-05-13,Barrington,3
+2023-05-13,Channel Edge,2
+2023-05-13,Google,8
+2023-05-13,Lucent,1
+2023-05-13,O2C,8
+2023-05-13,Other,4
+2023-05-13,Policy Chat,3
+2023-05-13,Ring 2,2
+2023-05-13,Roku,4
+2023-05-13,VOXR,4
+2023-05-13,Youtube,8
+2023-05-13,Regal,3
+2023-05-14,Barrington,4
+2023-05-14,Channel Edge,3
+2023-05-14,Google,10
+2023-05-14,Lucent,3
+2023-05-14,O2C,7
+2023-05-14,Other,2
+2023-05-14,Policy Chat,3
+2023-05-14,Ring 2,3
+2023-05-14,Roku,4
+2023-05-14,VOXR,4
+2023-05-14,Youtube,8
+2023-05-14,Regal,1
+2023-05-15,Barrington,4
+2023-05-15,Channel Edge,7
+2023-05-15,Google,15
+2023-05-15,Lucent,3
+2023-05-15,O2C,7
+2023-05-15,Other,1
+2023-05-15,Policy Chat,4
+2023-05-15,Ring 2,4
+2023-05-15,Roku,3
+2023-05-15,VOXR,1
+2023-05-15,Youtube,8
+2023-05-15,Regal,1
+2023-05-16,Barrington,4
+2023-05-16,Channel Edge,3
+2023-05-16,Google,10
+2023-05-16,Lucent,2
+2023-05-16,O2C,3
+2023-05-16,Other,1
+2023-05-16,Policy Chat,2
+2023-05-16,Ring 2,1
+2023-05-16,Roku,7
+2023-05-16,VOXR,2
+2023-05-16,Youtube,12
+2023-05-16,Regal,8
+2023-05-17,Barrington,4
+2023-05-17,Channel Edge,5
+2023-05-17,Google,17
+2023-05-17,Lucent,1
+2023-05-17,O2C,6
+2023-05-17,Other,2
+2023-05-17,Policy Chat,7
+2023-05-17,Ring 2,1
+2023-05-17,Roku,7
+2023-05-17,VOXR,3
+2023-05-17,Youtube,7
+2023-05-17,Regal,7
+2023-05-18,Barrington,9
+2023-05-18,Channel Edge,4
+2023-05-18,Google,11
+2023-05-18,Lucent,3
+2023-05-18,O2C,8
+2023-05-18,Other,1
+2023-05-18,Policy Chat,6
+2023-05-18,Ring 2,2
+2023-05-18,Roku,5
+2023-05-18,VOXR,3
+2023-05-18,Youtube,3
+2023-05-18,Regal,6
+2023-05-19,Barrington,7
+2023-05-19,Channel Edge,2
+2023-05-19,Google,15
+2023-05-19,Lucent,5
+2023-05-19,O2C,6
+2023-05-19,Other,1
+2023-05-19,Policy Chat,6
+2023-05-19,Ring 2,2
+2023-05-19,Roku,4
+2023-05-19,VOXR,2
+2023-05-19,Youtube,8
+2023-05-19,Regal,3
+2023-05-20,Barrington,5
+2023-05-20,Channel Edge,1
+2023-05-20,Google,12
+2023-05-20,Lucent,1
+2023-05-20,O2C,9
+2023-05-20,Other,1
+2023-05-20,Policy Chat,2
+2023-05-20,Ring 2,1
+2023-05-20,Roku,9
+2023-05-20,VOXR,2
+2023-05-20,Youtube,6
+2023-05-20,Regal,3
+2023-05-21,Barrington,4
+2023-05-21,Channel Edge,2
+2023-05-21,Google,14
+2023-05-21,Lucent,1
+2023-05-21,O2C,12
+2023-05-21,Other,2
+2023-05-21,Policy Chat,3
+2023-05-21,Ring 2,5
+2023-05-21,Roku,5
+2023-05-21,VOXR,1
+2023-05-21,Youtube,3
+2023-05-21,Regal,6
+2023-05-22,Barrington,1
+2023-05-22,Channel Edge,8
+2023-05-22,Google,8
+2023-05-22,Lucent,2
+2023-05-22,O2C,8
+2023-05-22,Other,1
+2023-05-22,Policy Chat,3
+2023-05-22,Ring 2,5
+2023-05-22,Roku,3
+2023-05-22,VOXR,4
+2023-05-22,Youtube,6
+2023-05-22,Regal,3
+2023-05-23,Barrington,6
+2023-05-23,Channel Edge,1
+2023-05-23,Google,5
+2023-05-23,Lucent,1
+2023-05-23,O2C,10
+2023-05-23,Other,3
+2023-05-23,Policy Chat,6
+2023-05-23,Ring 2,4
+2023-05-23,Roku,3
+2023-05-23,VOXR,3
+2023-05-23,Youtube,7
+2023-05-23,Regal,6
+2023-05-24,Barrington,8
+2023-05-24,Channel Edge,2
+2023-05-24,Google,14
+2023-05-24,Lucent,1
+2023-05-24,O2C,5
+2023-05-24,Other,2
+2023-05-24,Policy Chat,6
+2023-05-24,Ring 2,1
+2023-05-24,Roku,2
+2023-05-24,VOXR,6
+2023-05-24,Youtube,6
+2023-05-24,Regal,1
+2023-05-25,Barrington,4
+2023-05-25,Channel Edge,3
+2023-05-25,Google,9
+2023-05-25,Lucent,1
+2023-05-25,O2C,9
+2023-05-25,Other,1
+2023-05-25,Policy Chat,4
+2023-05-25,Ring 2,3
+2023-05-25,Roku,5
+2023-05-25,VOXR,1
+2023-05-25,Youtube,6
+2023-05-25,Regal,4
+2023-05-26,Barrington,3
+2023-05-26,Channel Edge,3
+2023-05-26,Google,15
+2023-05-26,Lucent,5
+2023-05-26,O2C,4
+2023-05-26,Other,1
+2023-05-26,Policy Chat,2
+2023-05-26,Ring 2,3
+2023-05-26,Roku,6
+2023-05-26,VOXR,4
+2023-05-26,Youtube,3
+2023-05-26,Regal,4
+2023-05-27,Barrington,6
+2023-05-27,Channel Edge,1
+2023-05-27,Google,7
+2023-05-27,Lucent,3
+2023-05-27,O2C,8
+2023-05-27,Other,2
+2023-05-27,Policy Chat,1
+2023-05-27,Ring 2,2
+2023-05-27,Roku,4
+2023-05-27,VOXR,1
+2023-05-27,Youtube,11
+2023-05-27,Regal,1
+2023-05-28,Barrington,4
+2023-05-28,Channel Edge,2
+2023-05-28,Google,6
+2023-05-28,Lucent,4
+2023-05-28,O2C,14
+2023-05-28,Other,1
+2023-05-28,Policy Chat,4
+2023-05-28,Ring 2,3
+2023-05-28,Roku,2
+2023-05-28,VOXR,2
+2023-05-28,Youtube,13
+2023-05-28,Regal,3
+2023-05-29,Barrington,5
+2023-05-29,Channel Edge,3
+2023-05-29,Google,10
+2023-05-29,Lucent,3
+2023-05-29,O2C,12
+2023-05-29,Other,3
+2023-05-29,Policy Chat,4
+2023-05-29,Ring 2,1
+2023-05-29,Roku,2
+2023-05-29,VOXR,1
+2023-05-29,Youtube,8
+2023-05-29,Regal,4
+2023-05-30,Barrington,5
+2023-05-30,Channel Edge,4
+2023-05-30,Google,13
+2023-05-30,Lucent,1
+2023-05-30,O2C,10
+2023-05-30,Other,2
+2023-05-30,Policy Chat,2
+2023-05-30,Ring 2,3
+2023-05-30,Roku,7
+2023-05-30,VOXR,1
+2023-05-30,Youtube,6
+2023-05-30,Regal,5
+2023-05-31,Barrington,5
+2023-05-31,Channel Edge,1
+2023-05-31,Google,12
+2023-05-31,Lucent,5
+2023-05-31,O2C,3
+2023-05-31,Other,1
+2023-05-31,Policy Chat,3
+2023-05-31,Ring 2,4
+2023-05-31,Roku,3
+2023-05-31,VOXR,7
+2023-05-31,Youtube,8
+2023-05-31,Regal,4
+2023-06-01,Barrington,7
+2023-06-01,Channel Edge,1
+2023-06-01,Google,11
+2023-06-01,Lucent,3
+2023-06-01,O2C,12
+2023-06-01,Other,1
+2023-06-01,Policy Chat,5
+2023-06-01,Ring 2,6
+2023-06-01,Roku,3
+2023-06-01,VOXR,3
+2023-06-01,Youtube,5
+2023-06-01,Regal,4
+2023-06-02,Barrington,2
+2023-06-02,Channel Edge,1
+2023-06-02,Google,10
+2023-06-02,Lucent,3
+2023-06-02,O2C,13
+2023-06-02,Other,2
+2023-06-02,Policy Chat,1
+2023-06-02,Ring 2,2
+2023-06-02,Roku,5
+2023-06-02,VOXR,3
+2023-06-02,Youtube,7
+2023-06-02,Regal,3
+2023-06-03,Barrington,6
+2023-06-03,Channel Edge,2
+2023-06-03,Google,8
+2023-06-03,Lucent,1
+2023-06-03,O2C,9
+2023-06-03,Other,1
+2023-06-03,Policy Chat,2
+2023-06-03,Ring 2,2
+2023-06-03,Roku,6
+2023-06-03,VOXR,5
+2023-06-03,Youtube,8
+2023-06-03,Regal,1
+2023-06-04,Barrington,1
+2023-06-04,Channel Edge,1
+2023-06-04,Google,7
+2023-06-04,Lucent,1
+2023-06-04,O2C,9
+2023-06-04,Other,3
+2023-06-04,Policy Chat,5
+2023-06-04,Ring 2,4
+2023-06-04,Roku,2
+2023-06-04,VOXR,5
+2023-06-04,Youtube,8
+2023-06-04,Regal,4
+2023-06-05,Barrington,6
+2023-06-05,Channel Edge,2
+2023-06-05,Google,13
+2023-06-05,Lucent,4
+2023-06-05,O2C,8
+2023-06-05,Other,1
+2023-06-05,Policy Chat,3
+2023-06-05,Ring 2,1
+2023-06-05,Roku,6
+2023-06-05,VOXR,1
+2023-06-05,Youtube,7
+2023-06-05,Regal,4
+2023-06-06,Barrington,7
+2023-06-06,Channel Edge,4
+2023-06-06,Google,11
+2023-06-06,Lucent,1
+2023-06-06,O2C,5
+2023-06-06,Other,4
+2023-06-06,Policy Chat,3
+2023-06-06,Ring 2,5
+2023-06-06,Roku,3
+2023-06-06,VOXR,2
+2023-06-06,Youtube,9
+2023-06-06,Regal,3
+2023-06-07,Barrington,5
+2023-06-07,Channel Edge,2
+2023-06-07,Google,19
+2023-06-07,Lucent,3
+2023-06-07,O2C,7
+2023-06-07,Other,1
+2023-06-07,Policy Chat,4
+2023-06-07,Ring 2,3
+2023-06-07,Roku,2
+2023-06-07,VOXR,3
+2023-06-07,Youtube,8
+2023-06-07,Regal,4
+2023-06-08,Barrington,5
+2023-06-08,Channel Edge,4
+2023-06-08,Google,11
+2023-06-08,Lucent,4
+2023-06-08,O2C,9
+2023-06-08,Other,6
+2023-06-08,Policy Chat,3
+2023-06-08,Ring 2,4
+2023-06-08,Roku,8
+2023-06-08,VOXR,2
+2023-06-08,Youtube,5
+2023-06-08,Regal,5
+2023-06-09,Barrington,1
+2023-06-09,Channel Edge,1
+2023-06-09,Google,14
+2023-06-09,Lucent,4
+2023-06-09,O2C,6
+2023-06-09,Other,2
+2023-06-09,Policy Chat,5
+2023-06-09,Ring 2,4
+2023-06-09,Roku,8
+2023-06-09,VOXR,1
+2023-06-09,Youtube,4
+2023-06-09,Regal,6
+2023-06-10,Barrington,6
+2023-06-10,Channel Edge,2
+2023-06-10,Google,10
+2023-06-10,Lucent,3
+2023-06-10,O2C,11
+2023-06-10,Other,1
+2023-06-10,Policy Chat,3
+2023-06-10,Ring 2,2
+2023-06-10,Roku,5
+2023-06-10,VOXR,3
+2023-06-10,Youtube,3
+2023-06-10,Regal,3
+2023-06-11,Barrington,4
+2023-06-11,Channel Edge,1
+2023-06-11,Google,18
+2023-06-11,Lucent,1
+2023-06-11,O2C,4
+2023-06-11,Other,2
+2023-06-11,Policy Chat,1
+2023-06-11,Ring 2,4
+2023-06-11,Roku,4
+2023-06-11,VOXR,6
+2023-06-11,Youtube,7
+2023-06-11,Regal,6
+2023-06-12,Barrington,3
+2023-06-12,Channel Edge,6
+2023-06-12,Google,11
+2023-06-12,Lucent,1
+2023-06-12,O2C,8
+2023-06-12,Other,1
+2023-06-12,Policy Chat,4
+2023-06-12,Ring 2,1
+2023-06-12,Roku,6
+2023-06-12,VOXR,2
+2023-06-12,Youtube,7
+2023-06-12,Regal,2
+2023-06-13,Barrington,1
+2023-06-13,Channel Edge,2
+2023-06-13,Google,15
+2023-06-13,Lucent,3
+2023-06-13,O2C,8
+2023-06-13,Other,1
+2023-06-13,Policy Chat,3
+2023-06-13,Ring 2,4
+2023-06-13,Roku,2
+2023-06-13,VOXR,2
+2023-06-13,Youtube,6
+2023-06-13,Regal,3
+2023-06-14,Barrington,6
+2023-06-14,Channel Edge,5
+2023-06-14,Google,14
+2023-06-14,Lucent,2
+2023-06-14,O2C,5
+2023-06-14,Other,1
+2023-06-14,Policy Chat,3
+2023-06-14,Ring 2,3
+2023-06-14,Roku,7
+2023-06-14,VOXR,5
+2023-06-14,Youtube,12
+2023-06-14,Regal,6
+2023-06-15,Barrington,4
+2023-06-15,Channel Edge,2
+2023-06-15,Google,13
+2023-06-15,Lucent,2
+2023-06-15,O2C,7
+2023-06-15,Other,3
+2023-06-15,Policy Chat,2
+2023-06-15,Ring 2,2
+2023-06-15,Roku,5
+2023-06-15,VOXR,2
+2023-06-15,Youtube,7
+2023-06-15,Regal,3
+2023-06-16,Barrington,4
+2023-06-16,Channel Edge,4
+2023-06-16,Google,16
+2023-06-16,Lucent,3
+2023-06-16,O2C,6
+2023-06-16,Other,4
+2023-06-16,Policy Chat,1
+2023-06-16,Ring 2,2
+2023-06-16,Roku,4
+2023-06-16,VOXR,2
+2023-06-16,Youtube,1
+2023-06-16,Regal,4
+2023-06-17,Barrington,3
+2023-06-17,Channel Edge,5
+2023-06-17,Google,12
+2023-06-17,Lucent,3
+2023-06-17,O2C,8
+2023-06-17,Other,2
+2023-06-17,Policy Chat,2
+2023-06-17,Ring 2,6
+2023-06-17,Roku,5
+2023-06-17,VOXR,1
+2023-06-17,Youtube,8
+2023-06-17,Regal,2
+2023-06-18,Barrington,4
+2023-06-18,Channel Edge,5
+2023-06-18,Google,10
+2023-06-18,Lucent,3
+2023-06-18,O2C,5
+2023-06-18,Other,1
+2023-06-18,Policy Chat,2
+2023-06-18,Ring 2,2
+2023-06-18,Roku,4
+2023-06-18,VOXR,7
+2023-06-18,Youtube,4
+2023-06-18,Regal,3
+2023-06-19,Barrington,9
+2023-06-19,Channel Edge,2
+2023-06-19,Google,7
+2023-06-19,Lucent,2
+2023-06-19,O2C,7
+2023-06-19,Other,1
+2023-06-19,Policy Chat,7
+2023-06-19,Ring 2,1
+2023-06-19,Roku,3
+2023-06-19,VOXR,1
+2023-06-19,Youtube,9
+2023-06-19,Regal,4
+2023-06-20,Barrington,6
+2023-06-20,Channel Edge,1
+2023-06-20,Google,13
+2023-06-20,Lucent,3
+2023-06-20,O2C,8
+2023-06-20,Other,1
+2023-06-20,Policy Chat,7
+2023-06-20,Ring 2,2
+2023-06-20,Roku,4
+2023-06-20,VOXR,4
+2023-06-20,Youtube,4
+2023-06-20,Regal,7
+2023-06-21,Barrington,4
+2023-06-21,Channel Edge,5
+2023-06-21,Google,7
+2023-06-21,Lucent,1
+2023-06-21,O2C,8
+2023-06-21,Other,4
+2023-06-21,Policy Chat,5
+2023-06-21,Ring 2,2
+2023-06-21,Roku,2
+2023-06-21,VOXR,4
+2023-06-21,Youtube,3
+2023-06-21,Regal,2
+2023-06-22,Barrington,3
+2023-06-22,Channel Edge,8
+2023-06-22,Google,10
+2023-06-22,Lucent,2
+2023-06-22,O2C,7
+2023-06-22,Other,1
+2023-06-22,Policy Chat,8
+2023-06-22,Ring 2,3
+2023-06-22,Roku,4
+2023-06-22,VOXR,2
+2023-06-22,Youtube,6
+2023-06-22,Regal,1
+2023-06-23,Barrington,5
+2023-06-23,Channel Edge,5
+2023-06-23,Google,7
+2023-06-23,Lucent,3
+2023-06-23,O2C,3
+2023-06-23,Other,1
+2023-06-23,Policy Chat,3
+2023-06-23,Ring 2,1
+2023-06-23,Roku,3
+2023-06-23,VOXR,3
+2023-06-23,Youtube,4
+2023-06-23,Regal,9
+2023-06-24,Barrington,5
+2023-06-24,Channel Edge,5
+2023-06-24,Google,6
+2023-06-24,Lucent,5
+2023-06-24,O2C,7
+2023-06-24,Other,4
+2023-06-24,Policy Chat,5
+2023-06-24,Ring 2,2
+2023-06-24,Roku,4
+2023-06-24,VOXR,3
+2023-06-24,Youtube,4
+2023-06-24,Regal,1
+2023-06-25,Barrington,3
+2023-06-25,Channel Edge,1
+2023-06-25,Google,9
+2023-06-25,Lucent,2
+2023-06-25,O2C,3
+2023-06-25,Other,2
+2023-06-25,Policy Chat,1
+2023-06-25,Ring 2,5
+2023-06-25,Roku,4
+2023-06-25,VOXR,1
+2023-06-25,Youtube,7
+2023-06-25,Regal,4
+2023-06-26,Barrington,10
+2023-06-26,Channel Edge,5
+2023-06-26,Google,6
+2023-06-26,Lucent,1
+2023-06-26,O2C,3
+2023-06-26,Other,1
+2023-06-26,Policy Chat,5
+2023-06-26,Ring 2,5
+2023-06-26,Roku,3
+2023-06-26,VOXR,3
+2023-06-26,Youtube,9
+2023-06-26,Regal,2
+2023-06-27,Barrington,4
+2023-06-27,Channel Edge,5
+2023-06-27,Google,10
+2023-06-27,Lucent,1
+2023-06-27,O2C,6
+2023-06-27,Other,2
+2023-06-27,Policy Chat,3
+2023-06-27,Ring 2,5
+2023-06-27,Roku,5
+2023-06-27,VOXR,2
+2023-06-27,Youtube,6
+2023-06-27,Regal,3
+2023-06-28,Barrington,6
+2023-06-28,Channel Edge,3
+2023-06-28,Google,5
+2023-06-28,Lucent,4
+2023-06-28,O2C,8
+2023-06-28,Other,3
+2023-06-28,Policy Chat,4
+2023-06-28,Ring 2,5
+2023-06-28,Roku,7
+2023-06-28,VOXR,3
+2023-06-28,Youtube,6
+2023-06-28,Regal,5
+2023-06-29,Barrington,7
+2023-06-29,Channel Edge,4
+2023-06-29,Google,15
+2023-06-29,Lucent,1
+2023-06-29,O2C,7
+2023-06-29,Other,2
+2023-06-29,Policy Chat,2
+2023-06-29,Ring 2,3
+2023-06-29,Roku,2
+2023-06-29,VOXR,4
+2023-06-29,Youtube,5
+2023-06-29,Regal,2
+2023-06-30,Barrington,7
+2023-06-30,Channel Edge,3
+2023-06-30,Google,12
+2023-06-30,Lucent,2
+2023-06-30,O2C,9
+2023-06-30,Other,3
+2023-06-30,Policy Chat,6
+2023-06-30,Ring 2,8
+2023-06-30,Roku,5
+2023-06-30,VOXR,4
+2023-06-30,Youtube,9
+2023-06-30,Regal,1
+2023-07-01,Barrington,1
+2023-07-01,Channel Edge,2
+2023-07-01,Google,15
+2023-07-01,Lucent,3
+2023-07-01,O2C,9
+2023-07-01,Other,1
+2023-07-01,Policy Chat,6
+2023-07-01,Ring 2,1
+2023-07-01,Roku,3
+2023-07-01,VOXR,2
+2023-07-01,Youtube,5
+2023-07-01,Regal,4
+2023-07-02,Barrington,2
+2023-07-02,Channel Edge,1
+2023-07-02,Google,11
+2023-07-02,Lucent,3
+2023-07-02,O2C,12
+2023-07-02,Other,2
+2023-07-02,Policy Chat,5
+2023-07-02,Ring 2,1
+2023-07-02,Roku,3
+2023-07-02,VOXR,5
+2023-07-02,Youtube,7
+2023-07-02,Regal,1
+2023-07-03,Barrington,5
+2023-07-03,Channel Edge,7
+2023-07-03,Google,14
+2023-07-03,Lucent,2
+2023-07-03,O2C,4
+2023-07-03,Other,3
+2023-07-03,Policy Chat,2
+2023-07-03,Ring 2,4
+2023-07-03,Roku,7
+2023-07-03,VOXR,1
+2023-07-03,Youtube,8
+2023-07-03,Regal,1
+2023-07-04,Barrington,2
+2023-07-04,Channel Edge,3
+2023-07-04,Google,11
+2023-07-04,Lucent,3
+2023-07-04,O2C,5
+2023-07-04,Other,2
+2023-07-04,Policy Chat,1
+2023-07-04,Ring 2,2
+2023-07-04,Roku,4
+2023-07-04,VOXR,1
+2023-07-04,Youtube,5
+2023-07-04,Regal,4
+2023-07-05,Barrington,1
+2023-07-05,Channel Edge,9
+2023-07-05,Google,8
+2023-07-05,Lucent,1
+2023-07-05,O2C,5
+2023-07-05,Other,1
+2023-07-05,Policy Chat,4
+2023-07-05,Ring 2,1
+2023-07-05,Roku,5
+2023-07-05,VOXR,3
+2023-07-05,Youtube,8
+2023-07-05,Regal,2
+2023-07-06,Barrington,3
+2023-07-06,Channel Edge,4
+2023-07-06,Google,11
+2023-07-06,Lucent,4
+2023-07-06,O2C,6
+2023-07-06,Other,1
+2023-07-06,Policy Chat,6
+2023-07-06,Ring 2,1
+2023-07-06,Roku,5
+2023-07-06,VOXR,7
+2023-07-06,Youtube,9
+2023-07-06,Regal,5
+2023-07-07,Barrington,2
+2023-07-07,Channel Edge,2
+2023-07-07,Google,8
+2023-07-07,Lucent,5
+2023-07-07,O2C,5
+2023-07-07,Other,1
+2023-07-07,Policy Chat,1
+2023-07-07,Ring 2,5
+2023-07-07,Roku,1
+2023-07-07,VOXR,1
+2023-07-07,Youtube,5
+2023-07-07,Regal,3
+2023-07-08,Barrington,6
+2023-07-08,Channel Edge,5
+2023-07-08,Google,9
+2023-07-08,Lucent,4
+2023-07-08,O2C,6
+2023-07-08,Other,1
+2023-07-08,Policy Chat,5
+2023-07-08,Ring 2,3
+2023-07-08,Roku,4
+2023-07-08,VOXR,2
+2023-07-08,Youtube,11
+2023-07-08,Regal,3
+2023-07-09,Barrington,4
+2023-07-09,Channel Edge,1
+2023-07-09,Google,11
+2023-07-09,Lucent,2
+2023-07-09,O2C,14
+2023-07-09,Other,1
+2023-07-09,Policy Chat,3
+2023-07-09,Ring 2,1
+2023-07-09,Roku,4
+2023-07-09,VOXR,2
+2023-07-09,Youtube,6
+2023-07-09,Regal,7
+2023-07-10,Barrington,3
+2023-07-10,Channel Edge,2
+2023-07-10,Google,11
+2023-07-10,Lucent,1
+2023-07-10,O2C,3
+2023-07-10,Other,1
+2023-07-10,Policy Chat,3
+2023-07-10,Ring 2,2
+2023-07-10,Roku,6
+2023-07-10,VOXR,6
+2023-07-10,Youtube,9
+2023-07-10,Regal,6
+2023-07-11,Barrington,4
+2023-07-11,Channel Edge,4
+2023-07-11,Google,9
+2023-07-11,Lucent,2
+2023-07-11,O2C,8
+2023-07-11,Other,1
+2023-07-11,Policy Chat,5
+2023-07-11,Ring 2,1
+2023-07-11,Roku,6
+2023-07-11,VOXR,1
+2023-07-11,Youtube,5
+2023-07-11,Regal,2
+2023-07-12,Barrington,4
+2023-07-12,Channel Edge,4
+2023-07-12,Google,10
+2023-07-12,Lucent,4
+2023-07-12,O2C,8
+2023-07-12,Other,1
+2023-07-12,Policy Chat,4
+2023-07-12,Ring 2,5
+2023-07-12,Roku,3
+2023-07-12,VOXR,4
+2023-07-12,Youtube,6
+2023-07-12,Regal,2
+2023-07-13,Barrington,4
+2023-07-13,Channel Edge,3
+2023-07-13,Google,14
+2023-07-13,Lucent,2
+2023-07-13,O2C,11
+2023-07-13,Other,2
+2023-07-13,Policy Chat,2
+2023-07-13,Ring 2,2
+2023-07-13,Roku,3
+2023-07-13,VOXR,1
+2023-07-13,Youtube,4
+2023-07-13,Regal,2
+2023-07-14,Barrington,3
+2023-07-14,Channel Edge,4
+2023-07-14,Google,9
+2023-07-14,Lucent,2
+2023-07-14,O2C,10
+2023-07-14,Other,1
+2023-07-14,Policy Chat,2
+2023-07-14,Ring 2,2
+2023-07-14,Roku,3
+2023-07-14,VOXR,4
+2023-07-14,Youtube,6
+2023-07-14,Regal,4
+2023-07-15,Barrington,2
+2023-07-15,Channel Edge,4
+2023-07-15,Google,13
+2023-07-15,Lucent,5
+2023-07-15,O2C,4
+2023-07-15,Other,1
+2023-07-15,Policy Chat,1
+2023-07-15,Ring 2,6
+2023-07-15,Roku,7
+2023-07-15,VOXR,4
+2023-07-15,Youtube,6
+2023-07-15,Regal,7
+2023-07-16,Barrington,2
+2023-07-16,Channel Edge,1
+2023-07-16,Google,5
+2023-07-16,Lucent,1
+2023-07-16,O2C,9
+2023-07-16,Other,4
+2023-07-16,Policy Chat,3
+2023-07-16,Ring 2,1
+2023-07-16,Roku,7
+2023-07-16,VOXR,2
+2023-07-16,Youtube,9
+2023-07-16,Regal,3
+2023-07-17,Barrington,5
+2023-07-17,Channel Edge,3
+2023-07-17,Google,5
+2023-07-17,Lucent,2
+2023-07-17,O2C,11
+2023-07-17,Other,2
+2023-07-17,Policy Chat,6
+2023-07-17,Ring 2,1
+2023-07-17,Roku,6
+2023-07-17,VOXR,2
+2023-07-17,Youtube,9
+2023-07-17,Regal,4
+2023-07-18,Barrington,4
+2023-07-18,Channel Edge,1
+2023-07-18,Google,10
+2023-07-18,Lucent,1
+2023-07-18,O2C,14
+2023-07-18,Other,1
+2023-07-18,Policy Chat,6
+2023-07-18,Ring 2,3
+2023-07-18,Roku,5
+2023-07-18,VOXR,1
+2023-07-18,Youtube,4
+2023-07-18,Regal,7
+2023-07-19,Barrington,1
+2023-07-19,Channel Edge,5
+2023-07-19,Google,10
+2023-07-19,Lucent,1
+2023-07-19,O2C,4
+2023-07-19,Other,1
+2023-07-19,Policy Chat,1
+2023-07-19,Ring 2,1
+2023-07-19,Roku,3
+2023-07-19,VOXR,2
+2023-07-19,Youtube,6
+2023-07-19,Regal,3
+2023-07-20,Barrington,5
+2023-07-20,Channel Edge,6
+2023-07-20,Google,14
+2023-07-20,Lucent,3
+2023-07-20,O2C,11
+2023-07-20,Other,1
+2023-07-20,Policy Chat,6
+2023-07-20,Ring 2,2
+2023-07-20,Roku,3
+2023-07-20,VOXR,1
+2023-07-20,Youtube,5
+2023-07-20,Regal,2
+2023-07-21,Barrington,5
+2023-07-21,Channel Edge,1
+2023-07-21,Google,7
+2023-07-21,Lucent,2
+2023-07-21,O2C,9
+2023-07-21,Other,1
+2023-07-21,Policy Chat,7
+2023-07-21,Ring 2,1
+2023-07-21,Roku,5
+2023-07-21,VOXR,3
+2023-07-21,Youtube,3
+2023-07-21,Regal,4
+2023-07-22,Barrington,8
+2023-07-22,Channel Edge,4
+2023-07-22,Google,13
+2023-07-22,Lucent,2
+2023-07-22,O2C,7
+2023-07-22,Other,4
+2023-07-22,Policy Chat,4
+2023-07-22,Ring 2,1
+2023-07-22,Roku,9
+2023-07-22,VOXR,1
+2023-07-22,Youtube,8
+2023-07-22,Regal,1
+2023-07-23,Barrington,5
+2023-07-23,Channel Edge,4
+2023-07-23,Google,14
+2023-07-23,Lucent,1
+2023-07-23,O2C,7
+2023-07-23,Other,2
+2023-07-23,Policy Chat,4
+2023-07-23,Ring 2,3
+2023-07-23,Roku,7
+2023-07-23,VOXR,5
+2023-07-23,Youtube,8
+2023-07-23,Regal,7
+2023-07-24,Barrington,4
+2023-07-24,Channel Edge,3
+2023-07-24,Google,8
+2023-07-24,Lucent,2
+2023-07-24,O2C,11
+2023-07-24,Other,4
+2023-07-24,Policy Chat,4
+2023-07-24,Ring 2,7
+2023-07-24,Roku,4
+2023-07-24,VOXR,3
+2023-07-24,Youtube,3
+2023-07-24,Regal,1
+2023-07-25,Barrington,4
+2023-07-25,Channel Edge,5
+2023-07-25,Google,19
+2023-07-25,Lucent,2
+2023-07-25,O2C,8
+2023-07-25,Other,1
+2023-07-25,Policy Chat,2
+2023-07-25,Ring 2,4
+2023-07-25,Roku,2
+2023-07-25,VOXR,1
+2023-07-25,Youtube,9
+2023-07-25,Regal,1
+2023-07-26,Barrington,6
+2023-07-26,Channel Edge,1
+2023-07-26,Google,9
+2023-07-26,Lucent,1
+2023-07-26,O2C,5
+2023-07-26,Other,1
+2023-07-26,Policy Chat,4
+2023-07-26,Ring 2,6
+2023-07-26,Roku,5
+2023-07-26,VOXR,1
+2023-07-26,Youtube,4
+2023-07-26,Regal,3
+2023-07-27,Barrington,5
+2023-07-27,Channel Edge,6
+2023-07-27,Google,15
+2023-07-27,Lucent,3
+2023-07-27,O2C,7
+2023-07-27,Other,2
+2023-07-27,Policy Chat,4
+2023-07-27,Ring 2,3
+2023-07-27,Roku,2
+2023-07-27,VOXR,2
+2023-07-27,Youtube,9
+2023-07-27,Regal,2
+2023-07-28,Barrington,6
+2023-07-28,Channel Edge,2
+2023-07-28,Google,20
+2023-07-28,Lucent,1
+2023-07-28,O2C,14
+2023-07-28,Other,1
+2023-07-28,Policy Chat,4
+2023-07-28,Ring 2,4
+2023-07-28,Roku,12
+2023-07-28,VOXR,4
+2023-07-28,Youtube,14
+2023-07-28,Regal,6
+2023-07-29,Barrington,3
+2023-07-29,Channel Edge,2
+2023-07-29,Google,6
+2023-07-29,Lucent,3
+2023-07-29,O2C,9
+2023-07-29,Other,1
+2023-07-29,Policy Chat,5
+2023-07-29,Ring 2,5
+2023-07-29,Roku,4
+2023-07-29,VOXR,1
+2023-07-29,Youtube,8
+2023-07-29,Regal,5
+2023-07-30,Barrington,6
+2023-07-30,Channel Edge,2
+2023-07-30,Google,10
+2023-07-30,Lucent,2
+2023-07-30,O2C,12
+2023-07-30,Other,1
+2023-07-30,Policy Chat,6
+2023-07-30,Ring 2,1
+2023-07-30,Roku,1
+2023-07-30,VOXR,4
+2023-07-30,Youtube,3
+2023-07-30,Regal,4
+2023-07-31,Barrington,4
+2023-07-31,Channel Edge,4
+2023-07-31,Google,8
+2023-07-31,Lucent,1
+2023-07-31,O2C,10
+2023-07-31,Other,2
+2023-07-31,Policy Chat,7
+2023-07-31,Ring 2,1
+2023-07-31,Roku,3
+2023-07-31,VOXR,1
+2023-07-31,Youtube,10
+2023-07-31,Regal,2
+2023-08-01,Barrington,8
+2023-08-01,Channel Edge,3
+2023-08-01,Google,9
+2023-08-01,Lucent,1
+2023-08-01,O2C,5
+2023-08-01,Other,1
+2023-08-01,Policy Chat,1
+2023-08-01,Ring 2,3
+2023-08-01,Roku,7
+2023-08-01,VOXR,3
+2023-08-01,Youtube,7
+2023-08-01,Regal,8
+2023-08-02,Barrington,8
+2023-08-02,Channel Edge,6
+2023-08-02,Google,11
+2023-08-02,Lucent,2
+2023-08-02,O2C,15
+2023-08-02,Other,1
+2023-08-02,Policy Chat,3
+2023-08-02,Ring 2,2
+2023-08-02,Roku,2
+2023-08-02,VOXR,1
+2023-08-02,Youtube,2
+2023-08-02,Regal,1
+2023-08-03,Barrington,6
+2023-08-03,Channel Edge,5
+2023-08-03,Google,13
+2023-08-03,Lucent,1
+2023-08-03,O2C,8
+2023-08-03,Other,2
+2023-08-03,Policy Chat,2
+2023-08-03,Ring 2,4
+2023-08-03,Roku,2
+2023-08-03,VOXR,3
+2023-08-03,Youtube,7
+2023-08-03,Regal,3
+2023-08-04,Barrington,6
+2023-08-04,Channel Edge,2
+2023-08-04,Google,6
+2023-08-04,Lucent,1
+2023-08-04,O2C,9
+2023-08-04,Other,2
+2023-08-04,Policy Chat,4
+2023-08-04,Ring 2,3
+2023-08-04,Roku,2
+2023-08-04,VOXR,1
+2023-08-04,Youtube,7
+2023-08-04,Regal,4
+2023-08-05,Barrington,2
+2023-08-05,Channel Edge,2
+2023-08-05,Google,8
+2023-08-05,Lucent,4
+2023-08-05,O2C,10
+2023-08-05,Other,1
+2023-08-05,Policy Chat,2
+2023-08-05,Ring 2,2
+2023-08-05,Roku,3
+2023-08-05,VOXR,1
+2023-08-05,Youtube,4
+2023-08-05,Regal,1
+2023-08-06,Barrington,5
+2023-08-06,Channel Edge,2
+2023-08-06,Google,10
+2023-08-06,Lucent,2
+2023-08-06,O2C,6
+2023-08-06,Other,1
+2023-08-06,Policy Chat,4
+2023-08-06,Ring 2,6
+2023-08-06,Roku,3
+2023-08-06,VOXR,1
+2023-08-06,Youtube,6
+2023-08-06,Regal,3
+2023-08-07,Barrington,5
+2023-08-07,Channel Edge,2
+2023-08-07,Google,14
+2023-08-07,Lucent,3
+2023-08-07,O2C,6
+2023-08-07,Other,1
+2023-08-07,Policy Chat,1
+2023-08-07,Ring 2,4
+2023-08-07,Roku,3
+2023-08-07,VOXR,3
+2023-08-07,Youtube,6
+2023-08-07,Regal,7
+2023-08-08,Barrington,5
+2023-08-08,Channel Edge,4
+2023-08-08,Google,8
+2023-08-08,Lucent,4
+2023-08-08,O2C,11
+2023-08-08,Other,1
+2023-08-08,Policy Chat,5
+2023-08-08,Ring 2,2
+2023-08-08,Roku,11
+2023-08-08,VOXR,1
+2023-08-08,Youtube,8
+2023-08-08,Regal,2
+2023-08-09,Barrington,2
+2023-08-09,Channel Edge,1
+2023-08-09,Google,12
+2023-08-09,Lucent,1
+2023-08-09,O2C,11
+2023-08-09,Other,2
+2023-08-09,Policy Chat,6
+2023-08-09,Ring 2,1
+2023-08-09,Roku,7
+2023-08-09,VOXR,1
+2023-08-09,Youtube,12
+2023-08-09,Regal,4
+2023-08-10,Barrington,2
+2023-08-10,Channel Edge,3
+2023-08-10,Google,11
+2023-08-10,Lucent,5
+2023-08-10,O2C,6
+2023-08-10,Other,1
+2023-08-10,Policy Chat,5
+2023-08-10,Ring 2,2
+2023-08-10,Roku,3
+2023-08-10,VOXR,2
+2023-08-10,Youtube,4
+2023-08-10,Regal,2
+2023-08-11,Barrington,2
+2023-08-11,Channel Edge,1
+2023-08-11,Google,11
+2023-08-11,Lucent,1
+2023-08-11,O2C,6
+2023-08-11,Other,2
+2023-08-11,Policy Chat,4
+2023-08-11,Ring 2,1
+2023-08-11,Roku,3
+2023-08-11,VOXR,4
+2023-08-11,Youtube,8
+2023-08-11,Regal,2
+2023-08-12,Barrington,2
+2023-08-12,Channel Edge,4
+2023-08-12,Google,11
+2023-08-12,Lucent,5
+2023-08-12,O2C,7
+2023-08-12,Other,1
+2023-08-12,Policy Chat,5
+2023-08-12,Ring 2,2
+2023-08-12,Roku,5
+2023-08-12,VOXR,3
+2023-08-12,Youtube,3
+2023-08-12,Regal,1
+2023-08-13,Barrington,10
+2023-08-13,Channel Edge,3
+2023-08-13,Google,9
+2023-08-13,Lucent,3
+2023-08-13,O2C,5
+2023-08-13,Other,1
+2023-08-13,Policy Chat,2
+2023-08-13,Ring 2,2
+2023-08-13,Roku,3
+2023-08-13,VOXR,4
+2023-08-13,Youtube,9
+2023-08-13,Regal,3
+2023-08-14,Barrington,3
+2023-08-14,Channel Edge,5
+2023-08-14,Google,11
+2023-08-14,Lucent,1
+2023-08-14,O2C,6
+2023-08-14,Other,1
+2023-08-14,Policy Chat,4
+2023-08-14,Ring 2,5
+2023-08-14,Roku,2
+2023-08-14,VOXR,3
+2023-08-14,Youtube,8
+2023-08-14,Regal,2
+2023-08-15,Barrington,4
+2023-08-15,Channel Edge,3
+2023-08-15,Google,12
+2023-08-15,Lucent,4
+2023-08-15,O2C,6
+2023-08-15,Other,3
+2023-08-15,Policy Chat,5
+2023-08-15,Ring 2,4
+2023-08-15,Roku,7
+2023-08-15,VOXR,5
+2023-08-15,Youtube,5
+2023-08-15,Regal,7
+2023-08-16,Barrington,6
+2023-08-16,Channel Edge,5
+2023-08-16,Google,13
+2023-08-16,Lucent,2
+2023-08-16,O2C,10
+2023-08-16,Other,3
+2023-08-16,Policy Chat,4
+2023-08-16,Ring 2,7
+2023-08-16,Roku,6
+2023-08-16,VOXR,1
+2023-08-16,Youtube,4
+2023-08-16,Regal,1
+2023-08-17,Barrington,7
+2023-08-17,Channel Edge,3
+2023-08-17,Google,10
+2023-08-17,Lucent,1
+2023-08-17,O2C,15
+2023-08-17,Other,2
+2023-08-17,Policy Chat,1
+2023-08-17,Ring 2,5
+2023-08-17,Roku,9
+2023-08-17,VOXR,7
+2023-08-17,Youtube,7
+2023-08-17,Regal,2
+2023-08-18,Barrington,1
+2023-08-18,Channel Edge,4
+2023-08-18,Google,5
+2023-08-18,Lucent,3
+2023-08-18,O2C,5
+2023-08-18,Other,1
+2023-08-18,Policy Chat,6
+2023-08-18,Ring 2,1
+2023-08-18,Roku,1
+2023-08-18,VOXR,1
+2023-08-18,Youtube,8
+2023-08-18,Regal,4
+2023-08-19,Barrington,6
+2023-08-19,Channel Edge,3
+2023-08-19,Google,7
+2023-08-19,Lucent,2
+2023-08-19,O2C,5
+2023-08-19,Other,2
+2023-08-19,Policy Chat,2
+2023-08-19,Ring 2,1
+2023-08-19,Roku,4
+2023-08-19,VOXR,3
+2023-08-19,Youtube,4
+2023-08-19,Regal,4
+2023-08-20,Barrington,3
+2023-08-20,Channel Edge,2
+2023-08-20,Google,9
+2023-08-20,Lucent,1
+2023-08-20,O2C,2
+2023-08-20,Other,2
+2023-08-20,Policy Chat,5
+2023-08-20,Ring 2,2
+2023-08-20,Roku,4
+2023-08-20,VOXR,4
+2023-08-20,Youtube,5
+2023-08-20,Regal,4
+2023-08-21,Barrington,4
+2023-08-21,Channel Edge,3
+2023-08-21,Google,8
+2023-08-21,Lucent,1
+2023-08-21,O2C,11
+2023-08-21,Other,1
+2023-08-21,Policy Chat,4
+2023-08-21,Ring 2,3
+2023-08-21,Roku,4
+2023-08-21,VOXR,4
+2023-08-21,Youtube,6
+2023-08-21,Regal,5
+2023-08-22,Barrington,5
+2023-08-22,Channel Edge,1
+2023-08-22,Google,18
+2023-08-22,Lucent,1
+2023-08-22,O2C,8
+2023-08-22,Other,2
+2023-08-22,Policy Chat,4
+2023-08-22,Ring 2,1
+2023-08-22,Roku,7
+2023-08-22,VOXR,1
+2023-08-22,Youtube,2
+2023-08-22,Regal,3
+2023-08-23,Barrington,4
+2023-08-23,Channel Edge,5
+2023-08-23,Google,13
+2023-08-23,Lucent,2
+2023-08-23,O2C,10
+2023-08-23,Other,1
+2023-08-23,Policy Chat,1
+2023-08-23,Ring 2,1
+2023-08-23,Roku,1
+2023-08-23,VOXR,1
+2023-08-23,Youtube,13
+2023-08-23,Regal,1
+2023-08-24,Barrington,6
+2023-08-24,Channel Edge,3
+2023-08-24,Google,9
+2023-08-24,Lucent,4
+2023-08-24,O2C,7
+2023-08-24,Other,1
+2023-08-24,Policy Chat,6
+2023-08-24,Ring 2,2
+2023-08-24,Roku,3
+2023-08-24,VOXR,3
+2023-08-24,Youtube,6
+2023-08-24,Regal,2
+2023-08-25,Barrington,3
+2023-08-25,Channel Edge,2
+2023-08-25,Google,10
+2023-08-25,Lucent,2
+2023-08-25,O2C,3
+2023-08-25,Other,4
+2023-08-25,Policy Chat,3
+2023-08-25,Ring 2,1
+2023-08-25,Roku,1
+2023-08-25,VOXR,3
+2023-08-25,Youtube,8
+2023-08-25,Regal,3
+2023-08-26,Barrington,1
+2023-08-26,Channel Edge,6
+2023-08-26,Google,13
+2023-08-26,Lucent,3
+2023-08-26,O2C,6
+2023-08-26,Other,2
+2023-08-26,Policy Chat,4
+2023-08-26,Ring 2,2
+2023-08-26,Roku,2
+2023-08-26,VOXR,3
+2023-08-26,Youtube,7
+2023-08-26,Regal,3
+2023-08-27,Barrington,6
+2023-08-27,Channel Edge,4
+2023-08-27,Google,11
+2023-08-27,Lucent,3
+2023-08-27,O2C,4
+2023-08-27,Other,2
+2023-08-27,Policy Chat,2
+2023-08-27,Ring 2,1
+2023-08-27,Roku,4
+2023-08-27,VOXR,5
+2023-08-27,Youtube,6
+2023-08-27,Regal,3
+2023-08-28,Barrington,4
+2023-08-28,Channel Edge,2
+2023-08-28,Google,11
+2023-08-28,Lucent,2
+2023-08-28,O2C,5
+2023-08-28,Other,1
+2023-08-28,Policy Chat,4
+2023-08-28,Ring 2,2
+2023-08-28,Roku,2
+2023-08-28,VOXR,1
+2023-08-28,Youtube,7
+2023-08-28,Regal,4
+2023-08-29,Barrington,6
+2023-08-29,Channel Edge,5
+2023-08-29,Google,8
+2023-08-29,Lucent,3
+2023-08-29,O2C,6
+2023-08-29,Other,2
+2023-08-29,Policy Chat,2
+2023-08-29,Ring 2,1
+2023-08-29,Roku,3
+2023-08-29,VOXR,3
+2023-08-29,Youtube,6
+2023-08-29,Regal,6
+2023-08-30,Barrington,7
+2023-08-30,Channel Edge,4
+2023-08-30,Google,11
+2023-08-30,Lucent,2
+2023-08-30,O2C,1
+2023-08-30,Other,1
+2023-08-30,Policy Chat,2
+2023-08-30,Ring 2,4
+2023-08-30,Roku,4
+2023-08-30,VOXR,1
+2023-08-30,Youtube,8
+2023-08-30,Regal,1
+2023-08-31,Barrington,1
+2023-08-31,Channel Edge,3
+2023-08-31,Google,4
+2023-08-31,Lucent,3
+2023-08-31,O2C,7
+2023-08-31,Other,1
+2023-08-31,Policy Chat,6
+2023-08-31,Ring 2,3
+2023-08-31,Roku,6
+2023-08-31,VOXR,3
+2023-08-31,Youtube,8
+2023-08-31,Regal,8
+2023-09-01,Barrington,3
+2023-09-01,Channel Edge,4
+2023-09-01,Google,13
+2023-09-01,Lucent,1
+2023-09-01,O2C,7
+2023-09-01,Other,1
+2023-09-01,Policy Chat,5
+2023-09-01,Ring 2,3
+2023-09-01,Roku,1
+2023-09-01,VOXR,1
+2023-09-01,Youtube,4
+2023-09-01,Regal,2
+2023-09-02,Barrington,3
+2023-09-02,Channel Edge,2
+2023-09-02,Google,12
+2023-09-02,Lucent,2
+2023-09-02,O2C,8
+2023-09-02,Other,2
+2023-09-02,Policy Chat,1
+2023-09-02,Ring 2,4
+2023-09-02,Roku,5
+2023-09-02,VOXR,1
+2023-09-02,Youtube,11
+2023-09-02,Regal,4
+2023-09-03,Barrington,3
+2023-09-03,Channel Edge,1
+2023-09-03,Google,13
+2023-09-03,Lucent,4
+2023-09-03,O2C,3
+2023-09-03,Other,2
+2023-09-03,Policy Chat,5
+2023-09-03,Ring 2,2
+2023-09-03,Roku,2
+2023-09-03,VOXR,2
+2023-09-03,Youtube,3
+2023-09-03,Regal,3
+2023-09-04,Barrington,3
+2023-09-04,Channel Edge,3
+2023-09-04,Google,3
+2023-09-04,Lucent,4
+2023-09-04,O2C,6
+2023-09-04,Other,2
+2023-09-04,Policy Chat,3
+2023-09-04,Ring 2,2
+2023-09-04,Roku,5
+2023-09-04,VOXR,4
+2023-09-04,Youtube,9
+2023-09-04,Regal,1
+2023-09-05,Barrington,6
+2023-09-05,Channel Edge,4
+2023-09-05,Google,10
+2023-09-05,Lucent,1
+2023-09-05,O2C,7
+2023-09-05,Other,1
+2023-09-05,Policy Chat,4
+2023-09-05,Ring 2,2
+2023-09-05,Roku,5
+2023-09-05,VOXR,1
+2023-09-05,Youtube,6
+2023-09-05,Regal,4
+2023-09-06,Barrington,3
+2023-09-06,Channel Edge,1
+2023-09-06,Google,5
+2023-09-06,Lucent,3
+2023-09-06,O2C,8
+2023-09-06,Other,1
+2023-09-06,Policy Chat,1
+2023-09-06,Ring 2,4
+2023-09-06,Roku,5
+2023-09-06,VOXR,4
+2023-09-06,Youtube,6
+2023-09-06,Regal,5
+2023-09-07,Barrington,1
+2023-09-07,Channel Edge,2
+2023-09-07,Google,11
+2023-09-07,Lucent,2
+2023-09-07,O2C,4
+2023-09-07,Other,1
+2023-09-07,Policy Chat,1
+2023-09-07,Ring 2,2
+2023-09-07,Roku,5
+2023-09-07,VOXR,2
+2023-09-07,Youtube,6
+2023-09-07,Regal,4
+2023-09-08,Barrington,5
+2023-09-08,Channel Edge,4
+2023-09-08,Google,13
+2023-09-08,Lucent,2
+2023-09-08,O2C,3
+2023-09-08,Other,1
+2023-09-08,Policy Chat,2
+2023-09-08,Ring 2,1
+2023-09-08,Roku,4
+2023-09-08,VOXR,3
+2023-09-08,Youtube,3
+2023-09-08,Regal,5
+2023-09-09,Barrington,4
+2023-09-09,Channel Edge,3
+2023-09-09,Google,9
+2023-09-09,Lucent,3
+2023-09-09,O2C,8
+2023-09-09,Other,3
+2023-09-09,Policy Chat,1
+2023-09-09,Ring 2,1
+2023-09-09,Roku,4
+2023-09-09,VOXR,1
+2023-09-09,Youtube,4
+2023-09-09,Regal,2
+2023-09-10,Barrington,7
+2023-09-10,Channel Edge,2
+2023-09-10,Google,6
+2023-09-10,Lucent,1
+2023-09-10,O2C,11
+2023-09-10,Other,3
+2023-09-10,Policy Chat,8
+2023-09-10,Ring 2,1
+2023-09-10,Roku,5
+2023-09-10,VOXR,3
+2023-09-10,Youtube,5
+2023-09-10,Regal,6
+2023-09-11,Barrington,6
+2023-09-11,Channel Edge,1
+2023-09-11,Google,9
+2023-09-11,Lucent,1
+2023-09-11,O2C,9
+2023-09-11,Other,1
+2023-09-11,Policy Chat,3
+2023-09-11,Ring 2,5
+2023-09-11,Roku,1
+2023-09-11,VOXR,4
+2023-09-11,Youtube,1
+2023-09-11,Regal,2
+2023-09-12,Barrington,3
+2023-09-12,Channel Edge,3
+2023-09-12,Google,8
+2023-09-12,Lucent,1
+2023-09-12,O2C,8
+2023-09-12,Other,1
+2023-09-12,Policy Chat,6
+2023-09-12,Ring 2,2
+2023-09-12,Roku,3
+2023-09-12,VOXR,3
+2023-09-12,Youtube,4
+2023-09-12,Regal,7
+2023-09-13,Barrington,2
+2023-09-13,Channel Edge,4
+2023-09-13,Google,15
+2023-09-13,Lucent,2
+2023-09-13,O2C,7
+2023-09-13,Other,4
+2023-09-13,Policy Chat,6
+2023-09-13,Ring 2,3
+2023-09-13,Roku,5
+2023-09-13,VOXR,3
+2023-09-13,Youtube,7
+2023-09-13,Regal,2
+2023-09-14,Barrington,4
+2023-09-14,Channel Edge,1
+2023-09-14,Google,11
+2023-09-14,Lucent,1
+2023-09-14,O2C,8
+2023-09-14,Other,1
+2023-09-14,Policy Chat,2
+2023-09-14,Ring 2,8
+2023-09-14,Roku,4
+2023-09-14,VOXR,2
+2023-09-14,Youtube,7
+2023-09-14,Regal,1
+2023-09-15,Barrington,4
+2023-09-15,Channel Edge,3
+2023-09-15,Google,15
+2023-09-15,Lucent,2
+2023-09-15,O2C,5
+2023-09-15,Other,1
+2023-09-15,Policy Chat,4
+2023-09-15,Ring 2,4
+2023-09-15,Roku,1
+2023-09-15,VOXR,2
+2023-09-15,Youtube,2
+2023-09-15,Regal,5
+2023-09-16,Barrington,7
+2023-09-16,Channel Edge,2
+2023-09-16,Google,11
+2023-09-16,Lucent,1
+2023-09-16,O2C,4
+2023-09-16,Other,1
+2023-09-16,Policy Chat,5
+2023-09-16,Ring 2,2
+2023-09-16,Roku,2
+2023-09-16,VOXR,2
+2023-09-16,Youtube,10
+2023-09-16,Regal,3
+2023-09-17,Barrington,1
+2023-09-17,Channel Edge,1
+2023-09-17,Google,16
+2023-09-17,Lucent,1
+2023-09-17,O2C,4
+2023-09-17,Other,3
+2023-09-17,Policy Chat,3
+2023-09-17,Ring 2,1
+2023-09-17,Roku,3
+2023-09-17,VOXR,3
+2023-09-17,Youtube,6
+2023-09-17,Regal,5
+2023-09-18,Barrington,1
+2023-09-18,Channel Edge,5
+2023-09-18,Google,13
+2023-09-18,Lucent,7
+2023-09-18,O2C,5
+2023-09-18,Other,3
+2023-09-18,Policy Chat,6
+2023-09-18,Ring 2,2
+2023-09-18,Roku,3
+2023-09-18,VOXR,3
+2023-09-18,Youtube,3
+2023-09-18,Regal,3
+2023-09-19,Barrington,3
+2023-09-19,Channel Edge,1
+2023-09-19,Google,6
+2023-09-19,Lucent,2
+2023-09-19,O2C,10
+2023-09-19,Other,1
+2023-09-19,Policy Chat,3
+2023-09-19,Ring 2,4
+2023-09-19,Roku,4
+2023-09-19,VOXR,3
+2023-09-19,Youtube,6
+2023-09-19,Regal,5
+2023-09-20,Barrington,1
+2023-09-20,Channel Edge,1
+2023-09-20,Google,10
+2023-09-20,Lucent,1
+2023-09-20,O2C,7
+2023-09-20,Other,1
+2023-09-20,Policy Chat,1
+2023-09-20,Ring 2,3
+2023-09-20,Roku,3
+2023-09-20,VOXR,1
+2023-09-20,Youtube,4
+2023-09-20,Regal,1
+2023-09-21,Barrington,7
+2023-09-21,Channel Edge,3
+2023-09-21,Google,8
+2023-09-21,Lucent,1
+2023-09-21,O2C,5
+2023-09-21,Other,3
+2023-09-21,Policy Chat,3
+2023-09-21,Ring 2,2
+2023-09-21,Roku,11
+2023-09-21,VOXR,2
+2023-09-21,Youtube,6
+2023-09-21,Regal,4
+2023-09-22,Barrington,7
+2023-09-22,Channel Edge,3
+2023-09-22,Google,12
+2023-09-22,Lucent,1
+2023-09-22,O2C,3
+2023-09-22,Other,1
+2023-09-22,Policy Chat,3
+2023-09-22,Ring 2,3
+2023-09-22,Roku,4
+2023-09-22,VOXR,3
+2023-09-22,Youtube,8
+2023-09-22,Regal,6
+2023-09-23,Barrington,2
+2023-09-23,Channel Edge,3
+2023-09-23,Google,9
+2023-09-23,Lucent,1
+2023-09-23,O2C,8
+2023-09-23,Other,1
+2023-09-23,Policy Chat,2
+2023-09-23,Ring 2,2
+2023-09-23,Roku,3
+2023-09-23,VOXR,5
+2023-09-23,Youtube,4
+2023-09-23,Regal,1
+2023-09-24,Barrington,10
+2023-09-24,Channel Edge,4
+2023-09-24,Google,14
+2023-09-24,Lucent,1
+2023-09-24,O2C,4
+2023-09-24,Other,1
+2023-09-24,Policy Chat,3
+2023-09-24,Ring 2,2
+2023-09-24,Roku,5
+2023-09-24,VOXR,1
+2023-09-24,Youtube,6
+2023-09-24,Regal,4
+2023-09-25,Barrington,4
+2023-09-25,Channel Edge,3
+2023-09-25,Google,15
+2023-09-25,Lucent,2
+2023-09-25,O2C,6
+2023-09-25,Other,1
+2023-09-25,Policy Chat,3
+2023-09-25,Ring 2,2
+2023-09-25,Roku,5
+2023-09-25,VOXR,2
+2023-09-25,Youtube,4
+2023-09-25,Regal,2
+2023-09-26,Barrington,4
+2023-09-26,Channel Edge,6
+2023-09-26,Google,15
+2023-09-26,Lucent,6
+2023-09-26,O2C,9
+2023-09-26,Other,3
+2023-09-26,Policy Chat,4
+2023-09-26,Ring 2,4
+2023-09-26,Roku,9
+2023-09-26,VOXR,3
+2023-09-26,Youtube,5
+2023-09-26,Regal,5
+2023-09-27,Barrington,6
+2023-09-27,Channel Edge,3
+2023-09-27,Google,9
+2023-09-27,Lucent,3
+2023-09-27,O2C,5
+2023-09-27,Other,2
+2023-09-27,Policy Chat,3
+2023-09-27,Ring 2,4
+2023-09-27,Roku,6
+2023-09-27,VOXR,1
+2023-09-27,Youtube,4
+2023-09-27,Regal,7
+2023-09-28,Barrington,3
+2023-09-28,Channel Edge,2
+2023-09-28,Google,8
+2023-09-28,Lucent,3
+2023-09-28,O2C,11
+2023-09-28,Other,2
+2023-09-28,Policy Chat,3
+2023-09-28,Ring 2,2
+2023-09-28,Roku,3
+2023-09-28,VOXR,3
+2023-09-28,Youtube,5
+2023-09-28,Regal,3
+2023-09-29,Barrington,3
+2023-09-29,Channel Edge,3
+2023-09-29,Google,4
+2023-09-29,Lucent,3
+2023-09-29,O2C,9
+2023-09-29,Other,2
+2023-09-29,Policy Chat,2
+2023-09-29,Ring 2,1
+2023-09-29,Roku,3
+2023-09-29,VOXR,1
+2023-09-29,Youtube,10
+2023-09-29,Regal,8
+2023-09-30,Barrington,3
+2023-09-30,Channel Edge,2
+2023-09-30,Google,10
+2023-09-30,Lucent,1
+2023-09-30,O2C,8
+2023-09-30,Other,2
+2023-09-30,Policy Chat,3
+2023-09-30,Ring 2,5
+2023-09-30,Roku,5
+2023-09-30,VOXR,2
+2023-09-30,Youtube,7
+2023-09-30,Regal,2
+2023-10-01,Barrington,1
+2023-10-01,Channel Edge,2
+2023-10-01,Google,11
+2023-10-01,Lucent,1
+2023-10-01,O2C,4
+2023-10-01,Other,1
+2023-10-01,Policy Chat,1
+2023-10-01,Ring 2,3
+2023-10-01,Roku,1
+2023-10-01,VOXR,1
+2023-10-01,Youtube,6
+2023-10-01,Regal,3
+2023-10-02,Barrington,4
+2023-10-02,Channel Edge,5
+2023-10-02,Google,14
+2023-10-02,Lucent,1
+2023-10-02,O2C,9
+2023-10-02,Other,5
+2023-10-02,Policy Chat,1
+2023-10-02,Ring 2,2
+2023-10-02,Roku,6
+2023-10-02,VOXR,1
+2023-10-02,Youtube,7
+2023-10-02,Regal,5
+2023-10-03,Barrington,7
+2023-10-03,Channel Edge,4
+2023-10-03,Google,9
+2023-10-03,Lucent,3
+2023-10-03,O2C,7
+2023-10-03,Other,1
+2023-10-03,Policy Chat,3
+2023-10-03,Ring 2,3
+2023-10-03,Roku,6
+2023-10-03,VOXR,1
+2023-10-03,Youtube,4
+2023-10-03,Regal,2
+2023-10-04,Barrington,6
+2023-10-04,Channel Edge,2
+2023-10-04,Google,5
+2023-10-04,Lucent,1
+2023-10-04,O2C,8
+2023-10-04,Other,2
+2023-10-04,Policy Chat,2
+2023-10-04,Ring 2,2
+2023-10-04,Roku,3
+2023-10-04,VOXR,2
+2023-10-04,Youtube,8
+2023-10-04,Regal,4
+2023-10-05,Barrington,2
+2023-10-05,Channel Edge,4
+2023-10-05,Google,7
+2023-10-05,Lucent,1
+2023-10-05,O2C,9
+2023-10-05,Other,4
+2023-10-05,Policy Chat,3
+2023-10-05,Ring 2,5
+2023-10-05,Roku,2
+2023-10-05,VOXR,5
+2023-10-05,Youtube,2
+2023-10-05,Regal,4
+2023-10-06,Barrington,3
+2023-10-06,Channel Edge,1
+2023-10-06,Google,13
+2023-10-06,Lucent,1
+2023-10-06,O2C,9
+2023-10-06,Other,1
+2023-10-06,Policy Chat,4
+2023-10-06,Ring 2,1
+2023-10-06,Roku,3
+2023-10-06,VOXR,5
+2023-10-06,Youtube,11
+2023-10-06,Regal,3
+2023-10-07,Barrington,1
+2023-10-07,Channel Edge,4
+2023-10-07,Google,14
+2023-10-07,Lucent,1
+2023-10-07,O2C,7
+2023-10-07,Other,1
+2023-10-07,Policy Chat,4
+2023-10-07,Ring 2,3
+2023-10-07,Roku,2
+2023-10-07,VOXR,2
+2023-10-07,Youtube,6
+2023-10-07,Regal,5
+2023-10-08,Barrington,2
+2023-10-08,Channel Edge,1
+2023-10-08,Google,9
+2023-10-08,Lucent,5
+2023-10-08,O2C,5
+2023-10-08,Other,1
+2023-10-08,Policy Chat,2
+2023-10-08,Ring 2,1
+2023-10-08,Roku,3
+2023-10-08,VOXR,2
+2023-10-08,Youtube,6
+2023-10-08,Regal,1
+2023-10-09,Barrington,3
+2023-10-09,Channel Edge,2
+2023-10-09,Google,14
+2023-10-09,Lucent,1
+2023-10-09,O2C,4
+2023-10-09,Other,1
+2023-10-09,Policy Chat,5
+2023-10-09,Ring 2,2
+2023-10-09,Roku,5
+2023-10-09,VOXR,3
+2023-10-09,Youtube,7
+2023-10-09,Regal,3
+2023-10-10,Barrington,7
+2023-10-10,Channel Edge,6
+2023-10-10,Google,13
+2023-10-10,Lucent,1
+2023-10-10,O2C,5
+2023-10-10,Other,1
+2023-10-10,Policy Chat,5
+2023-10-10,Ring 2,1
+2023-10-10,Roku,4
+2023-10-10,VOXR,1
+2023-10-10,Youtube,3
+2023-10-10,Regal,2
+2023-10-11,Barrington,5
+2023-10-11,Channel Edge,3
+2023-10-11,Google,8
+2023-10-11,Lucent,1
+2023-10-11,O2C,5
+2023-10-11,Other,1
+2023-10-11,Policy Chat,3
+2023-10-11,Ring 2,1
+2023-10-11,Roku,6
+2023-10-11,VOXR,1
+2023-10-11,Youtube,6
+2023-10-11,Regal,3
+2023-10-12,Barrington,2
+2023-10-12,Channel Edge,3
+2023-10-12,Google,12
+2023-10-12,Lucent,2
+2023-10-12,O2C,2
+2023-10-12,Other,1
+2023-10-12,Policy Chat,1
+2023-10-12,Ring 2,1
+2023-10-12,Roku,3
+2023-10-12,VOXR,3
+2023-10-12,Youtube,4
+2023-10-12,Regal,4
+2023-10-13,Barrington,5
+2023-10-13,Channel Edge,1
+2023-10-13,Google,10
+2023-10-13,Lucent,1
+2023-10-13,O2C,10
+2023-10-13,Other,2
+2023-10-13,Policy Chat,2
+2023-10-13,Ring 2,3
+2023-10-13,Roku,4
+2023-10-13,VOXR,2
+2023-10-13,Youtube,10
+2023-10-13,Regal,3
+2023-10-14,Barrington,4
+2023-10-14,Channel Edge,2
+2023-10-14,Google,10
+2023-10-14,Lucent,1
+2023-10-14,O2C,2
+2023-10-14,Other,3
+2023-10-14,Policy Chat,5
+2023-10-14,Ring 2,2
+2023-10-14,Roku,7
+2023-10-14,VOXR,5
+2023-10-14,Youtube,7
+2023-10-14,Regal,2
+2023-10-15,Barrington,1
+2023-10-15,Channel Edge,2
+2023-10-15,Google,9
+2023-10-15,Lucent,4
+2023-10-15,O2C,10
+2023-10-15,Other,1
+2023-10-15,Policy Chat,1
+2023-10-15,Ring 2,3
+2023-10-15,Roku,4
+2023-10-15,VOXR,1
+2023-10-15,Youtube,5
+2023-10-15,Regal,4
+2023-10-16,Barrington,4
+2023-10-16,Channel Edge,1
+2023-10-16,Google,11
+2023-10-16,Lucent,3
+2023-10-16,O2C,6
+2023-10-16,Other,1
+2023-10-16,Policy Chat,1
+2023-10-16,Ring 2,1
+2023-10-16,Roku,5
+2023-10-16,VOXR,2
+2023-10-16,Youtube,2
+2023-10-16,Regal,4
+2023-10-17,Barrington,1
+2023-10-17,Channel Edge,4
+2023-10-17,Google,12
+2023-10-17,Lucent,1
+2023-10-17,O2C,8
+2023-10-17,Other,2
+2023-10-17,Policy Chat,2
+2023-10-17,Ring 2,2
+2023-10-17,Roku,6
+2023-10-17,VOXR,3
+2023-10-17,Youtube,3
+2023-10-17,Regal,3
+2023-10-18,Barrington,4
+2023-10-18,Channel Edge,5
+2023-10-18,Google,6
+2023-10-18,Lucent,3
+2023-10-18,O2C,9
+2023-10-18,Other,2
+2023-10-18,Policy Chat,2
+2023-10-18,Ring 2,4
+2023-10-18,Roku,2
+2023-10-18,VOXR,2
+2023-10-18,Youtube,4
+2023-10-18,Regal,2
+2023-10-19,Barrington,2
+2023-10-19,Channel Edge,2
+2023-10-19,Google,8
+2023-10-19,Lucent,1
+2023-10-19,O2C,7
+2023-10-19,Other,1
+2023-10-19,Policy Chat,3
+2023-10-19,Ring 2,4
+2023-10-19,Roku,3
+2023-10-19,VOXR,1
+2023-10-19,Youtube,6
+2023-10-19,Regal,1
+2023-10-20,Barrington,4
+2023-10-20,Channel Edge,1
+2023-10-20,Google,9
+2023-10-20,Lucent,1
+2023-10-20,O2C,3
+2023-10-20,Other,1
+2023-10-20,Policy Chat,2
+2023-10-20,Ring 2,2
+2023-10-20,Roku,2
+2023-10-20,VOXR,1
+2023-10-20,Youtube,5
+2023-10-20,Regal,1
+2023-10-21,Barrington,3
+2023-10-21,Channel Edge,1
+2023-10-21,Google,11
+2023-10-21,Lucent,3
+2023-10-21,O2C,1
+2023-10-21,Other,2
+2023-10-21,Policy Chat,4
+2023-10-21,Ring 2,2
+2023-10-21,Roku,4
+2023-10-21,VOXR,4
+2023-10-21,Youtube,5
+2023-10-21,Regal,1
+2023-10-22,Barrington,3
+2023-10-22,Channel Edge,1
+2023-10-22,Google,15
+2023-10-22,Lucent,3
+2023-10-22,O2C,7
+2023-10-22,Other,1
+2023-10-22,Policy Chat,1
+2023-10-22,Ring 2,3
+2023-10-22,Roku,7
+2023-10-22,VOXR,1
+2023-10-22,Youtube,5
+2023-10-22,Regal,3
+2023-10-23,Barrington,7
+2023-10-23,Channel Edge,1
+2023-10-23,Google,10
+2023-10-23,Lucent,1
+2023-10-23,O2C,5
+2023-10-23,Other,1
+2023-10-23,Policy Chat,4
+2023-10-23,Ring 2,6
+2023-10-23,Roku,1
+2023-10-23,VOXR,3
+2023-10-23,Youtube,5
+2023-10-23,Regal,2
+2023-10-24,Barrington,4
+2023-10-24,Channel Edge,3
+2023-10-24,Google,13
+2023-10-24,Lucent,3
+2023-10-24,O2C,6
+2023-10-24,Other,2
+2023-10-24,Policy Chat,4
+2023-10-24,Ring 2,4
+2023-10-24,Roku,6
+2023-10-24,VOXR,1
+2023-10-24,Youtube,8
+2023-10-24,Regal,4
+2023-10-25,Barrington,6
+2023-10-25,Channel Edge,2
+2023-10-25,Google,6
+2023-10-25,Lucent,2
+2023-10-25,O2C,6
+2023-10-25,Other,2
+2023-10-25,Policy Chat,2
+2023-10-25,Ring 2,4
+2023-10-25,Roku,5
+2023-10-25,VOXR,3
+2023-10-25,Youtube,5
+2023-10-25,Regal,4
+2023-10-26,Barrington,5
+2023-10-26,Channel Edge,9
+2023-10-26,Google,8
+2023-10-26,Lucent,2
+2023-10-26,O2C,5
+2023-10-26,Other,1
+2023-10-26,Policy Chat,3
+2023-10-26,Ring 2,3
+2023-10-26,Roku,2
+2023-10-26,VOXR,4
+2023-10-26,Youtube,4
+2023-10-26,Regal,6
+2023-10-27,Barrington,3
+2023-10-27,Channel Edge,4
+2023-10-27,Google,9
+2023-10-27,Lucent,1
+2023-10-27,O2C,3
+2023-10-27,Other,1
+2023-10-27,Policy Chat,2
+2023-10-27,Ring 2,4
+2023-10-27,Roku,1
+2023-10-27,VOXR,1
+2023-10-27,Youtube,3
+2023-10-27,Regal,4
+2023-10-28,Barrington,1
+2023-10-28,Channel Edge,4
+2023-10-28,Google,12
+2023-10-28,Lucent,2
+2023-10-28,O2C,11
+2023-10-28,Other,2
+2023-10-28,Policy Chat,3
+2023-10-28,Ring 2,3
+2023-10-28,Roku,3
+2023-10-28,VOXR,2
+2023-10-28,Youtube,7
+2023-10-28,Regal,3
+2023-10-29,Barrington,3
+2023-10-29,Channel Edge,2
+2023-10-29,Google,4
+2023-10-29,Lucent,3
+2023-10-29,O2C,6
+2023-10-29,Other,2
+2023-10-29,Policy Chat,9
+2023-10-29,Ring 2,1
+2023-10-29,Roku,5
+2023-10-29,VOXR,1
+2023-10-29,Youtube,4
+2023-10-29,Regal,4
+2023-10-30,Barrington,5
+2023-10-30,Channel Edge,1
+2023-10-30,Google,8
+2023-10-30,Lucent,2
+2023-10-30,O2C,2
+2023-10-30,Other,1
+2023-10-30,Policy Chat,1
+2023-10-30,Ring 2,1
+2023-10-30,Roku,2
+2023-10-30,VOXR,1
+2023-10-30,Youtube,7
+2023-10-30,Regal,6
+2023-10-31,Barrington,1
+2023-10-31,Channel Edge,2
+2023-10-31,Google,8
+2023-10-31,Lucent,2
+2023-10-31,O2C,4
+2023-10-31,Other,4
+2023-10-31,Policy Chat,4
+2023-10-31,Ring 2,1
+2023-10-31,Roku,2
+2023-10-31,VOXR,2
+2023-10-31,Youtube,8
+2023-10-31,Regal,3
+2023-11-01,Barrington,3
+2023-11-01,Channel Edge,1
+2023-11-01,Google,9
+2023-11-01,Lucent,1
+2023-11-01,O2C,8
+2023-11-01,Other,4
+2023-11-01,Policy Chat,1
+2023-11-01,Ring 2,3
+2023-11-01,Roku,2
+2023-11-01,VOXR,1
+2023-11-01,Youtube,7
+2023-11-01,Regal,8
+2023-11-02,Barrington,4
+2023-11-02,Channel Edge,3
+2023-11-02,Google,7
+2023-11-02,Lucent,1
+2023-11-02,O2C,1
+2023-11-02,Other,6
+2023-11-02,Policy Chat,1
+2023-11-02,Ring 2,1
+2023-11-02,Roku,4
+2023-11-02,VOXR,1
+2023-11-02,Youtube,3
+2023-11-02,Regal,6
+2023-11-03,Barrington,3
+2023-11-03,Channel Edge,1
+2023-11-03,Google,12
+2023-11-03,Lucent,2
+2023-11-03,O2C,5
+2023-11-03,Other,1
+2023-11-03,Policy Chat,2
+2023-11-03,Ring 2,2
+2023-11-03,Roku,2
+2023-11-03,VOXR,3
+2023-11-03,Youtube,8
+2023-11-03,Regal,2
+2023-11-04,Barrington,4
+2023-11-04,Channel Edge,1
+2023-11-04,Google,10
+2023-11-04,Lucent,1
+2023-11-04,O2C,4
+2023-11-04,Other,3
+2023-11-04,Policy Chat,3
+2023-11-04,Ring 2,2
+2023-11-04,Roku,3
+2023-11-04,VOXR,2
+2023-11-04,Youtube,7
+2023-11-04,Regal,3
+2023-11-05,Barrington,2
+2023-11-05,Channel Edge,2
+2023-11-05,Google,6
+2023-11-05,Lucent,4
+2023-11-05,O2C,4
+2023-11-05,Other,3
+2023-11-05,Policy Chat,2
+2023-11-05,Ring 2,5
+2023-11-05,Roku,4
+2023-11-05,VOXR,1
+2023-11-05,Youtube,7
+2023-11-05,Regal,3
+2023-11-06,Barrington,5
+2023-11-06,Channel Edge,2
+2023-11-06,Google,8
+2023-11-06,Lucent,1
+2023-11-06,O2C,5
+2023-11-06,Other,1
+2023-11-06,Policy Chat,3
+2023-11-06,Ring 2,2
+2023-11-06,Roku,5
+2023-11-06,VOXR,1
+2023-11-06,Youtube,7
+2023-11-06,Regal,1
+2023-11-07,Barrington,1
+2023-11-07,Channel Edge,3
+2023-11-07,Google,10
+2023-11-07,Lucent,1
+2023-11-07,O2C,6
+2023-11-07,Other,2
+2023-11-07,Policy Chat,2
+2023-11-07,Ring 2,2
+2023-11-07,Roku,6
+2023-11-07,VOXR,1
+2023-11-07,Youtube,6
+2023-11-07,Regal,3
+2023-11-08,Barrington,3
+2023-11-08,Channel Edge,2
+2023-11-08,Google,3
+2023-11-08,Lucent,3
+2023-11-08,O2C,8
+2023-11-08,Other,1
+2023-11-08,Policy Chat,5
+2023-11-08,Ring 2,2
+2023-11-08,Roku,2
+2023-11-08,VOXR,2
+2023-11-08,Youtube,6
+2023-11-08,Regal,3
+2023-11-09,Barrington,1
+2023-11-09,Channel Edge,4
+2023-11-09,Google,9
+2023-11-09,Lucent,2
+2023-11-09,O2C,4
+2023-11-09,Other,1
+2023-11-09,Policy Chat,4
+2023-11-09,Ring 2,2
+2023-11-09,Roku,5
+2023-11-09,VOXR,2
+2023-11-09,Youtube,5
+2023-11-09,Regal,1
+2023-11-10,Barrington,3
+2023-11-10,Channel Edge,1
+2023-11-10,Google,11
+2023-11-10,Lucent,2
+2023-11-10,O2C,7
+2023-11-10,Other,1
+2023-11-10,Policy Chat,4
+2023-11-10,Ring 2,1
+2023-11-10,Roku,3
+2023-11-10,VOXR,2
+2023-11-10,Youtube,3
+2023-11-10,Regal,4
+2023-11-11,Barrington,4
+2023-11-11,Channel Edge,3
+2023-11-11,Google,12
+2023-11-11,Lucent,2
+2023-11-11,O2C,4
+2023-11-11,Other,2
+2023-11-11,Policy Chat,1
+2023-11-11,Ring 2,2
+2023-11-11,Roku,4
+2023-11-11,VOXR,1
+2023-11-11,Youtube,8
+2023-11-11,Regal,2
+2023-11-12,Barrington,3
+2023-11-12,Channel Edge,1
+2023-11-12,Google,7
+2023-11-12,Lucent,2
+2023-11-12,O2C,8
+2023-11-12,Other,1
+2023-11-12,Policy Chat,1
+2023-11-12,Ring 2,1
+2023-11-12,Roku,4
+2023-11-12,VOXR,7
+2023-11-12,Youtube,5
+2023-11-12,Regal,5
+2023-11-13,Barrington,2
+2023-11-13,Channel Edge,1
+2023-11-13,Google,14
+2023-11-13,Lucent,1
+2023-11-13,O2C,6
+2023-11-13,Other,1
+2023-11-13,Policy Chat,1
+2023-11-13,Ring 2,1
+2023-11-13,Roku,4
+2023-11-13,VOXR,1
+2023-11-13,Youtube,4
+2023-11-13,Regal,1
+2023-11-14,Barrington,1
+2023-11-14,Channel Edge,1
+2023-11-14,Google,7
+2023-11-14,Lucent,1
+2023-11-14,O2C,14
+2023-11-14,Other,1
+2023-11-14,Policy Chat,2
+2023-11-14,Ring 2,1
+2023-11-14,Roku,3
+2023-11-14,VOXR,4
+2023-11-14,Youtube,5
+2023-11-14,Regal,5
+2023-11-15,Barrington,2
+2023-11-15,Channel Edge,2
+2023-11-15,Google,7
+2023-11-15,Lucent,2
+2023-11-15,O2C,5
+2023-11-15,Other,2
+2023-11-15,Policy Chat,1
+2023-11-15,Ring 2,3
+2023-11-15,Roku,4
+2023-11-15,VOXR,3
+2023-11-15,Youtube,6
+2023-11-15,Regal,5
+2023-11-16,Barrington,4
+2023-11-16,Channel Edge,4
+2023-11-16,Google,6
+2023-11-16,Lucent,3
+2023-11-16,O2C,4
+2023-11-16,Other,3
+2023-11-16,Policy Chat,1
+2023-11-16,Ring 2,1
+2023-11-16,Roku,2
+2023-11-16,VOXR,2
+2023-11-16,Youtube,8
+2023-11-16,Regal,2
+2023-11-17,Barrington,2
+2023-11-17,Channel Edge,3
+2023-11-17,Google,12
+2023-11-17,Lucent,1
+2023-11-17,O2C,2
+2023-11-17,Other,1
+2023-11-17,Policy Chat,5
+2023-11-17,Ring 2,2
+2023-11-17,Roku,3
+2023-11-17,VOXR,1
+2023-11-17,Youtube,9
+2023-11-17,Regal,3
+2023-11-18,Barrington,1
+2023-11-18,Channel Edge,2
+2023-11-18,Google,7
+2023-11-18,Lucent,2
+2023-11-18,O2C,6
+2023-11-18,Other,2
+2023-11-18,Policy Chat,4
+2023-11-18,Ring 2,5
+2023-11-18,Roku,1
+2023-11-18,VOXR,2
+2023-11-18,Youtube,6
+2023-11-18,Regal,1
+2023-11-19,Barrington,6
+2023-11-19,Channel Edge,2
+2023-11-19,Google,6
+2023-11-19,Lucent,1
+2023-11-19,O2C,8
+2023-11-19,Other,2
+2023-11-19,Policy Chat,3
+2023-11-19,Ring 2,1
+2023-11-19,Roku,3
+2023-11-19,VOXR,2
+2023-11-19,Youtube,3
+2023-11-19,Regal,2
+2023-11-20,Barrington,4
+2023-11-20,Channel Edge,1
+2023-11-20,Google,8
+2023-11-20,Lucent,3
+2023-11-20,O2C,6
+2023-11-20,Other,2
+2023-11-20,Policy Chat,2
+2023-11-20,Ring 2,4
+2023-11-20,Roku,3
+2023-11-20,VOXR,2
+2023-11-20,Youtube,6
+2023-11-20,Regal,1
+2023-11-21,Barrington,5
+2023-11-21,Channel Edge,1
+2023-11-21,Google,6
+2023-11-21,Lucent,3
+2023-11-21,O2C,5
+2023-11-21,Other,5
+2023-11-21,Policy Chat,5
+2023-11-21,Ring 2,3
+2023-11-21,Roku,6
+2023-11-21,VOXR,2
+2023-11-21,Youtube,3
+2023-11-21,Regal,2
+2023-11-22,Barrington,6
+2023-11-22,Channel Edge,1
+2023-11-22,Google,3
+2023-11-22,Lucent,1
+2023-11-22,O2C,8
+2023-11-22,Other,1
+2023-11-22,Policy Chat,3
+2023-11-22,Ring 2,4
+2023-11-22,Roku,7
+2023-11-22,VOXR,4
+2023-11-22,Youtube,5
+2023-11-22,Regal,5
+2023-11-23,Barrington,3
+2023-11-23,Channel Edge,2
+2023-11-23,Google,8
+2023-11-23,Lucent,2
+2023-11-23,O2C,4
+2023-11-23,Other,5
+2023-11-23,Policy Chat,1
+2023-11-23,Ring 2,1
+2023-11-23,Roku,1
+2023-11-23,VOXR,2
+2023-11-23,Youtube,2
+2023-11-23,Regal,1
+2023-11-24,Barrington,3
+2023-11-24,Channel Edge,1
+2023-11-24,Google,11
+2023-11-24,Lucent,1
+2023-11-24,O2C,5
+2023-11-24,Other,2
+2023-11-24,Policy Chat,1
+2023-11-24,Ring 2,2
+2023-11-24,Roku,3
+2023-11-24,VOXR,1
+2023-11-24,Youtube,9
+2023-11-24,Regal,1
+2023-11-25,Barrington,4
+2023-11-25,Channel Edge,1
+2023-11-25,Google,4
+2023-11-25,Lucent,2
+2023-11-25,O2C,4
+2023-11-25,Other,1
+2023-11-25,Policy Chat,3
+2023-11-25,Ring 2,2
+2023-11-25,Roku,4
+2023-11-25,VOXR,4
+2023-11-25,Youtube,3
+2023-11-25,Regal,3
+2023-11-26,Barrington,5
+2023-11-26,Channel Edge,1
+2023-11-26,Google,13
+2023-11-26,Lucent,1
+2023-11-26,O2C,5
+2023-11-26,Other,1
+2023-11-26,Policy Chat,3
+2023-11-26,Ring 2,1
+2023-11-26,Roku,3
+2023-11-26,VOXR,1
+2023-11-26,Youtube,6
+2023-11-26,Regal,5
+2023-11-27,Barrington,3
+2023-11-27,Channel Edge,3
+2023-11-27,Google,11
+2023-11-27,Lucent,1
+2023-11-27,O2C,16
+2023-11-27,Other,1
+2023-11-27,Policy Chat,7
+2023-11-27,Ring 2,3
+2023-11-27,Roku,6
+2023-11-27,VOXR,1
+2023-11-27,Youtube,8
+2023-11-27,Regal,3
+2023-11-28,Barrington,5
+2023-11-28,Channel Edge,4
+2023-11-28,Google,9
+2023-11-28,Lucent,2
+2023-11-28,O2C,2
+2023-11-28,Other,2
+2023-11-28,Policy Chat,3
+2023-11-28,Ring 2,2
+2023-11-28,Roku,1
+2023-11-28,VOXR,3
+2023-11-28,Youtube,6
+2023-11-28,Regal,1
+2023-11-29,Barrington,1
+2023-11-29,Channel Edge,1
+2023-11-29,Google,6
+2023-11-29,Lucent,1
+2023-11-29,O2C,5
+2023-11-29,Other,1
+2023-11-29,Policy Chat,6
+2023-11-29,Ring 2,8
+2023-11-29,Roku,1
+2023-11-29,VOXR,2
+2023-11-29,Youtube,6
+2023-11-29,Regal,3
+2023-11-30,Barrington,1
+2023-11-30,Channel Edge,4
+2023-11-30,Google,9
+2023-11-30,Lucent,1
+2023-11-30,O2C,9
+2023-11-30,Other,3
+2023-11-30,Policy Chat,2
+2023-11-30,Ring 2,1
+2023-11-30,Roku,4
+2023-11-30,VOXR,3
+2023-11-30,Youtube,3
+2023-11-30,Regal,3
+2023-12-01,Barrington,3
+2023-12-01,Channel Edge,1
+2023-12-01,Google,7
+2023-12-01,Lucent,5
+2023-12-01,O2C,3
+2023-12-01,Other,2
+2023-12-01,Policy Chat,4
+2023-12-01,Ring 2,2
+2023-12-01,Roku,4
+2023-12-01,VOXR,2
+2023-12-01,Youtube,10
+2023-12-01,Regal,5
+2023-12-02,Barrington,1
+2023-12-02,Channel Edge,3
+2023-12-02,Google,6
+2023-12-02,Lucent,1
+2023-12-02,O2C,7
+2023-12-02,Other,2
+2023-12-02,Policy Chat,1
+2023-12-02,Ring 2,3
+2023-12-02,Roku,1
+2023-12-02,VOXR,3
+2023-12-02,Youtube,8
+2023-12-02,Regal,3
+2023-12-03,Barrington,1
+2023-12-03,Channel Edge,6
+2023-12-03,Google,9
+2023-12-03,Lucent,1
+2023-12-03,O2C,8
+2023-12-03,Other,1
+2023-12-03,Policy Chat,1
+2023-12-03,Ring 2,2
+2023-12-03,Roku,1
+2023-12-03,VOXR,1
+2023-12-03,Youtube,6
+2023-12-03,Regal,3
+2023-12-04,Barrington,2
+2023-12-04,Channel Edge,2
+2023-12-04,Google,7
+2023-12-04,Lucent,1
+2023-12-04,O2C,4
+2023-12-04,Other,1
+2023-12-04,Policy Chat,2
+2023-12-04,Ring 2,1
+2023-12-04,Roku,4
+2023-12-04,VOXR,1
+2023-12-04,Youtube,4
+2023-12-04,Regal,3
+2023-12-05,Barrington,1
+2023-12-05,Channel Edge,2
+2023-12-05,Google,10
+2023-12-05,Lucent,1
+2023-12-05,O2C,3
+2023-12-05,Other,1
+2023-12-05,Policy Chat,3
+2023-12-05,Ring 2,3
+2023-12-05,Roku,3
+2023-12-05,VOXR,3
+2023-12-05,Youtube,5
+2023-12-05,Regal,3
+2023-12-06,Barrington,2
+2023-12-06,Channel Edge,1
+2023-12-06,Google,11
+2023-12-06,Lucent,2
+2023-12-06,O2C,6
+2023-12-06,Other,3
+2023-12-06,Policy Chat,1
+2023-12-06,Ring 2,6
+2023-12-06,Roku,2
+2023-12-06,VOXR,1
+2023-12-06,Youtube,5
+2023-12-06,Regal,3
+2023-12-07,Barrington,5
+2023-12-07,Channel Edge,2
+2023-12-07,Google,8
+2023-12-07,Lucent,1
+2023-12-07,O2C,11
+2023-12-07,Other,2
+2023-12-07,Policy Chat,3
+2023-12-07,Ring 2,3
+2023-12-07,Roku,2
+2023-12-07,VOXR,3
+2023-12-07,Youtube,5
+2023-12-07,Regal,2
+2023-12-08,Barrington,1
+2023-12-08,Channel Edge,5
+2023-12-08,Google,10
+2023-12-08,Lucent,2
+2023-12-08,O2C,5
+2023-12-08,Other,1
+2023-12-08,Policy Chat,2
+2023-12-08,Ring 2,5
+2023-12-08,Roku,5
+2023-12-08,VOXR,4
+2023-12-08,Youtube,6
+2023-12-08,Regal,1
+2023-12-09,Barrington,1
+2023-12-09,Channel Edge,2
+2023-12-09,Google,7
+2023-12-09,Lucent,2
+2023-12-09,O2C,5
+2023-12-09,Other,1
+2023-12-09,Policy Chat,2
+2023-12-09,Ring 2,2
+2023-12-09,Roku,2
+2023-12-09,VOXR,2
+2023-12-09,Youtube,4
+2023-12-09,Regal,3
+2023-12-10,Barrington,5
+2023-12-10,Channel Edge,1
+2023-12-10,Google,8
+2023-12-10,Lucent,1
+2023-12-10,O2C,3
+2023-12-10,Other,1
+2023-12-10,Policy Chat,1
+2023-12-10,Ring 2,2
+2023-12-10,Roku,5
+2023-12-10,VOXR,1
+2023-12-10,Youtube,5
+2023-12-10,Regal,1
+2023-12-11,Barrington,3
+2023-12-11,Channel Edge,3
+2023-12-11,Google,4
+2023-12-11,Lucent,1
+2023-12-11,O2C,3
+2023-12-11,Other,1
+2023-12-11,Policy Chat,1
+2023-12-11,Ring 2,1
+2023-12-11,Roku,4
+2023-12-11,VOXR,2
+2023-12-11,Youtube,6
+2023-12-11,Regal,1
+2023-12-12,Barrington,3
+2023-12-12,Channel Edge,2
+2023-12-12,Google,8
+2023-12-12,Lucent,1
+2023-12-12,O2C,5
+2023-12-12,Other,2
+2023-12-12,Policy Chat,1
+2023-12-12,Ring 2,1
+2023-12-12,Roku,2
+2023-12-12,VOXR,2
+2023-12-12,Youtube,6
+2023-12-12,Regal,1
+2023-12-13,Barrington,4
+2023-12-13,Channel Edge,2
+2023-12-13,Google,7
+2023-12-13,Lucent,1
+2023-12-13,O2C,5
+2023-12-13,Other,1
+2023-12-13,Policy Chat,2
+2023-12-13,Ring 2,6
+2023-12-13,Roku,3
+2023-12-13,VOXR,1
+2023-12-13,Youtube,2
+2023-12-13,Regal,2
+2023-12-14,Barrington,2
+2023-12-14,Channel Edge,2
+2023-12-14,Google,8
+2023-12-14,Lucent,2
+2023-12-14,O2C,6
+2023-12-14,Other,4
+2023-12-14,Policy Chat,4
+2023-12-14,Ring 2,1
+2023-12-14,Roku,3
+2023-12-14,VOXR,2
+2023-12-14,Youtube,7
+2023-12-14,Regal,2
+2023-12-15,Barrington,5
+2023-12-15,Channel Edge,1
+2023-12-15,Google,6
+2023-12-15,Lucent,2
+2023-12-15,O2C,7
+2023-12-15,Other,1
+2023-12-15,Policy Chat,2
+2023-12-15,Ring 2,3
+2023-12-15,Roku,2
+2023-12-15,VOXR,4
+2023-12-15,Youtube,5
+2023-12-15,Regal,6
+2023-12-16,Barrington,4
+2023-12-16,Channel Edge,1
+2023-12-16,Google,13
+2023-12-16,Lucent,2
+2023-12-16,O2C,6
+2023-12-16,Other,1
+2023-12-16,Policy Chat,2
+2023-12-16,Ring 2,3
+2023-12-16,Roku,4
+2023-12-16,VOXR,2
+2023-12-16,Youtube,8
+2023-12-16,Regal,5
+2023-12-17,Barrington,4
+2023-12-17,Channel Edge,2
+2023-12-17,Google,8
+2023-12-17,Lucent,1
+2023-12-17,O2C,5
+2023-12-17,Other,4
+2023-12-17,Policy Chat,1
+2023-12-17,Ring 2,4
+2023-12-17,Roku,2
+2023-12-17,VOXR,3
+2023-12-17,Youtube,3
+2023-12-17,Regal,3
+2023-12-18,Barrington,4
+2023-12-18,Channel Edge,1
+2023-12-18,Google,10
+2023-12-18,Lucent,1
+2023-12-18,O2C,4
+2023-12-18,Other,2
+2023-12-18,Policy Chat,5
+2023-12-18,Ring 2,4
+2023-12-18,Roku,2
+2023-12-18,VOXR,1
+2023-12-18,Youtube,9
+2023-12-18,Regal,2
+2023-12-19,Barrington,4
+2023-12-19,Channel Edge,1
+2023-12-19,Google,6
+2023-12-19,Lucent,1
+2023-12-19,O2C,8
+2023-12-19,Other,2
+2023-12-19,Policy Chat,2
+2023-12-19,Ring 2,7
+2023-12-19,Roku,5
+2023-12-19,VOXR,2
+2023-12-19,Youtube,6
+2023-12-19,Regal,3
+2023-12-20,Barrington,5
+2023-12-20,Channel Edge,1
+2023-12-20,Google,7
+2023-12-20,Lucent,3
+2023-12-20,O2C,3
+2023-12-20,Other,1
+2023-12-20,Policy Chat,1
+2023-12-20,Ring 2,3
+2023-12-20,Roku,6
+2023-12-20,VOXR,1
+2023-12-20,Youtube,9
+2023-12-20,Regal,1
+2023-12-21,Barrington,2
+2023-12-21,Channel Edge,1
+2023-12-21,Google,7
+2023-12-21,Lucent,2
+2023-12-21,O2C,3
+2023-12-21,Other,1
+2023-12-21,Policy Chat,2
+2023-12-21,Ring 2,2
+2023-12-21,Roku,3
+2023-12-21,VOXR,2
+2023-12-21,Youtube,6
+2023-12-21,Regal,3
+2023-12-22,Barrington,3
+2023-12-22,Channel Edge,3
+2023-12-22,Google,8
+2023-12-22,Lucent,3
+2023-12-22,O2C,6
+2023-12-22,Other,2
+2023-12-22,Policy Chat,5
+2023-12-22,Ring 2,1
+2023-12-22,Roku,7
+2023-12-22,VOXR,1
+2023-12-22,Youtube,3
+2023-12-22,Regal,1
+2023-12-23,Barrington,7
+2023-12-23,Channel Edge,6
+2023-12-23,Google,8
+2023-12-23,Lucent,4
+2023-12-23,O2C,5
+2023-12-23,Other,1
+2023-12-23,Policy Chat,2
+2023-12-23,Ring 2,1
+2023-12-23,Roku,3
+2023-12-23,VOXR,2
+2023-12-23,Youtube,5
+2023-12-23,Regal,2
+2023-12-24,Barrington,5
+2023-12-24,Channel Edge,1
+2023-12-24,Google,6
+2023-12-24,Lucent,3
+2023-12-24,O2C,4
+2023-12-24,Other,2
+2023-12-24,Policy Chat,3
+2023-12-24,Ring 2,1
+2023-12-24,Roku,1
+2023-12-24,VOXR,3
+2023-12-24,Youtube,6
+2023-12-24,Regal,4
+2023-12-25,Barrington,2
+2023-12-25,Channel Edge,1
+2023-12-25,Google,9
+2023-12-25,Lucent,1
+2023-12-25,O2C,4
+2023-12-25,Other,3
+2023-12-25,Policy Chat,3
+2023-12-25,Ring 2,3
+2023-12-25,Roku,1
+2023-12-25,VOXR,3
+2023-12-25,Youtube,4
+2023-12-25,Regal,1
+2023-12-26,Barrington,1
+2023-12-26,Channel Edge,4
+2023-12-26,Google,11
+2023-12-26,Lucent,1
+2023-12-26,O2C,4
+2023-12-26,Other,4
+2023-12-26,Policy Chat,3
+2023-12-26,Ring 2,2
+2023-12-26,Roku,1
+2023-12-26,VOXR,1
+2023-12-26,Youtube,3
+2023-12-26,Regal,3
+2023-12-27,Barrington,5
+2023-12-27,Channel Edge,1
+2023-12-27,Google,8
+2023-12-27,Lucent,2
+2023-12-27,O2C,1
+2023-12-27,Other,2
+2023-12-27,Policy Chat,1
+2023-12-27,Ring 2,1
+2023-12-27,Roku,6
+2023-12-27,VOXR,2
+2023-12-27,Youtube,5
+2023-12-27,Regal,4
+2023-12-28,Barrington,6
+2023-12-28,Channel Edge,2
+2023-12-28,Google,10
+2023-12-28,Lucent,1
+2023-12-28,O2C,8
+2023-12-28,Other,1
+2023-12-28,Policy Chat,4
+2023-12-28,Ring 2,1
+2023-12-28,Roku,3
+2023-12-28,VOXR,1
+2023-12-28,Youtube,6
+2023-12-28,Regal,1
+2023-12-29,Barrington,3
+2023-12-29,Channel Edge,4
+2023-12-29,Google,9
+2023-12-29,Lucent,5
+2023-12-29,O2C,4
+2023-12-29,Other,1
+2023-12-29,Policy Chat,3
+2023-12-29,Ring 2,1
+2023-12-29,Roku,3
+2023-12-29,VOXR,1
+2023-12-29,Youtube,8
+2023-12-29,Regal,1
+2023-12-30,Barrington,3
+2023-12-30,Channel Edge,5
+2023-12-30,Google,14
+2023-12-30,Lucent,2
+2023-12-30,O2C,5
+2023-12-30,Other,1
+2023-12-30,Policy Chat,3
+2023-12-30,Ring 2,1
+2023-12-30,Roku,8
+2023-12-30,VOXR,1
+2023-12-30,Youtube,6
+2023-12-30,Regal,6
+2023-12-31,Barrington,1
+2023-12-31,Channel Edge,3
+2023-12-31,Google,8
+2023-12-31,Lucent,4
+2023-12-31,O2C,3
+2023-12-31,Other,1
+2023-12-31,Policy Chat,1
+2023-12-31,Ring 2,2
+2023-12-31,Roku,4
+2023-12-31,VOXR,2
+2023-12-31,Youtube,4
+2023-12-31,Regal,3
+2024-01-01,Barrington,2
+2024-01-01,Channel Edge,1
+2024-01-01,Google,5
+2024-01-01,Lucent,3
+2024-01-01,O2C,3
+2024-01-01,Other,3
+2024-01-01,Policy Chat,4
+2024-01-01,Ring 2,4
+2024-01-01,Roku,2
+2024-01-01,VOXR,3
+2024-01-01,Youtube,4
+2024-01-01,Regal,4
+2024-01-02,Barrington,5
+2024-01-02,Channel Edge,5
+2024-01-02,Google,11
+2024-01-02,Lucent,1
+2024-01-02,O2C,5
+2024-01-02,Other,1
+2024-01-02,Policy Chat,2
+2024-01-02,Ring 2,3
+2024-01-02,Roku,2
+2024-01-02,VOXR,2
+2024-01-02,Youtube,4
+2024-01-02,Regal,3
+2024-01-03,Barrington,5
+2024-01-03,Channel Edge,1
+2024-01-03,Google,11
+2024-01-03,Lucent,1
+2024-01-03,O2C,2
+2024-01-03,Other,1
+2024-01-03,Policy Chat,6
+2024-01-03,Ring 2,1
+2024-01-03,Roku,2
+2024-01-03,VOXR,1
+2024-01-03,Youtube,6
+2024-01-03,Regal,1
+2024-01-04,Barrington,5
+2024-01-04,Channel Edge,1
+2024-01-04,Google,4
+2024-01-04,Lucent,1
+2024-01-04,O2C,3
+2024-01-04,Other,1
+2024-01-04,Policy Chat,4
+2024-01-04,Ring 2,4
+2024-01-04,Roku,4
+2024-01-04,VOXR,1
+2024-01-04,Youtube,6
+2024-01-04,Regal,3
+2024-01-05,Barrington,7
+2024-01-05,Channel Edge,3
+2024-01-05,Google,5
+2024-01-05,Lucent,1
+2024-01-05,O2C,11
+2024-01-05,Other,2
+2024-01-05,Policy Chat,2
+2024-01-05,Ring 2,2
+2024-01-05,Roku,1
+2024-01-05,VOXR,1
+2024-01-05,Youtube,5
+2024-01-05,Regal,6
+2024-01-06,Barrington,3
+2024-01-06,Channel Edge,3
+2024-01-06,Google,9
+2024-01-06,Lucent,3
+2024-01-06,O2C,3
+2024-01-06,Other,3
+2024-01-06,Policy Chat,4
+2024-01-06,Ring 2,2
+2024-01-06,Roku,4
+2024-01-06,VOXR,1
+2024-01-06,Youtube,2
+2024-01-06,Regal,3
+2024-01-07,Barrington,4
+2024-01-07,Channel Edge,2
+2024-01-07,Google,13
+2024-01-07,Lucent,3
+2024-01-07,O2C,3
+2024-01-07,Other,1
+2024-01-07,Policy Chat,6
+2024-01-07,Ring 2,1
+2024-01-07,Roku,4
+2024-01-07,VOXR,5
+2024-01-07,Youtube,6
+2024-01-07,Regal,3
+2024-01-08,Barrington,2
+2024-01-08,Channel Edge,3
+2024-01-08,Google,9
+2024-01-08,Lucent,1
+2024-01-08,O2C,3
+2024-01-08,Other,3
+2024-01-08,Policy Chat,2
+2024-01-08,Ring 2,1
+2024-01-08,Roku,4
+2024-01-08,VOXR,1
+2024-01-08,Youtube,7
+2024-01-08,Regal,3
+2024-01-09,Barrington,3
+2024-01-09,Channel Edge,2
+2024-01-09,Google,5
+2024-01-09,Lucent,1
+2024-01-09,O2C,5
+2024-01-09,Other,2
+2024-01-09,Policy Chat,2
+2024-01-09,Ring 2,3
+2024-01-09,Roku,4
+2024-01-09,VOXR,1
+2024-01-09,Youtube,6
+2024-01-09,Regal,2
+2024-01-10,Barrington,5
+2024-01-10,Channel Edge,2
+2024-01-10,Google,7
+2024-01-10,Lucent,4
+2024-01-10,O2C,7
+2024-01-10,Other,3
+2024-01-10,Policy Chat,2
+2024-01-10,Ring 2,1
+2024-01-10,Roku,3
+2024-01-10,VOXR,2
+2024-01-10,Youtube,6
+2024-01-10,Regal,1
+2024-01-11,Barrington,1
+2024-01-11,Channel Edge,1
+2024-01-11,Google,10
+2024-01-11,Lucent,2
+2024-01-11,O2C,7
+2024-01-11,Other,3
+2024-01-11,Policy Chat,2
+2024-01-11,Ring 2,2
+2024-01-11,Roku,6
+2024-01-11,VOXR,1
+2024-01-11,Youtube,7
+2024-01-11,Regal,3
+2024-01-12,Barrington,2
+2024-01-12,Channel Edge,3
+2024-01-12,Google,7
+2024-01-12,Lucent,5
+2024-01-12,O2C,3
+2024-01-12,Other,1
+2024-01-12,Policy Chat,2
+2024-01-12,Ring 2,1
+2024-01-12,Roku,2
+2024-01-12,VOXR,1
+2024-01-12,Youtube,5
+2024-01-12,Regal,2
+2024-01-13,Barrington,4
+2024-01-13,Channel Edge,2
+2024-01-13,Google,9
+2024-01-13,Lucent,4
+2024-01-13,O2C,7
+2024-01-13,Other,1
+2024-01-13,Policy Chat,2
+2024-01-13,Ring 2,2
+2024-01-13,Roku,1
+2024-01-13,VOXR,1
+2024-01-13,Youtube,6
+2024-01-13,Regal,3
+2024-01-14,Barrington,7
+2024-01-14,Channel Edge,1
+2024-01-14,Google,12
+2024-01-14,Lucent,1
+2024-01-14,O2C,12
+2024-01-14,Other,1
+2024-01-14,Policy Chat,1
+2024-01-14,Ring 2,4
+2024-01-14,Roku,1
+2024-01-14,VOXR,2
+2024-01-14,Youtube,8
+2024-01-14,Regal,1
+2024-01-15,Barrington,3
+2024-01-15,Channel Edge,3
+2024-01-15,Google,4
+2024-01-15,Lucent,2
+2024-01-15,O2C,7
+2024-01-15,Other,1
+2024-01-15,Policy Chat,2
+2024-01-15,Ring 2,1
+2024-01-15,Roku,2
+2024-01-15,VOXR,2
+2024-01-15,Youtube,8
+2024-01-15,Regal,4
+2024-01-16,Barrington,1
+2024-01-16,Channel Edge,2
+2024-01-16,Google,13
+2024-01-16,Lucent,1
+2024-01-16,O2C,8
+2024-01-16,Other,2
+2024-01-16,Policy Chat,3
+2024-01-16,Ring 2,1
+2024-01-16,Roku,8
+2024-01-16,VOXR,1
+2024-01-16,Youtube,9
+2024-01-16,Regal,5
+2024-01-17,Barrington,3
+2024-01-17,Channel Edge,1
+2024-01-17,Google,6
+2024-01-17,Lucent,1
+2024-01-17,O2C,5
+2024-01-17,Other,3
+2024-01-17,Policy Chat,4
+2024-01-17,Ring 2,5
+2024-01-17,Roku,1
+2024-01-17,VOXR,3
+2024-01-17,Youtube,8
+2024-01-17,Regal,2
+2024-01-18,Barrington,3
+2024-01-18,Channel Edge,2
+2024-01-18,Google,8
+2024-01-18,Lucent,2
+2024-01-18,O2C,5
+2024-01-18,Other,2
+2024-01-18,Policy Chat,2
+2024-01-18,Ring 2,5
+2024-01-18,Roku,2
+2024-01-18,VOXR,5
+2024-01-18,Youtube,7
+2024-01-18,Regal,1
+2024-01-19,Barrington,4
+2024-01-19,Channel Edge,3
+2024-01-19,Google,6
+2024-01-19,Lucent,2
+2024-01-19,O2C,6
+2024-01-19,Other,2
+2024-01-19,Policy Chat,2
+2024-01-19,Ring 2,7
+2024-01-19,Roku,4
+2024-01-19,VOXR,2
+2024-01-19,Youtube,4
+2024-01-19,Regal,4
+2024-01-20,Barrington,5
+2024-01-20,Channel Edge,1
+2024-01-20,Google,7
+2024-01-20,Lucent,1
+2024-01-20,O2C,4
+2024-01-20,Other,2
+2024-01-20,Policy Chat,2
+2024-01-20,Ring 2,1
+2024-01-20,Roku,1
+2024-01-20,VOXR,1
+2024-01-20,Youtube,7
+2024-01-20,Regal,3
+2024-01-21,Barrington,1
+2024-01-21,Channel Edge,4
+2024-01-21,Google,14
+2024-01-21,Lucent,2
+2024-01-21,O2C,5
+2024-01-21,Other,2
+2024-01-21,Policy Chat,4
+2024-01-21,Ring 2,1
+2024-01-21,Roku,4
+2024-01-21,VOXR,1
+2024-01-21,Youtube,4
+2024-01-21,Regal,2
+2024-01-22,Barrington,5
+2024-01-22,Channel Edge,2
+2024-01-22,Google,6
+2024-01-22,Lucent,2
+2024-01-22,O2C,9
+2024-01-22,Other,6
+2024-01-22,Policy Chat,1
+2024-01-22,Ring 2,1
+2024-01-22,Roku,5
+2024-01-22,VOXR,1
+2024-01-22,Youtube,2
+2024-01-22,Regal,6
+2024-01-23,Barrington,2
+2024-01-23,Channel Edge,3
+2024-01-23,Google,8
+2024-01-23,Lucent,1
+2024-01-23,O2C,3
+2024-01-23,Other,1
+2024-01-23,Policy Chat,3
+2024-01-23,Ring 2,2
+2024-01-23,Roku,3
+2024-01-23,VOXR,2
+2024-01-23,Youtube,4
+2024-01-23,Regal,2
+2024-01-24,Barrington,4
+2024-01-24,Channel Edge,2
+2024-01-24,Google,9
+2024-01-24,Lucent,5
+2024-01-24,O2C,6
+2024-01-24,Other,2
+2024-01-24,Policy Chat,5
+2024-01-24,Ring 2,1
+2024-01-24,Roku,5
+2024-01-24,VOXR,1
+2024-01-24,Youtube,7
+2024-01-24,Regal,2
+2024-01-25,Barrington,5
+2024-01-25,Channel Edge,4
+2024-01-25,Google,9
+2024-01-25,Lucent,4
+2024-01-25,O2C,7
+2024-01-25,Other,3
+2024-01-25,Policy Chat,1
+2024-01-25,Ring 2,5
+2024-01-25,Roku,4
+2024-01-25,VOXR,2
+2024-01-25,Youtube,5
+2024-01-25,Regal,1
+2024-01-26,Barrington,4
+2024-01-26,Channel Edge,1
+2024-01-26,Google,12
+2024-01-26,Lucent,1
+2024-01-26,O2C,4
+2024-01-26,Other,1
+2024-01-26,Policy Chat,2
+2024-01-26,Ring 2,1
+2024-01-26,Roku,6
+2024-01-26,VOXR,1
+2024-01-26,Youtube,5
+2024-01-26,Regal,3
+2024-01-27,Barrington,8
+2024-01-27,Channel Edge,1
+2024-01-27,Google,18
+2024-01-27,Lucent,1
+2024-01-27,O2C,8
+2024-01-27,Other,1
+2024-01-27,Policy Chat,2
+2024-01-27,Ring 2,4
+2024-01-27,Roku,3
+2024-01-27,VOXR,5
+2024-01-27,Youtube,5
+2024-01-27,Regal,2
+2024-01-28,Barrington,1
+2024-01-28,Channel Edge,3
+2024-01-28,Google,13
+2024-01-28,Lucent,1
+2024-01-28,O2C,5
+2024-01-28,Other,2
+2024-01-28,Policy Chat,3
+2024-01-28,Ring 2,2
+2024-01-28,Roku,2
+2024-01-28,VOXR,1
+2024-01-28,Youtube,4
+2024-01-28,Regal,2
+2024-01-29,Barrington,7
+2024-01-29,Channel Edge,3
+2024-01-29,Google,7
+2024-01-29,Lucent,2
+2024-01-29,O2C,8
+2024-01-29,Other,2
+2024-01-29,Policy Chat,1
+2024-01-29,Ring 2,1
+2024-01-29,Roku,2
+2024-01-29,VOXR,2
+2024-01-29,Youtube,6
+2024-01-29,Regal,3
+2024-01-30,Barrington,2
+2024-01-30,Channel Edge,2
+2024-01-30,Google,8
+2024-01-30,Lucent,1
+2024-01-30,O2C,5
+2024-01-30,Other,1
+2024-01-30,Policy Chat,4
+2024-01-30,Ring 2,1
+2024-01-30,Roku,2
+2024-01-30,VOXR,1
+2024-01-30,Youtube,2
+2024-01-30,Regal,4
+2024-01-31,Barrington,2
+2024-01-31,Channel Edge,5
+2024-01-31,Google,5
+2024-01-31,Lucent,2
+2024-01-31,O2C,8
+2024-01-31,Other,1
+2024-01-31,Policy Chat,2
+2024-01-31,Ring 2,1
+2024-01-31,Roku,4
+2024-01-31,VOXR,3
+2024-01-31,Youtube,4
+2024-01-31,Regal,5
+2024-02-01,Barrington,3
+2024-02-01,Channel Edge,4
+2024-02-01,Google,8
+2024-02-01,Lucent,1
+2024-02-01,O2C,12
+2024-02-01,Other,1
+2024-02-01,Policy Chat,6
+2024-02-01,Ring 2,1
+2024-02-01,Roku,4
+2024-02-01,VOXR,1
+2024-02-01,Youtube,5
+2024-02-01,Regal,2
+2024-02-02,Barrington,4
+2024-02-02,Channel Edge,2
+2024-02-02,Google,7
+2024-02-02,Lucent,1
+2024-02-02,O2C,6
+2024-02-02,Other,1
+2024-02-02,Policy Chat,1
+2024-02-02,Ring 2,3
+2024-02-02,Roku,7
+2024-02-02,VOXR,3
+2024-02-02,Youtube,3
+2024-02-02,Regal,1
+2024-02-03,Barrington,3
+2024-02-03,Channel Edge,2
+2024-02-03,Google,7
+2024-02-03,Lucent,4
+2024-02-03,O2C,3
+2024-02-03,Other,1
+2024-02-03,Policy Chat,2
+2024-02-03,Ring 2,2
+2024-02-03,Roku,5
+2024-02-03,VOXR,3
+2024-02-03,Youtube,6
+2024-02-03,Regal,2
+2024-02-04,Barrington,4
+2024-02-04,Channel Edge,3
+2024-02-04,Google,7
+2024-02-04,Lucent,3
+2024-02-04,O2C,6
+2024-02-04,Other,1
+2024-02-04,Policy Chat,2
+2024-02-04,Ring 2,1
+2024-02-04,Roku,5
+2024-02-04,VOXR,2
+2024-02-04,Youtube,8
+2024-02-04,Regal,6
+2024-02-05,Barrington,5
+2024-02-05,Channel Edge,2
+2024-02-05,Google,7
+2024-02-05,Lucent,1
+2024-02-05,O2C,4
+2024-02-05,Other,4
+2024-02-05,Policy Chat,3
+2024-02-05,Ring 2,3
+2024-02-05,Roku,5
+2024-02-05,VOXR,2
+2024-02-05,Youtube,9
+2024-02-05,Regal,6
+2024-02-06,Barrington,6
+2024-02-06,Channel Edge,3
+2024-02-06,Google,7
+2024-02-06,Lucent,3
+2024-02-06,O2C,4
+2024-02-06,Other,2
+2024-02-06,Policy Chat,5
+2024-02-06,Ring 2,1
+2024-02-06,Roku,1
+2024-02-06,VOXR,3
+2024-02-06,Youtube,8
+2024-02-06,Regal,2
+2024-02-07,Barrington,2
+2024-02-07,Channel Edge,3
+2024-02-07,Google,8
+2024-02-07,Lucent,3
+2024-02-07,O2C,7
+2024-02-07,Other,2
+2024-02-07,Policy Chat,2
+2024-02-07,Ring 2,1
+2024-02-07,Roku,3
+2024-02-07,VOXR,4
+2024-02-07,Youtube,10
+2024-02-07,Regal,1
+2024-02-08,Barrington,7
+2024-02-08,Channel Edge,8
+2024-02-08,Google,9
+2024-02-08,Lucent,3
+2024-02-08,O2C,6
+2024-02-08,Other,1
+2024-02-08,Policy Chat,3
+2024-02-08,Ring 2,5
+2024-02-08,Roku,4
+2024-02-08,VOXR,3
+2024-02-08,Youtube,7
+2024-02-08,Regal,6
+2024-02-09,Barrington,3
+2024-02-09,Channel Edge,2
+2024-02-09,Google,10
+2024-02-09,Lucent,1
+2024-02-09,O2C,5
+2024-02-09,Other,3
+2024-02-09,Policy Chat,1
+2024-02-09,Ring 2,1
+2024-02-09,Roku,5
+2024-02-09,VOXR,3
+2024-02-09,Youtube,5
+2024-02-09,Regal,5
+2024-02-10,Barrington,4
+2024-02-10,Channel Edge,3
+2024-02-10,Google,7
+2024-02-10,Lucent,3
+2024-02-10,O2C,7
+2024-02-10,Other,1
+2024-02-10,Policy Chat,2
+2024-02-10,Ring 2,3
+2024-02-10,Roku,2
+2024-02-10,VOXR,2
+2024-02-10,Youtube,6
+2024-02-10,Regal,5
+2024-02-11,Barrington,4
+2024-02-11,Channel Edge,2
+2024-02-11,Google,11
+2024-02-11,Lucent,4
+2024-02-11,O2C,8
+2024-02-11,Other,1
+2024-02-11,Policy Chat,2
+2024-02-11,Ring 2,6
+2024-02-11,Roku,3
+2024-02-11,VOXR,1
+2024-02-11,Youtube,7
+2024-02-11,Regal,1
+2024-02-12,Barrington,8
+2024-02-12,Channel Edge,2
+2024-02-12,Google,10
+2024-02-12,Lucent,1
+2024-02-12,O2C,4
+2024-02-12,Other,1
+2024-02-12,Policy Chat,2
+2024-02-12,Ring 2,1
+2024-02-12,Roku,2
+2024-02-12,VOXR,2
+2024-02-12,Youtube,7
+2024-02-12,Regal,2
+2024-02-13,Barrington,3
+2024-02-13,Channel Edge,3
+2024-02-13,Google,7
+2024-02-13,Lucent,5
+2024-02-13,O2C,7
+2024-02-13,Other,3
+2024-02-13,Policy Chat,4
+2024-02-13,Ring 2,2
+2024-02-13,Roku,4
+2024-02-13,VOXR,1
+2024-02-13,Youtube,3
+2024-02-13,Regal,2
+2024-02-14,Barrington,5
+2024-02-14,Channel Edge,3
+2024-02-14,Google,6
+2024-02-14,Lucent,1
+2024-02-14,O2C,3
+2024-02-14,Other,2
+2024-02-14,Policy Chat,3
+2024-02-14,Ring 2,1
+2024-02-14,Roku,4
+2024-02-14,VOXR,3
+2024-02-14,Youtube,6
+2024-02-14,Regal,2
+2024-02-15,Barrington,4
+2024-02-15,Channel Edge,2
+2024-02-15,Google,13
+2024-02-15,Lucent,3
+2024-02-15,O2C,6
+2024-02-15,Other,1
+2024-02-15,Policy Chat,2
+2024-02-15,Ring 2,5
+2024-02-15,Roku,4
+2024-02-15,VOXR,2
+2024-02-15,Youtube,4
+2024-02-15,Regal,1
+2024-02-16,Barrington,2
+2024-02-16,Channel Edge,4
+2024-02-16,Google,11
+2024-02-16,Lucent,2
+2024-02-16,O2C,9
+2024-02-16,Other,1
+2024-02-16,Policy Chat,3
+2024-02-16,Ring 2,2
+2024-02-16,Roku,1
+2024-02-16,VOXR,4
+2024-02-16,Youtube,4
+2024-02-16,Regal,6
+2024-02-17,Barrington,3
+2024-02-17,Channel Edge,2
+2024-02-17,Google,1
+2024-02-17,Lucent,1
+2024-02-17,O2C,5
+2024-02-17,Other,2
+2024-02-17,Policy Chat,2
+2024-02-17,Ring 2,3
+2024-02-17,Roku,2
+2024-02-17,VOXR,2
+2024-02-17,Youtube,3
+2024-02-17,Regal,2
+2024-02-18,Barrington,4
+2024-02-18,Channel Edge,1
+2024-02-18,Google,6
+2024-02-18,Lucent,2
+2024-02-18,O2C,9
+2024-02-18,Other,3
+2024-02-18,Policy Chat,3
+2024-02-18,Ring 2,2
+2024-02-18,Roku,3
+2024-02-18,VOXR,1
+2024-02-18,Youtube,7
+2024-02-18,Regal,3
+2024-02-19,Barrington,3
+2024-02-19,Channel Edge,1
+2024-02-19,Google,8
+2024-02-19,Lucent,1
+2024-02-19,O2C,10
+2024-02-19,Other,4
+2024-02-19,Policy Chat,4
+2024-02-19,Ring 2,3
+2024-02-19,Roku,2
+2024-02-19,VOXR,4
+2024-02-19,Youtube,3
+2024-02-19,Regal,4
+2024-02-20,Barrington,2
+2024-02-20,Channel Edge,4
+2024-02-20,Google,9
+2024-02-20,Lucent,1
+2024-02-20,O2C,4
+2024-02-20,Other,1
+2024-02-20,Policy Chat,2
+2024-02-20,Ring 2,5
+2024-02-20,Roku,7
+2024-02-20,VOXR,1
+2024-02-20,Youtube,9
+2024-02-20,Regal,1
+2024-02-21,Barrington,4
+2024-02-21,Channel Edge,1
+2024-02-21,Google,9
+2024-02-21,Lucent,5
+2024-02-21,O2C,7
+2024-02-21,Other,2
+2024-02-21,Policy Chat,2
+2024-02-21,Ring 2,4
+2024-02-21,Roku,2
+2024-02-21,VOXR,3
+2024-02-21,Youtube,8
+2024-02-21,Regal,3
+2024-02-22,Barrington,4
+2024-02-22,Channel Edge,3
+2024-02-22,Google,9
+2024-02-22,Lucent,3
+2024-02-22,O2C,7
+2024-02-22,Other,1
+2024-02-22,Policy Chat,4
+2024-02-22,Ring 2,2
+2024-02-22,Roku,2
+2024-02-22,VOXR,1
+2024-02-22,Youtube,4
+2024-02-22,Regal,4
+2024-02-23,Barrington,4
+2024-02-23,Channel Edge,3
+2024-02-23,Google,4
+2024-02-23,Lucent,1
+2024-02-23,O2C,9
+2024-02-23,Other,1
+2024-02-23,Policy Chat,2
+2024-02-23,Ring 2,2
+2024-02-23,Roku,2
+2024-02-23,VOXR,2
+2024-02-23,Youtube,5
+2024-02-23,Regal,1
+2024-02-24,Barrington,3
+2024-02-24,Channel Edge,3
+2024-02-24,Google,11
+2024-02-24,Lucent,3
+2024-02-24,O2C,6
+2024-02-24,Other,2
+2024-02-24,Policy Chat,1
+2024-02-24,Ring 2,5
+2024-02-24,Roku,2
+2024-02-24,VOXR,3
+2024-02-24,Youtube,6
+2024-02-24,Regal,1
+2024-02-25,Barrington,5
+2024-02-25,Channel Edge,1
+2024-02-25,Google,7
+2024-02-25,Lucent,1
+2024-02-25,O2C,4
+2024-02-25,Other,1
+2024-02-25,Policy Chat,4
+2024-02-25,Ring 2,2
+2024-02-25,Roku,1
+2024-02-25,VOXR,2
+2024-02-25,Youtube,6
+2024-02-25,Regal,2
+2024-02-26,Barrington,5
+2024-02-26,Channel Edge,1
+2024-02-26,Google,11
+2024-02-26,Lucent,2
+2024-02-26,O2C,10
+2024-02-26,Other,1
+2024-02-26,Policy Chat,2
+2024-02-26,Ring 2,2
+2024-02-26,Roku,2
+2024-02-26,VOXR,1
+2024-02-26,Youtube,9
+2024-02-26,Regal,5
+2024-02-27,Barrington,7
+2024-02-27,Channel Edge,1
+2024-02-27,Google,11
+2024-02-27,Lucent,1
+2024-02-27,O2C,12
+2024-02-27,Other,2
+2024-02-27,Policy Chat,2
+2024-02-27,Ring 2,1
+2024-02-27,Roku,2
+2024-02-27,VOXR,6
+2024-02-27,Youtube,3
+2024-02-27,Regal,4
+2024-02-28,Barrington,5
+2024-02-28,Channel Edge,1
+2024-02-28,Google,10
+2024-02-28,Lucent,3
+2024-02-28,O2C,4
+2024-02-28,Other,2
+2024-02-28,Policy Chat,1
+2024-02-28,Ring 2,3
+2024-02-28,Roku,1
+2024-02-28,VOXR,2
+2024-02-28,Youtube,4
+2024-02-28,Regal,1
+2024-02-29,Barrington,4
+2024-02-29,Channel Edge,1
+2024-02-29,Google,7
+2024-02-29,Lucent,1
+2024-02-29,O2C,7
+2024-02-29,Other,2
+2024-02-29,Policy Chat,3
+2024-02-29,Ring 2,3
+2024-02-29,Roku,5
+2024-02-29,VOXR,4
+2024-02-29,Youtube,1
+2024-02-29,Regal,1
+2024-03-01,Barrington,4
+2024-03-01,Channel Edge,3
+2024-03-01,Google,10
+2024-03-01,Lucent,1
+2024-03-01,O2C,1
+2024-03-01,Other,4
+2024-03-01,Policy Chat,2
+2024-03-01,Ring 2,4
+2024-03-01,Roku,2
+2024-03-01,VOXR,6
+2024-03-01,Youtube,10
+2024-03-01,Regal,3
+2024-03-02,Barrington,7
+2024-03-02,Channel Edge,2
+2024-03-02,Google,9
+2024-03-02,Lucent,1
+2024-03-02,O2C,10
+2024-03-02,Other,2
+2024-03-02,Policy Chat,6
+2024-03-02,Ring 2,1
+2024-03-02,Roku,5
+2024-03-02,VOXR,3
+2024-03-02,Youtube,9
+2024-03-02,Regal,6
+2024-03-03,Barrington,3
+2024-03-03,Channel Edge,2
+2024-03-03,Google,6
+2024-03-03,Lucent,4
+2024-03-03,O2C,8
+2024-03-03,Other,2
+2024-03-03,Policy Chat,3
+2024-03-03,Ring 2,3
+2024-03-03,Roku,2
+2024-03-03,VOXR,2
+2024-03-03,Youtube,4
+2024-03-03,Regal,2
+2024-03-04,Barrington,2
+2024-03-04,Channel Edge,2
+2024-03-04,Google,10
+2024-03-04,Lucent,2
+2024-03-04,O2C,3
+2024-03-04,Other,1
+2024-03-04,Policy Chat,2
+2024-03-04,Ring 2,3
+2024-03-04,Roku,5
+2024-03-04,VOXR,1
+2024-03-04,Youtube,7
+2024-03-04,Regal,1
+2024-03-05,Barrington,5
+2024-03-05,Channel Edge,5
+2024-03-05,Google,6
+2024-03-05,Lucent,2
+2024-03-05,O2C,9
+2024-03-05,Other,1
+2024-03-05,Policy Chat,2
+2024-03-05,Ring 2,1
+2024-03-05,Roku,6
+2024-03-05,VOXR,4
+2024-03-05,Youtube,7
+2024-03-05,Regal,4
+2024-03-06,Barrington,5
+2024-03-06,Channel Edge,3
+2024-03-06,Google,7
+2024-03-06,Lucent,3
+2024-03-06,O2C,5
+2024-03-06,Other,3
+2024-03-06,Policy Chat,5
+2024-03-06,Ring 2,2
+2024-03-06,Roku,1
+2024-03-06,VOXR,1
+2024-03-06,Youtube,6
+2024-03-06,Regal,1
+2024-03-07,Barrington,1
+2024-03-07,Channel Edge,1
+2024-03-07,Google,12
+2024-03-07,Lucent,5
+2024-03-07,O2C,6
+2024-03-07,Other,3
+2024-03-07,Policy Chat,1
+2024-03-07,Ring 2,4
+2024-03-07,Roku,4
+2024-03-07,VOXR,1
+2024-03-07,Youtube,4
+2024-03-07,Regal,2
+2024-03-08,Barrington,4
+2024-03-08,Channel Edge,3
+2024-03-08,Google,8
+2024-03-08,Lucent,1
+2024-03-08,O2C,8
+2024-03-08,Other,2
+2024-03-08,Policy Chat,1
+2024-03-08,Ring 2,3
+2024-03-08,Roku,6
+2024-03-08,VOXR,1
+2024-03-08,Youtube,7
+2024-03-08,Regal,1
+2024-03-09,Barrington,2
+2024-03-09,Channel Edge,2
+2024-03-09,Google,9
+2024-03-09,Lucent,2
+2024-03-09,O2C,7
+2024-03-09,Other,1
+2024-03-09,Policy Chat,8
+2024-03-09,Ring 2,3
+2024-03-09,Roku,3
+2024-03-09,VOXR,5
+2024-03-09,Youtube,4
+2024-03-09,Regal,3
+2024-03-10,Barrington,4
+2024-03-10,Channel Edge,1
+2024-03-10,Google,16
+2024-03-10,Lucent,1
+2024-03-10,O2C,5
+2024-03-10,Other,3
+2024-03-10,Policy Chat,6
+2024-03-10,Ring 2,2
+2024-03-10,Roku,2
+2024-03-10,VOXR,1
+2024-03-10,Youtube,5
+2024-03-10,Regal,3
+2024-03-11,Barrington,3
+2024-03-11,Channel Edge,1
+2024-03-11,Google,21
+2024-03-11,Lucent,3
+2024-03-11,O2C,7
+2024-03-11,Other,4
+2024-03-11,Policy Chat,1
+2024-03-11,Ring 2,3
+2024-03-11,Roku,4
+2024-03-11,VOXR,3
+2024-03-11,Youtube,6
+2024-03-11,Regal,1
+2024-03-12,Barrington,1
+2024-03-12,Channel Edge,2
+2024-03-12,Google,6
+2024-03-12,Lucent,4
+2024-03-12,O2C,5
+2024-03-12,Other,2
+2024-03-12,Policy Chat,3
+2024-03-12,Ring 2,4
+2024-03-12,Roku,3
+2024-03-12,VOXR,3
+2024-03-12,Youtube,5
+2024-03-12,Regal,5
+2024-03-13,Barrington,1
+2024-03-13,Channel Edge,2
+2024-03-13,Google,13
+2024-03-13,Lucent,3
+2024-03-13,O2C,6
+2024-03-13,Other,3
+2024-03-13,Policy Chat,1
+2024-03-13,Ring 2,2
+2024-03-13,Roku,3
+2024-03-13,VOXR,4
+2024-03-13,Youtube,5
+2024-03-13,Regal,1
+2024-03-14,Barrington,4
+2024-03-14,Channel Edge,2
+2024-03-14,Google,11
+2024-03-14,Lucent,2
+2024-03-14,O2C,7
+2024-03-14,Other,1
+2024-03-14,Policy Chat,6
+2024-03-14,Ring 2,2
+2024-03-14,Roku,2
+2024-03-14,VOXR,1
+2024-03-14,Youtube,6
+2024-03-14,Regal,4
+2024-03-15,Barrington,10
+2024-03-15,Channel Edge,2
+2024-03-15,Google,8
+2024-03-15,Lucent,1
+2024-03-15,O2C,6
+2024-03-15,Other,1
+2024-03-15,Policy Chat,1
+2024-03-15,Ring 2,2
+2024-03-15,Roku,1
+2024-03-15,VOXR,2
+2024-03-15,Youtube,4
+2024-03-15,Regal,2
+2024-03-16,Barrington,2
+2024-03-16,Channel Edge,1
+2024-03-16,Google,10
+2024-03-16,Lucent,2
+2024-03-16,O2C,5
+2024-03-16,Other,1
+2024-03-16,Policy Chat,4
+2024-03-16,Ring 2,1
+2024-03-16,Roku,3
+2024-03-16,VOXR,1
+2024-03-16,Youtube,6
+2024-03-16,Regal,7
+2024-03-17,Barrington,2
+2024-03-17,Channel Edge,4
+2024-03-17,Google,9
+2024-03-17,Lucent,1
+2024-03-17,O2C,7
+2024-03-17,Other,1
+2024-03-17,Policy Chat,3
+2024-03-17,Ring 2,1
+2024-03-17,Roku,1
+2024-03-17,VOXR,3
+2024-03-17,Youtube,10
+2024-03-17,Regal,3
+2024-03-18,Barrington,3
+2024-03-18,Channel Edge,1
+2024-03-18,Google,11
+2024-03-18,Lucent,2
+2024-03-18,O2C,4
+2024-03-18,Other,3
+2024-03-18,Policy Chat,1
+2024-03-18,Ring 2,2
+2024-03-18,Roku,5
+2024-03-18,VOXR,1
+2024-03-18,Youtube,6
+2024-03-18,Regal,3
+2024-03-19,Barrington,4
+2024-03-19,Channel Edge,3
+2024-03-19,Google,10
+2024-03-19,Lucent,2
+2024-03-19,O2C,7
+2024-03-19,Other,2
+2024-03-19,Policy Chat,7
+2024-03-19,Ring 2,1
+2024-03-19,Roku,2
+2024-03-19,VOXR,3
+2024-03-19,Youtube,4
+2024-03-19,Regal,5
+2024-03-20,Barrington,1
+2024-03-20,Channel Edge,1
+2024-03-20,Google,15
+2024-03-20,Lucent,1
+2024-03-20,O2C,9
+2024-03-20,Other,2
+2024-03-20,Policy Chat,4
+2024-03-20,Ring 2,2
+2024-03-20,Roku,6
+2024-03-20,VOXR,1
+2024-03-20,Youtube,6
+2024-03-20,Regal,3
+2024-03-21,Barrington,4
+2024-03-21,Channel Edge,2
+2024-03-21,Google,16
+2024-03-21,Lucent,1
+2024-03-21,O2C,9
+2024-03-21,Other,1
+2024-03-21,Policy Chat,1
+2024-03-21,Ring 2,2
+2024-03-21,Roku,4
+2024-03-21,VOXR,1
+2024-03-21,Youtube,7
+2024-03-21,Regal,6
+2024-03-22,Barrington,3
+2024-03-22,Channel Edge,2
+2024-03-22,Google,10
+2024-03-22,Lucent,3
+2024-03-22,O2C,7
+2024-03-22,Other,1
+2024-03-22,Policy Chat,1
+2024-03-22,Ring 2,1
+2024-03-22,Roku,1
+2024-03-22,VOXR,3
+2024-03-22,Youtube,2
+2024-03-22,Regal,4
+2024-03-23,Barrington,5
+2024-03-23,Channel Edge,1
+2024-03-23,Google,5
+2024-03-23,Lucent,3
+2024-03-23,O2C,10
+2024-03-23,Other,2
+2024-03-23,Policy Chat,4
+2024-03-23,Ring 2,4
+2024-03-23,Roku,3
+2024-03-23,VOXR,1
+2024-03-23,Youtube,6
+2024-03-23,Regal,2
+2024-03-24,Barrington,3
+2024-03-24,Channel Edge,2
+2024-03-24,Google,13
+2024-03-24,Lucent,2
+2024-03-24,O2C,7
+2024-03-24,Other,2
+2024-03-24,Policy Chat,1
+2024-03-24,Ring 2,4
+2024-03-24,Roku,4
+2024-03-24,VOXR,1
+2024-03-24,Youtube,5
+2024-03-24,Regal,4
+2024-03-25,Barrington,4
+2024-03-25,Channel Edge,5
+2024-03-25,Google,14
+2024-03-25,Lucent,1
+2024-03-25,O2C,9
+2024-03-25,Other,4
+2024-03-25,Policy Chat,3
+2024-03-25,Ring 2,2
+2024-03-25,Roku,3
+2024-03-25,VOXR,1
+2024-03-25,Youtube,6
+2024-03-25,Regal,2
+2024-03-26,Barrington,3
+2024-03-26,Channel Edge,3
+2024-03-26,Google,10
+2024-03-26,Lucent,2
+2024-03-26,O2C,9
+2024-03-26,Other,3
+2024-03-26,Policy Chat,3
+2024-03-26,Ring 2,1
+2024-03-26,Roku,4
+2024-03-26,VOXR,2
+2024-03-26,Youtube,3
+2024-03-26,Regal,2
+2024-03-27,Barrington,3
+2024-03-27,Channel Edge,5
+2024-03-27,Google,10
+2024-03-27,Lucent,2
+2024-03-27,O2C,6
+2024-03-27,Other,1
+2024-03-27,Policy Chat,1
+2024-03-27,Ring 2,4
+2024-03-27,Roku,2
+2024-03-27,VOXR,1
+2024-03-27,Youtube,6
+2024-03-27,Regal,5
+2024-03-28,Barrington,2
+2024-03-28,Channel Edge,3
+2024-03-28,Google,11
+2024-03-28,Lucent,1
+2024-03-28,O2C,4
+2024-03-28,Other,2
+2024-03-28,Policy Chat,2
+2024-03-28,Ring 2,4
+2024-03-28,Roku,2
+2024-03-28,VOXR,4
+2024-03-28,Youtube,9
+2024-03-28,Regal,3
+2024-03-29,Barrington,7
+2024-03-29,Channel Edge,5
+2024-03-29,Google,8
+2024-03-29,Lucent,1
+2024-03-29,O2C,8
+2024-03-29,Other,1
+2024-03-29,Policy Chat,6
+2024-03-29,Ring 2,3
+2024-03-29,Roku,3
+2024-03-29,VOXR,3
+2024-03-29,Youtube,4
+2024-03-29,Regal,4
+2024-03-30,Barrington,5
+2024-03-30,Channel Edge,6
+2024-03-30,Google,12
+2024-03-30,Lucent,3
+2024-03-30,O2C,7
+2024-03-30,Other,1
+2024-03-30,Policy Chat,8
+2024-03-30,Ring 2,4
+2024-03-30,Roku,2
+2024-03-30,VOXR,1
+2024-03-30,Youtube,7
+2024-03-30,Regal,4
+2024-03-31,Barrington,2
+2024-03-31,Channel Edge,2
+2024-03-31,Google,20
+2024-03-31,Lucent,4
+2024-03-31,O2C,8
+2024-03-31,Other,2
+2024-03-31,Policy Chat,7
+2024-03-31,Ring 2,4
+2024-03-31,Roku,1
+2024-03-31,VOXR,1
+2024-03-31,Youtube,6
+2024-03-31,Regal,4
+2024-04-01,Barrington,2
+2024-04-01,Channel Edge,2
+2024-04-01,Google,10
+2024-04-01,Lucent,3
+2024-04-01,O2C,10
+2024-04-01,Other,1
+2024-04-01,Policy Chat,2
+2024-04-01,Ring 2,2
+2024-04-01,Roku,7
+2024-04-01,VOXR,2
+2024-04-01,Youtube,11
+2024-04-01,Regal,4
+2024-04-02,Barrington,3
+2024-04-02,Channel Edge,2
+2024-04-02,Google,12
+2024-04-02,Lucent,5
+2024-04-02,O2C,5
+2024-04-02,Other,2
+2024-04-02,Policy Chat,2
+2024-04-02,Ring 2,5
+2024-04-02,Roku,2
+2024-04-02,VOXR,5
+2024-04-02,Youtube,7
+2024-04-02,Regal,7
+2024-04-03,Barrington,4
+2024-04-03,Channel Edge,1
+2024-04-03,Google,10
+2024-04-03,Lucent,4
+2024-04-03,O2C,2
+2024-04-03,Other,2
+2024-04-03,Policy Chat,3
+2024-04-03,Ring 2,3
+2024-04-03,Roku,2
+2024-04-03,VOXR,3
+2024-04-03,Youtube,9
+2024-04-03,Regal,1
+2024-04-04,Barrington,2
+2024-04-04,Channel Edge,1
+2024-04-04,Google,11
+2024-04-04,Lucent,1
+2024-04-04,O2C,9
+2024-04-04,Other,1
+2024-04-04,Policy Chat,5
+2024-04-04,Ring 2,7
+2024-04-04,Roku,8
+2024-04-04,VOXR,1
+2024-04-04,Youtube,7
+2024-04-04,Regal,1
+2024-04-05,Barrington,6
+2024-04-05,Channel Edge,2
+2024-04-05,Google,7
+2024-04-05,Lucent,1
+2024-04-05,O2C,6
+2024-04-05,Other,1
+2024-04-05,Policy Chat,5
+2024-04-05,Ring 2,1
+2024-04-05,Roku,2
+2024-04-05,VOXR,7
+2024-04-05,Youtube,8
+2024-04-05,Regal,2
+2024-04-06,Barrington,8
+2024-04-06,Channel Edge,2
+2024-04-06,Google,6
+2024-04-06,Lucent,1
+2024-04-06,O2C,11
+2024-04-06,Other,2
+2024-04-06,Policy Chat,3
+2024-04-06,Ring 2,4
+2024-04-06,Roku,4
+2024-04-06,VOXR,3
+2024-04-06,Youtube,7
+2024-04-06,Regal,4
+2024-04-07,Barrington,7
+2024-04-07,Channel Edge,6
+2024-04-07,Google,13
+2024-04-07,Lucent,3
+2024-04-07,O2C,4
+2024-04-07,Other,2
+2024-04-07,Policy Chat,4
+2024-04-07,Ring 2,2
+2024-04-07,Roku,6
+2024-04-07,VOXR,2
+2024-04-07,Youtube,5
+2024-04-07,Regal,2
+2024-04-08,Barrington,4
+2024-04-08,Channel Edge,3
+2024-04-08,Google,13
+2024-04-08,Lucent,1
+2024-04-08,O2C,10
+2024-04-08,Other,1
+2024-04-08,Policy Chat,3
+2024-04-08,Ring 2,6
+2024-04-08,Roku,1
+2024-04-08,VOXR,3
+2024-04-08,Youtube,5
+2024-04-08,Regal,3
+2024-04-09,Barrington,4
+2024-04-09,Channel Edge,4
+2024-04-09,Google,11
+2024-04-09,Lucent,1
+2024-04-09,O2C,9
+2024-04-09,Other,1
+2024-04-09,Policy Chat,4
+2024-04-09,Ring 2,1
+2024-04-09,Roku,2
+2024-04-09,VOXR,3
+2024-04-09,Youtube,5
+2024-04-09,Regal,5
+2024-04-10,Barrington,3
+2024-04-10,Channel Edge,1
+2024-04-10,Google,15
+2024-04-10,Lucent,3
+2024-04-10,O2C,2
+2024-04-10,Other,1
+2024-04-10,Policy Chat,3
+2024-04-10,Ring 2,1
+2024-04-10,Roku,6
+2024-04-10,VOXR,2
+2024-04-10,Youtube,11
+2024-04-10,Regal,2
+2024-04-11,Barrington,6
+2024-04-11,Channel Edge,3
+2024-04-11,Google,10
+2024-04-11,Lucent,2
+2024-04-11,O2C,8
+2024-04-11,Other,1
+2024-04-11,Policy Chat,4
+2024-04-11,Ring 2,5
+2024-04-11,Roku,2
+2024-04-11,VOXR,2
+2024-04-11,Youtube,4
+2024-04-11,Regal,1
+2024-04-12,Barrington,2
+2024-04-12,Channel Edge,8
+2024-04-12,Google,11
+2024-04-12,Lucent,5
+2024-04-12,O2C,4
+2024-04-12,Other,1
+2024-04-12,Policy Chat,5
+2024-04-12,Ring 2,2
+2024-04-12,Roku,7
+2024-04-12,VOXR,2
+2024-04-12,Youtube,8
+2024-04-12,Regal,4
+2024-04-13,Barrington,5
+2024-04-13,Channel Edge,5
+2024-04-13,Google,10
+2024-04-13,Lucent,3
+2024-04-13,O2C,8
+2024-04-13,Other,1
+2024-04-13,Policy Chat,5
+2024-04-13,Ring 2,4
+2024-04-13,Roku,7
+2024-04-13,VOXR,2
+2024-04-13,Youtube,5
+2024-04-13,Regal,7
+2024-04-14,Barrington,8
+2024-04-14,Channel Edge,5
+2024-04-14,Google,5
+2024-04-14,Lucent,1
+2024-04-14,O2C,6
+2024-04-14,Other,3
+2024-04-14,Policy Chat,4
+2024-04-14,Ring 2,4
+2024-04-14,Roku,2
+2024-04-14,VOXR,1
+2024-04-14,Youtube,11
+2024-04-14,Regal,4
+2024-04-15,Barrington,6
+2024-04-15,Channel Edge,2
+2024-04-15,Google,9
+2024-04-15,Lucent,2
+2024-04-15,O2C,6
+2024-04-15,Other,4
+2024-04-15,Policy Chat,2
+2024-04-15,Ring 2,1
+2024-04-15,Roku,1
+2024-04-15,VOXR,2
+2024-04-15,Youtube,8
+2024-04-15,Regal,1
+2024-04-16,Barrington,6
+2024-04-16,Channel Edge,2
+2024-04-16,Google,14
+2024-04-16,Lucent,1
+2024-04-16,O2C,8
+2024-04-16,Other,2
+2024-04-16,Policy Chat,3
+2024-04-16,Ring 2,4
+2024-04-16,Roku,5
+2024-04-16,VOXR,6
+2024-04-16,Youtube,10
+2024-04-16,Regal,4
+2024-04-17,Barrington,4
+2024-04-17,Channel Edge,3
+2024-04-17,Google,12
+2024-04-17,Lucent,2
+2024-04-17,O2C,7
+2024-04-17,Other,1
+2024-04-17,Policy Chat,4
+2024-04-17,Ring 2,1
+2024-04-17,Roku,3
+2024-04-17,VOXR,1
+2024-04-17,Youtube,4
+2024-04-17,Regal,5
+2024-04-18,Barrington,4
+2024-04-18,Channel Edge,1
+2024-04-18,Google,14
+2024-04-18,Lucent,3
+2024-04-18,O2C,5
+2024-04-18,Other,1
+2024-04-18,Policy Chat,3
+2024-04-18,Ring 2,3
+2024-04-18,Roku,4
+2024-04-18,VOXR,1
+2024-04-18,Youtube,13
+2024-04-18,Regal,4
+2024-04-19,Barrington,6
+2024-04-19,Channel Edge,1
+2024-04-19,Google,10
+2024-04-19,Lucent,2
+2024-04-19,O2C,5
+2024-04-19,Other,1
+2024-04-19,Policy Chat,5
+2024-04-19,Ring 2,2
+2024-04-19,Roku,4
+2024-04-19,VOXR,1
+2024-04-19,Youtube,9
+2024-04-19,Regal,6
+2024-04-20,Barrington,6
+2024-04-20,Channel Edge,5
+2024-04-20,Google,13
+2024-04-20,Lucent,2
+2024-04-20,O2C,8
+2024-04-20,Other,3
+2024-04-20,Policy Chat,8
+2024-04-20,Ring 2,4
+2024-04-20,Roku,7
+2024-04-20,VOXR,2
+2024-04-20,Youtube,9
+2024-04-20,Regal,1
+2024-04-21,Barrington,2
+2024-04-21,Channel Edge,4
+2024-04-21,Google,5
+2024-04-21,Lucent,3
+2024-04-21,O2C,6
+2024-04-21,Other,1
+2024-04-21,Policy Chat,5
+2024-04-21,Ring 2,2
+2024-04-21,Roku,8
+2024-04-21,VOXR,3
+2024-04-21,Youtube,6
+2024-04-21,Regal,3
+2024-04-22,Barrington,7
+2024-04-22,Channel Edge,3
+2024-04-22,Google,4
+2024-04-22,Lucent,2
+2024-04-22,O2C,12
+2024-04-22,Other,4
+2024-04-22,Policy Chat,5
+2024-04-22,Ring 2,1
+2024-04-22,Roku,5
+2024-04-22,VOXR,2
+2024-04-22,Youtube,1
+2024-04-22,Regal,3
+2024-04-23,Barrington,9
+2024-04-23,Channel Edge,3
+2024-04-23,Google,16
+2024-04-23,Lucent,5
+2024-04-23,O2C,7
+2024-04-23,Other,1
+2024-04-23,Policy Chat,2
+2024-04-23,Ring 2,3
+2024-04-23,Roku,1
+2024-04-23,VOXR,2
+2024-04-23,Youtube,3
+2024-04-23,Regal,4
+2024-04-24,Barrington,4
+2024-04-24,Channel Edge,2
+2024-04-24,Google,14
+2024-04-24,Lucent,3
+2024-04-24,O2C,5
+2024-04-24,Other,1
+2024-04-24,Policy Chat,5
+2024-04-24,Ring 2,1
+2024-04-24,Roku,7
+2024-04-24,VOXR,2
+2024-04-24,Youtube,4
+2024-04-24,Regal,3
+2024-04-25,Barrington,7
+2024-04-25,Channel Edge,1
+2024-04-25,Google,9
+2024-04-25,Lucent,2
+2024-04-25,O2C,8
+2024-04-25,Other,1
+2024-04-25,Policy Chat,3
+2024-04-25,Ring 2,3
+2024-04-25,Roku,2
+2024-04-25,VOXR,2
+2024-04-25,Youtube,7
+2024-04-25,Regal,4
+2024-04-26,Barrington,2
+2024-04-26,Channel Edge,6
+2024-04-26,Google,7
+2024-04-26,Lucent,2
+2024-04-26,O2C,4
+2024-04-26,Other,1
+2024-04-26,Policy Chat,5
+2024-04-26,Ring 2,4
+2024-04-26,Roku,5
+2024-04-26,VOXR,1
+2024-04-26,Youtube,2
+2024-04-26,Regal,7
+2024-04-27,Barrington,8
+2024-04-27,Channel Edge,1
+2024-04-27,Google,7
+2024-04-27,Lucent,4
+2024-04-27,O2C,7
+2024-04-27,Other,2
+2024-04-27,Policy Chat,4
+2024-04-27,Ring 2,4
+2024-04-27,Roku,4
+2024-04-27,VOXR,3
+2024-04-27,Youtube,5
+2024-04-27,Regal,1
+2024-04-28,Barrington,4
+2024-04-28,Channel Edge,1
+2024-04-28,Google,8
+2024-04-28,Lucent,2
+2024-04-28,O2C,12
+2024-04-28,Other,1
+2024-04-28,Policy Chat,4
+2024-04-28,Ring 2,3
+2024-04-28,Roku,4
+2024-04-28,VOXR,2
+2024-04-28,Youtube,10
+2024-04-28,Regal,1
+2024-04-29,Barrington,1
+2024-04-29,Channel Edge,3
+2024-04-29,Google,12
+2024-04-29,Lucent,8
+2024-04-29,O2C,6
+2024-04-29,Other,2
+2024-04-29,Policy Chat,1
+2024-04-29,Ring 2,2
+2024-04-29,Roku,7
+2024-04-29,VOXR,2
+2024-04-29,Youtube,10
+2024-04-29,Regal,1
+2024-04-30,Barrington,7
+2024-04-30,Channel Edge,3
+2024-04-30,Google,12
+2024-04-30,Lucent,3
+2024-04-30,O2C,8
+2024-04-30,Other,1
+2024-04-30,Policy Chat,3
+2024-04-30,Ring 2,2
+2024-04-30,Roku,1
+2024-04-30,VOXR,3
+2024-04-30,Youtube,6
+2024-04-30,Regal,6
+2024-05-01,Barrington,2
+2024-05-01,Channel Edge,3
+2024-05-01,Google,15
+2024-05-01,Lucent,2
+2024-05-01,O2C,8
+2024-05-01,Other,1
+2024-05-01,Policy Chat,7
+2024-05-01,Ring 2,1
+2024-05-01,Roku,3
+2024-05-01,VOXR,1
+2024-05-01,Youtube,7
+2024-05-01,Regal,5
+2024-05-02,Barrington,4
+2024-05-02,Channel Edge,4
+2024-05-02,Google,7
+2024-05-02,Lucent,1
+2024-05-02,O2C,8
+2024-05-02,Other,2
+2024-05-02,Policy Chat,2
+2024-05-02,Ring 2,5
+2024-05-02,Roku,2
+2024-05-02,VOXR,5
+2024-05-02,Youtube,3
+2024-05-02,Regal,3
+2024-05-03,Barrington,3
+2024-05-03,Channel Edge,1
+2024-05-03,Google,9
+2024-05-03,Lucent,3
+2024-05-03,O2C,9
+2024-05-03,Other,1
+2024-05-03,Policy Chat,2
+2024-05-03,Ring 2,1
+2024-05-03,Roku,2
+2024-05-03,VOXR,3
+2024-05-03,Youtube,9
+2024-05-03,Regal,1
+2024-05-04,Barrington,7
+2024-05-04,Channel Edge,2
+2024-05-04,Google,6
+2024-05-04,Lucent,3
+2024-05-04,O2C,9
+2024-05-04,Other,2
+2024-05-04,Policy Chat,2
+2024-05-04,Ring 2,2
+2024-05-04,Roku,3
+2024-05-04,VOXR,2
+2024-05-04,Youtube,2
+2024-05-04,Regal,4
+2024-05-05,Barrington,5
+2024-05-05,Channel Edge,2
+2024-05-05,Google,11
+2024-05-05,Lucent,2
+2024-05-05,O2C,3
+2024-05-05,Other,1
+2024-05-05,Policy Chat,4
+2024-05-05,Ring 2,5
+2024-05-05,Roku,2
+2024-05-05,VOXR,3
+2024-05-05,Youtube,5
+2024-05-05,Regal,1
+2024-05-06,Barrington,12
+2024-05-06,Channel Edge,5
+2024-05-06,Google,14
+2024-05-06,Lucent,1
+2024-05-06,O2C,10
+2024-05-06,Other,1
+2024-05-06,Policy Chat,3
+2024-05-06,Ring 2,3
+2024-05-06,Roku,9
+2024-05-06,VOXR,1
+2024-05-06,Youtube,7
+2024-05-06,Regal,4
+2024-05-07,Barrington,6
+2024-05-07,Channel Edge,3
+2024-05-07,Google,9
+2024-05-07,Lucent,3
+2024-05-07,O2C,10
+2024-05-07,Other,2
+2024-05-07,Policy Chat,7
+2024-05-07,Ring 2,2
+2024-05-07,Roku,4
+2024-05-07,VOXR,1
+2024-05-07,Youtube,9
+2024-05-07,Regal,5
+2024-05-08,Barrington,4
+2024-05-08,Channel Edge,4
+2024-05-08,Google,15
+2024-05-08,Lucent,1
+2024-05-08,O2C,6
+2024-05-08,Other,3
+2024-05-08,Policy Chat,5
+2024-05-08,Ring 2,1
+2024-05-08,Roku,9
+2024-05-08,VOXR,3
+2024-05-08,Youtube,2
+2024-05-08,Regal,5
+2024-05-09,Barrington,7
+2024-05-09,Channel Edge,2
+2024-05-09,Google,14
+2024-05-09,Lucent,3
+2024-05-09,O2C,9
+2024-05-09,Other,2
+2024-05-09,Policy Chat,2
+2024-05-09,Ring 2,4
+2024-05-09,Roku,4
+2024-05-09,VOXR,4
+2024-05-09,Youtube,11
+2024-05-09,Regal,6
+2024-05-10,Barrington,2
+2024-05-10,Channel Edge,3
+2024-05-10,Google,10
+2024-05-10,Lucent,4
+2024-05-10,O2C,6
+2024-05-10,Other,1
+2024-05-10,Policy Chat,3
+2024-05-10,Ring 2,7
+2024-05-10,Roku,5
+2024-05-10,VOXR,2
+2024-05-10,Youtube,4
+2024-05-10,Regal,7
+2024-05-11,Barrington,4
+2024-05-11,Channel Edge,6
+2024-05-11,Google,12
+2024-05-11,Lucent,1
+2024-05-11,O2C,5
+2024-05-11,Other,2
+2024-05-11,Policy Chat,2
+2024-05-11,Ring 2,3
+2024-05-11,Roku,5
+2024-05-11,VOXR,1
+2024-05-11,Youtube,3
+2024-05-11,Regal,3
+2024-05-12,Barrington,2
+2024-05-12,Channel Edge,1
+2024-05-12,Google,9
+2024-05-12,Lucent,2
+2024-05-12,O2C,6
+2024-05-12,Other,1
+2024-05-12,Policy Chat,3
+2024-05-12,Ring 2,1
+2024-05-12,Roku,6
+2024-05-12,VOXR,1
+2024-05-12,Youtube,6
+2024-05-12,Regal,4
+2024-05-13,Barrington,5
+2024-05-13,Channel Edge,3
+2024-05-13,Google,12
+2024-05-13,Lucent,4
+2024-05-13,O2C,5
+2024-05-13,Other,1
+2024-05-13,Policy Chat,7
+2024-05-13,Ring 2,2
+2024-05-13,Roku,2
+2024-05-13,VOXR,1
+2024-05-13,Youtube,9
+2024-05-13,Regal,3
+2024-05-14,Barrington,2
+2024-05-14,Channel Edge,2
+2024-05-14,Google,16
+2024-05-14,Lucent,4
+2024-05-14,O2C,8
+2024-05-14,Other,2
+2024-05-14,Policy Chat,1
+2024-05-14,Ring 2,2
+2024-05-14,Roku,4
+2024-05-14,VOXR,1
+2024-05-14,Youtube,7
+2024-05-14,Regal,3
+2024-05-15,Barrington,4
+2024-05-15,Channel Edge,2
+2024-05-15,Google,9
+2024-05-15,Lucent,3
+2024-05-15,O2C,7
+2024-05-15,Other,2
+2024-05-15,Policy Chat,2
+2024-05-15,Ring 2,4
+2024-05-15,Roku,5
+2024-05-15,VOXR,1
+2024-05-15,Youtube,6
+2024-05-15,Regal,8
+2024-05-16,Barrington,1
+2024-05-16,Channel Edge,5
+2024-05-16,Google,8
+2024-05-16,Lucent,1
+2024-05-16,O2C,12
+2024-05-16,Other,2
+2024-05-16,Policy Chat,3
+2024-05-16,Ring 2,2
+2024-05-16,Roku,2
+2024-05-16,VOXR,3
+2024-05-16,Youtube,7
+2024-05-16,Regal,2
+2024-05-17,Barrington,8
+2024-05-17,Channel Edge,8
+2024-05-17,Google,10
+2024-05-17,Lucent,1
+2024-05-17,O2C,9
+2024-05-17,Other,2
+2024-05-17,Policy Chat,6
+2024-05-17,Ring 2,4
+2024-05-17,Roku,2
+2024-05-17,VOXR,4
+2024-05-17,Youtube,4
+2024-05-17,Regal,2
+2024-05-18,Barrington,3
+2024-05-18,Channel Edge,6
+2024-05-18,Google,15
+2024-05-18,Lucent,2
+2024-05-18,O2C,6
+2024-05-18,Other,2
+2024-05-18,Policy Chat,3
+2024-05-18,Ring 2,2
+2024-05-18,Roku,3
+2024-05-18,VOXR,1
+2024-05-18,Youtube,11
+2024-05-18,Regal,3
+2024-05-19,Barrington,4
+2024-05-19,Channel Edge,5
+2024-05-19,Google,11
+2024-05-19,Lucent,3
+2024-05-19,O2C,7
+2024-05-19,Other,1
+2024-05-19,Policy Chat,4
+2024-05-19,Ring 2,1
+2024-05-19,Roku,3
+2024-05-19,VOXR,5
+2024-05-19,Youtube,5
+2024-05-19,Regal,6
+2024-05-20,Barrington,8
+2024-05-20,Channel Edge,3
+2024-05-20,Google,7
+2024-05-20,Lucent,6
+2024-05-20,O2C,2
+2024-05-20,Other,5
+2024-05-20,Policy Chat,3
+2024-05-20,Ring 2,4
+2024-05-20,Roku,4
+2024-05-20,VOXR,6
+2024-05-20,Youtube,8
+2024-05-20,Regal,4
+2024-05-21,Barrington,9
+2024-05-21,Channel Edge,2
+2024-05-21,Google,9
+2024-05-21,Lucent,1
+2024-05-21,O2C,9
+2024-05-21,Other,1
+2024-05-21,Policy Chat,1
+2024-05-21,Ring 2,1
+2024-05-21,Roku,4
+2024-05-21,VOXR,3
+2024-05-21,Youtube,8
+2024-05-21,Regal,2
+2024-05-22,Barrington,4
+2024-05-22,Channel Edge,1
+2024-05-22,Google,10
+2024-05-22,Lucent,1
+2024-05-22,O2C,15
+2024-05-22,Other,3
+2024-05-22,Policy Chat,1
+2024-05-22,Ring 2,4
+2024-05-22,Roku,1
+2024-05-22,VOXR,1
+2024-05-22,Youtube,7
+2024-05-22,Regal,1
+2024-05-23,Barrington,5
+2024-05-23,Channel Edge,2
+2024-05-23,Google,11
+2024-05-23,Lucent,2
+2024-05-23,O2C,7
+2024-05-23,Other,2
+2024-05-23,Policy Chat,3
+2024-05-23,Ring 2,1
+2024-05-23,Roku,5
+2024-05-23,VOXR,2
+2024-05-23,Youtube,12
+2024-05-23,Regal,1
+2024-05-24,Barrington,5
+2024-05-24,Channel Edge,1
+2024-05-24,Google,11
+2024-05-24,Lucent,5
+2024-05-24,O2C,8
+2024-05-24,Other,3
+2024-05-24,Policy Chat,1
+2024-05-24,Ring 2,2
+2024-05-24,Roku,5
+2024-05-24,VOXR,3
+2024-05-24,Youtube,4
+2024-05-24,Regal,6
+2024-05-25,Barrington,7
+2024-05-25,Channel Edge,4
+2024-05-25,Google,7
+2024-05-25,Lucent,3
+2024-05-25,O2C,8
+2024-05-25,Other,1
+2024-05-25,Policy Chat,4
+2024-05-25,Ring 2,2
+2024-05-25,Roku,5
+2024-05-25,VOXR,2
+2024-05-25,Youtube,2
+2024-05-25,Regal,1
+2024-05-26,Barrington,5
+2024-05-26,Channel Edge,1
+2024-05-26,Google,11
+2024-05-26,Lucent,3
+2024-05-26,O2C,5
+2024-05-26,Other,4
+2024-05-26,Policy Chat,1
+2024-05-26,Ring 2,3
+2024-05-26,Roku,1
+2024-05-26,VOXR,1
+2024-05-26,Youtube,9
+2024-05-26,Regal,4
+2024-05-27,Barrington,3
+2024-05-27,Channel Edge,7
+2024-05-27,Google,11
+2024-05-27,Lucent,4
+2024-05-27,O2C,8
+2024-05-27,Other,1
+2024-05-27,Policy Chat,4
+2024-05-27,Ring 2,2
+2024-05-27,Roku,2
+2024-05-27,VOXR,2
+2024-05-27,Youtube,11
+2024-05-27,Regal,4
+2024-05-28,Barrington,4
+2024-05-28,Channel Edge,3
+2024-05-28,Google,8
+2024-05-28,Lucent,1
+2024-05-28,O2C,6
+2024-05-28,Other,3
+2024-05-28,Policy Chat,6
+2024-05-28,Ring 2,2
+2024-05-28,Roku,7
+2024-05-28,VOXR,3
+2024-05-28,Youtube,8
+2024-05-28,Regal,4
+2024-05-29,Barrington,7
+2024-05-29,Channel Edge,3
+2024-05-29,Google,17
+2024-05-29,Lucent,1
+2024-05-29,O2C,7
+2024-05-29,Other,2
+2024-05-29,Policy Chat,2
+2024-05-29,Ring 2,2
+2024-05-29,Roku,7
+2024-05-29,VOXR,2
+2024-05-29,Youtube,8
+2024-05-29,Regal,2
+2024-05-30,Barrington,14
+2024-05-30,Channel Edge,5
+2024-05-30,Google,13
+2024-05-30,Lucent,2
+2024-05-30,O2C,7
+2024-05-30,Other,1
+2024-05-30,Policy Chat,2
+2024-05-30,Ring 2,3
+2024-05-30,Roku,6
+2024-05-30,VOXR,1
+2024-05-30,Youtube,10
+2024-05-30,Regal,3
+2024-05-31,Barrington,2
+2024-05-31,Channel Edge,4
+2024-05-31,Google,8
+2024-05-31,Lucent,4
+2024-05-31,O2C,7
+2024-05-31,Other,2
+2024-05-31,Policy Chat,2
+2024-05-31,Ring 2,1
+2024-05-31,Roku,3
+2024-05-31,VOXR,1
+2024-05-31,Youtube,9
+2024-05-31,Regal,4
+2024-06-01,Barrington,9
+2024-06-01,Channel Edge,3
+2024-06-01,Google,12
+2024-06-01,Lucent,3
+2024-06-01,O2C,5
+2024-06-01,Other,1
+2024-06-01,Policy Chat,5
+2024-06-01,Ring 2,3
+2024-06-01,Roku,5
+2024-06-01,VOXR,2
+2024-06-01,Youtube,7
+2024-06-01,Regal,5
+2024-06-02,Barrington,6
+2024-06-02,Channel Edge,2
+2024-06-02,Google,11
+2024-06-02,Lucent,1
+2024-06-02,O2C,6
+2024-06-02,Other,3
+2024-06-02,Policy Chat,2
+2024-06-02,Ring 2,1
+2024-06-02,Roku,3
+2024-06-02,VOXR,1
+2024-06-02,Youtube,8
+2024-06-02,Regal,5
+2024-06-03,Barrington,6
+2024-06-03,Channel Edge,3
+2024-06-03,Google,11
+2024-06-03,Lucent,1
+2024-06-03,O2C,4
+2024-06-03,Other,1
+2024-06-03,Policy Chat,2
+2024-06-03,Ring 2,6
+2024-06-03,Roku,6
+2024-06-03,VOXR,1
+2024-06-03,Youtube,9
+2024-06-03,Regal,3
+2024-06-04,Barrington,1
+2024-06-04,Channel Edge,3
+2024-06-04,Google,10
+2024-06-04,Lucent,1
+2024-06-04,O2C,9
+2024-06-04,Other,1
+2024-06-04,Policy Chat,6
+2024-06-04,Ring 2,5
+2024-06-04,Roku,5
+2024-06-04,VOXR,2
+2024-06-04,Youtube,8
+2024-06-04,Regal,10
+2024-06-05,Barrington,5
+2024-06-05,Channel Edge,6
+2024-06-05,Google,9
+2024-06-05,Lucent,3
+2024-06-05,O2C,5
+2024-06-05,Other,2
+2024-06-05,Policy Chat,3
+2024-06-05,Ring 2,4
+2024-06-05,Roku,5
+2024-06-05,VOXR,2
+2024-06-05,Youtube,4
+2024-06-05,Regal,2
+2024-06-06,Barrington,5
+2024-06-06,Channel Edge,3
+2024-06-06,Google,8
+2024-06-06,Lucent,1
+2024-06-06,O2C,5
+2024-06-06,Other,1
+2024-06-06,Policy Chat,2
+2024-06-06,Ring 2,1
+2024-06-06,Roku,6
+2024-06-06,VOXR,5
+2024-06-06,Youtube,3
+2024-06-06,Regal,5
+2024-06-07,Barrington,3
+2024-06-07,Channel Edge,6
+2024-06-07,Google,9
+2024-06-07,Lucent,2
+2024-06-07,O2C,10
+2024-06-07,Other,1
+2024-06-07,Policy Chat,5
+2024-06-07,Ring 2,2
+2024-06-07,Roku,6
+2024-06-07,VOXR,4
+2024-06-07,Youtube,7
+2024-06-07,Regal,2
+2024-06-08,Barrington,6
+2024-06-08,Channel Edge,3
+2024-06-08,Google,14
+2024-06-08,Lucent,1
+2024-06-08,O2C,8
+2024-06-08,Other,3
+2024-06-08,Policy Chat,5
+2024-06-08,Ring 2,1
+2024-06-08,Roku,3
+2024-06-08,VOXR,1
+2024-06-08,Youtube,8
+2024-06-08,Regal,3
+2024-06-09,Barrington,7
+2024-06-09,Channel Edge,1
+2024-06-09,Google,10
+2024-06-09,Lucent,3
+2024-06-09,O2C,4
+2024-06-09,Other,5
+2024-06-09,Policy Chat,3
+2024-06-09,Ring 2,3
+2024-06-09,Roku,5
+2024-06-09,VOXR,2
+2024-06-09,Youtube,8
+2024-06-09,Regal,1
+2024-06-10,Barrington,5
+2024-06-10,Channel Edge,2
+2024-06-10,Google,3
+2024-06-10,Lucent,3
+2024-06-10,O2C,9
+2024-06-10,Other,1
+2024-06-10,Policy Chat,2
+2024-06-10,Ring 2,4
+2024-06-10,Roku,4
+2024-06-10,VOXR,3
+2024-06-10,Youtube,6
+2024-06-10,Regal,1
+2024-06-11,Barrington,1
+2024-06-11,Channel Edge,4
+2024-06-11,Google,18
+2024-06-11,Lucent,2
+2024-06-11,O2C,10
+2024-06-11,Other,2
+2024-06-11,Policy Chat,4
+2024-06-11,Ring 2,2
+2024-06-11,Roku,4
+2024-06-11,VOXR,2
+2024-06-11,Youtube,8
+2024-06-11,Regal,2
+2024-06-12,Barrington,6
+2024-06-12,Channel Edge,5
+2024-06-12,Google,8
+2024-06-12,Lucent,1
+2024-06-12,O2C,10
+2024-06-12,Other,1
+2024-06-12,Policy Chat,5
+2024-06-12,Ring 2,6
+2024-06-12,Roku,4
+2024-06-12,VOXR,3
+2024-06-12,Youtube,8
+2024-06-12,Regal,3
+2024-06-13,Barrington,6
+2024-06-13,Channel Edge,2
+2024-06-13,Google,20
+2024-06-13,Lucent,1
+2024-06-13,O2C,3
+2024-06-13,Other,1
+2024-06-13,Policy Chat,6
+2024-06-13,Ring 2,5
+2024-06-13,Roku,4
+2024-06-13,VOXR,3
+2024-06-13,Youtube,7
+2024-06-13,Regal,1
+2024-06-14,Barrington,6
+2024-06-14,Channel Edge,7
+2024-06-14,Google,12
+2024-06-14,Lucent,1
+2024-06-14,O2C,4
+2024-06-14,Other,2
+2024-06-14,Policy Chat,2
+2024-06-14,Ring 2,4
+2024-06-14,Roku,4
+2024-06-14,VOXR,1
+2024-06-14,Youtube,2
+2024-06-14,Regal,4
+2024-06-15,Barrington,3
+2024-06-15,Channel Edge,4
+2024-06-15,Google,16
+2024-06-15,Lucent,2
+2024-06-15,O2C,11
+2024-06-15,Other,3
+2024-06-15,Policy Chat,8
+2024-06-15,Ring 2,2
+2024-06-15,Roku,4
+2024-06-15,VOXR,1
+2024-06-15,Youtube,8
+2024-06-15,Regal,4
+2024-06-16,Barrington,7
+2024-06-16,Channel Edge,3
+2024-06-16,Google,11
+2024-06-16,Lucent,3
+2024-06-16,O2C,7
+2024-06-16,Other,2
+2024-06-16,Policy Chat,5
+2024-06-16,Ring 2,2
+2024-06-16,Roku,5
+2024-06-16,VOXR,1
+2024-06-16,Youtube,5
+2024-06-16,Regal,3
+2024-06-17,Barrington,4
+2024-06-17,Channel Edge,5
+2024-06-17,Google,20
+2024-06-17,Lucent,1
+2024-06-17,O2C,5
+2024-06-17,Other,2
+2024-06-17,Policy Chat,1
+2024-06-17,Ring 2,2
+2024-06-17,Roku,1
+2024-06-17,VOXR,1
+2024-06-17,Youtube,10
+2024-06-17,Regal,6
+2024-06-18,Barrington,2
+2024-06-18,Channel Edge,3
+2024-06-18,Google,8
+2024-06-18,Lucent,1
+2024-06-18,O2C,4
+2024-06-18,Other,1
+2024-06-18,Policy Chat,6
+2024-06-18,Ring 2,1
+2024-06-18,Roku,5
+2024-06-18,VOXR,3
+2024-06-18,Youtube,2
+2024-06-18,Regal,4
+2024-06-19,Barrington,3
+2024-06-19,Channel Edge,4
+2024-06-19,Google,15
+2024-06-19,Lucent,1
+2024-06-19,O2C,1
+2024-06-19,Other,4
+2024-06-19,Policy Chat,4
+2024-06-19,Ring 2,2
+2024-06-19,Roku,4
+2024-06-19,VOXR,2
+2024-06-19,Youtube,11
+2024-06-19,Regal,4
+2024-06-20,Barrington,1
+2024-06-20,Channel Edge,1
+2024-06-20,Google,7
+2024-06-20,Lucent,2
+2024-06-20,O2C,11
+2024-06-20,Other,1
+2024-06-20,Policy Chat,1
+2024-06-20,Ring 2,2
+2024-06-20,Roku,6
+2024-06-20,VOXR,1
+2024-06-20,Youtube,6
+2024-06-20,Regal,3
+2024-06-21,Barrington,3
+2024-06-21,Channel Edge,1
+2024-06-21,Google,13
+2024-06-21,Lucent,3
+2024-06-21,O2C,7
+2024-06-21,Other,2
+2024-06-21,Policy Chat,1
+2024-06-21,Ring 2,2
+2024-06-21,Roku,3
+2024-06-21,VOXR,1
+2024-06-21,Youtube,10
+2024-06-21,Regal,3
+2024-06-22,Barrington,3
+2024-06-22,Channel Edge,6
+2024-06-22,Google,13
+2024-06-22,Lucent,5
+2024-06-22,O2C,5
+2024-06-22,Other,3
+2024-06-22,Policy Chat,3
+2024-06-22,Ring 2,4
+2024-06-22,Roku,3
+2024-06-22,VOXR,1
+2024-06-22,Youtube,7
+2024-06-22,Regal,1
+2024-06-23,Barrington,7
+2024-06-23,Channel Edge,1
+2024-06-23,Google,9
+2024-06-23,Lucent,1
+2024-06-23,O2C,6
+2024-06-23,Other,4
+2024-06-23,Policy Chat,2
+2024-06-23,Ring 2,1
+2024-06-23,Roku,8
+2024-06-23,VOXR,3
+2024-06-23,Youtube,9
+2024-06-23,Regal,5
+2024-06-24,Barrington,3
+2024-06-24,Channel Edge,3
+2024-06-24,Google,15
+2024-06-24,Lucent,1
+2024-06-24,O2C,8
+2024-06-24,Other,4
+2024-06-24,Policy Chat,6
+2024-06-24,Ring 2,2
+2024-06-24,Roku,4
+2024-06-24,VOXR,3
+2024-06-24,Youtube,4
+2024-06-24,Regal,2
+2024-06-25,Barrington,4
+2024-06-25,Channel Edge,2
+2024-06-25,Google,10
+2024-06-25,Lucent,3
+2024-06-25,O2C,9
+2024-06-25,Other,4
+2024-06-25,Policy Chat,5
+2024-06-25,Ring 2,3
+2024-06-25,Roku,1
+2024-06-25,VOXR,1
+2024-06-25,Youtube,9
+2024-06-25,Regal,5
+2024-06-26,Barrington,3
+2024-06-26,Channel Edge,1
+2024-06-26,Google,14
+2024-06-26,Lucent,1
+2024-06-26,O2C,9
+2024-06-26,Other,2
+2024-06-26,Policy Chat,5
+2024-06-26,Ring 2,6
+2024-06-26,Roku,2
+2024-06-26,VOXR,2
+2024-06-26,Youtube,5
+2024-06-26,Regal,3
+2024-06-27,Barrington,6
+2024-06-27,Channel Edge,4
+2024-06-27,Google,15
+2024-06-27,Lucent,3
+2024-06-27,O2C,4
+2024-06-27,Other,2
+2024-06-27,Policy Chat,4
+2024-06-27,Ring 2,3
+2024-06-27,Roku,2
+2024-06-27,VOXR,2
+2024-06-27,Youtube,7
+2024-06-27,Regal,1
+2024-06-28,Barrington,3
+2024-06-28,Channel Edge,4
+2024-06-28,Google,8
+2024-06-28,Lucent,3
+2024-06-28,O2C,9
+2024-06-28,Other,3
+2024-06-28,Policy Chat,3
+2024-06-28,Ring 2,2
+2024-06-28,Roku,2
+2024-06-28,VOXR,2
+2024-06-28,Youtube,4
+2024-06-28,Regal,7
+2024-06-29,Barrington,4
+2024-06-29,Channel Edge,3
+2024-06-29,Google,6
+2024-06-29,Lucent,2
+2024-06-29,O2C,8
+2024-06-29,Other,2
+2024-06-29,Policy Chat,5
+2024-06-29,Ring 2,3
+2024-06-29,Roku,2
+2024-06-29,VOXR,3
+2024-06-29,Youtube,8
+2024-06-29,Regal,4
+2024-06-30,Barrington,4
+2024-06-30,Channel Edge,3
+2024-06-30,Google,13
+2024-06-30,Lucent,2
+2024-06-30,O2C,6
+2024-06-30,Other,1
+2024-06-30,Policy Chat,6
+2024-06-30,Ring 2,4
+2024-06-30,Roku,6
+2024-06-30,VOXR,1
+2024-06-30,Youtube,4
+2024-06-30,Regal,3
+2024-07-01,Barrington,7
+2024-07-01,Channel Edge,3
+2024-07-01,Google,11
+2024-07-01,Lucent,8
+2024-07-01,O2C,10
+2024-07-01,Other,3
+2024-07-01,Policy Chat,4
+2024-07-01,Ring 2,2
+2024-07-01,Roku,4
+2024-07-01,VOXR,3
+2024-07-01,Youtube,6
+2024-07-01,Regal,2
+2024-07-02,Barrington,5
+2024-07-02,Channel Edge,4
+2024-07-02,Google,12
+2024-07-02,Lucent,3
+2024-07-02,O2C,7
+2024-07-02,Other,3
+2024-07-02,Policy Chat,3
+2024-07-02,Ring 2,4
+2024-07-02,Roku,5
+2024-07-02,VOXR,1
+2024-07-02,Youtube,5
+2024-07-02,Regal,3
+2024-07-03,Barrington,5
+2024-07-03,Channel Edge,2
+2024-07-03,Google,9
+2024-07-03,Lucent,1
+2024-07-03,O2C,6
+2024-07-03,Other,2
+2024-07-03,Policy Chat,3
+2024-07-03,Ring 2,5
+2024-07-03,Roku,1
+2024-07-03,VOXR,1
+2024-07-03,Youtube,6
+2024-07-03,Regal,4
+2024-07-04,Barrington,6
+2024-07-04,Channel Edge,4
+2024-07-04,Google,12
+2024-07-04,Lucent,3
+2024-07-04,O2C,6
+2024-07-04,Other,2
+2024-07-04,Policy Chat,2
+2024-07-04,Ring 2,4
+2024-07-04,Roku,5
+2024-07-04,VOXR,3
+2024-07-04,Youtube,11
+2024-07-04,Regal,2
+2024-07-05,Barrington,5
+2024-07-05,Channel Edge,2
+2024-07-05,Google,19
+2024-07-05,Lucent,3
+2024-07-05,O2C,11
+2024-07-05,Other,1
+2024-07-05,Policy Chat,3
+2024-07-05,Ring 2,1
+2024-07-05,Roku,4
+2024-07-05,VOXR,2
+2024-07-05,Youtube,9
+2024-07-05,Regal,6
+2024-07-06,Barrington,3
+2024-07-06,Channel Edge,1
+2024-07-06,Google,13
+2024-07-06,Lucent,1
+2024-07-06,O2C,6
+2024-07-06,Other,1
+2024-07-06,Policy Chat,3
+2024-07-06,Ring 2,1
+2024-07-06,Roku,8
+2024-07-06,VOXR,2
+2024-07-06,Youtube,8
+2024-07-06,Regal,6
+2024-07-07,Barrington,6
+2024-07-07,Channel Edge,4
+2024-07-07,Google,14
+2024-07-07,Lucent,1
+2024-07-07,O2C,9
+2024-07-07,Other,1
+2024-07-07,Policy Chat,4
+2024-07-07,Ring 2,3
+2024-07-07,Roku,3
+2024-07-07,VOXR,3
+2024-07-07,Youtube,9
+2024-07-07,Regal,6
+2024-07-08,Barrington,8
+2024-07-08,Channel Edge,4
+2024-07-08,Google,10
+2024-07-08,Lucent,1
+2024-07-08,O2C,10
+2024-07-08,Other,1
+2024-07-08,Policy Chat,1
+2024-07-08,Ring 2,4
+2024-07-08,Roku,6
+2024-07-08,VOXR,1
+2024-07-08,Youtube,7
+2024-07-08,Regal,6
+2024-07-09,Barrington,4
+2024-07-09,Channel Edge,1
+2024-07-09,Google,13
+2024-07-09,Lucent,3
+2024-07-09,O2C,6
+2024-07-09,Other,3
+2024-07-09,Policy Chat,4
+2024-07-09,Ring 2,3
+2024-07-09,Roku,6
+2024-07-09,VOXR,1
+2024-07-09,Youtube,3
+2024-07-09,Regal,4
+2024-07-10,Barrington,5
+2024-07-10,Channel Edge,3
+2024-07-10,Google,8
+2024-07-10,Lucent,1
+2024-07-10,O2C,8
+2024-07-10,Other,1
+2024-07-10,Policy Chat,3
+2024-07-10,Ring 2,1
+2024-07-10,Roku,6
+2024-07-10,VOXR,4
+2024-07-10,Youtube,6
+2024-07-10,Regal,1
+2024-07-11,Barrington,2
+2024-07-11,Channel Edge,2
+2024-07-11,Google,9
+2024-07-11,Lucent,1
+2024-07-11,O2C,6
+2024-07-11,Other,3
+2024-07-11,Policy Chat,2
+2024-07-11,Ring 2,1
+2024-07-11,Roku,7
+2024-07-11,VOXR,2
+2024-07-11,Youtube,11
+2024-07-11,Regal,3
+2024-07-12,Barrington,2
+2024-07-12,Channel Edge,4
+2024-07-12,Google,9
+2024-07-12,Lucent,3
+2024-07-12,O2C,6
+2024-07-12,Other,3
+2024-07-12,Policy Chat,1
+2024-07-12,Ring 2,8
+2024-07-12,Roku,7
+2024-07-12,VOXR,3
+2024-07-12,Youtube,9
+2024-07-12,Regal,5
+2024-07-13,Barrington,3
+2024-07-13,Channel Edge,4
+2024-07-13,Google,10
+2024-07-13,Lucent,1
+2024-07-13,O2C,6
+2024-07-13,Other,1
+2024-07-13,Policy Chat,1
+2024-07-13,Ring 2,5
+2024-07-13,Roku,5
+2024-07-13,VOXR,3
+2024-07-13,Youtube,10
+2024-07-13,Regal,4
+2024-07-14,Barrington,2
+2024-07-14,Channel Edge,2
+2024-07-14,Google,10
+2024-07-14,Lucent,4
+2024-07-14,O2C,9
+2024-07-14,Other,4
+2024-07-14,Policy Chat,4
+2024-07-14,Ring 2,4
+2024-07-14,Roku,6
+2024-07-14,VOXR,5
+2024-07-14,Youtube,9
+2024-07-14,Regal,4
+2024-07-15,Barrington,3
+2024-07-15,Channel Edge,1
+2024-07-15,Google,12
+2024-07-15,Lucent,2
+2024-07-15,O2C,7
+2024-07-15,Other,4
+2024-07-15,Policy Chat,2
+2024-07-15,Ring 2,1
+2024-07-15,Roku,4
+2024-07-15,VOXR,2
+2024-07-15,Youtube,5
+2024-07-15,Regal,1
+2024-07-16,Barrington,4
+2024-07-16,Channel Edge,2
+2024-07-16,Google,17
+2024-07-16,Lucent,1
+2024-07-16,O2C,7
+2024-07-16,Other,4
+2024-07-16,Policy Chat,6
+2024-07-16,Ring 2,4
+2024-07-16,Roku,4
+2024-07-16,VOXR,1
+2024-07-16,Youtube,7
+2024-07-16,Regal,3
+2024-07-17,Barrington,7
+2024-07-17,Channel Edge,3
+2024-07-17,Google,12
+2024-07-17,Lucent,3
+2024-07-17,O2C,5
+2024-07-17,Other,2
+2024-07-17,Policy Chat,2
+2024-07-17,Ring 2,4
+2024-07-17,Roku,6
+2024-07-17,VOXR,2
+2024-07-17,Youtube,2
+2024-07-17,Regal,1
+2024-07-18,Barrington,3
+2024-07-18,Channel Edge,1
+2024-07-18,Google,14
+2024-07-18,Lucent,1
+2024-07-18,O2C,6
+2024-07-18,Other,1
+2024-07-18,Policy Chat,5
+2024-07-18,Ring 2,2
+2024-07-18,Roku,2
+2024-07-18,VOXR,4
+2024-07-18,Youtube,12
+2024-07-18,Regal,3
+2024-07-19,Barrington,5
+2024-07-19,Channel Edge,1
+2024-07-19,Google,9
+2024-07-19,Lucent,1
+2024-07-19,O2C,12
+2024-07-19,Other,1
+2024-07-19,Policy Chat,3
+2024-07-19,Ring 2,4
+2024-07-19,Roku,2
+2024-07-19,VOXR,1
+2024-07-19,Youtube,9
+2024-07-19,Regal,3
+2024-07-20,Barrington,5
+2024-07-20,Channel Edge,5
+2024-07-20,Google,9
+2024-07-20,Lucent,1
+2024-07-20,O2C,8
+2024-07-20,Other,1
+2024-07-20,Policy Chat,3
+2024-07-20,Ring 2,4
+2024-07-20,Roku,3
+2024-07-20,VOXR,2
+2024-07-20,Youtube,8
+2024-07-20,Regal,7
+2024-07-21,Barrington,4
+2024-07-21,Channel Edge,2
+2024-07-21,Google,12
+2024-07-21,Lucent,3
+2024-07-21,O2C,8
+2024-07-21,Other,1
+2024-07-21,Policy Chat,3
+2024-07-21,Ring 2,3
+2024-07-21,Roku,5
+2024-07-21,VOXR,1
+2024-07-21,Youtube,10
+2024-07-21,Regal,4
+2024-07-22,Barrington,4
+2024-07-22,Channel Edge,4
+2024-07-22,Google,10
+2024-07-22,Lucent,3
+2024-07-22,O2C,9
+2024-07-22,Other,3
+2024-07-22,Policy Chat,6
+2024-07-22,Ring 2,1
+2024-07-22,Roku,3
+2024-07-22,VOXR,5
+2024-07-22,Youtube,6
+2024-07-22,Regal,5
+2024-07-23,Barrington,8
+2024-07-23,Channel Edge,5
+2024-07-23,Google,7
+2024-07-23,Lucent,1
+2024-07-23,O2C,10
+2024-07-23,Other,4
+2024-07-23,Policy Chat,2
+2024-07-23,Ring 2,3
+2024-07-23,Roku,6
+2024-07-23,VOXR,2
+2024-07-23,Youtube,9
+2024-07-23,Regal,5
+2024-07-24,Barrington,2
+2024-07-24,Channel Edge,2
+2024-07-24,Google,15
+2024-07-24,Lucent,2
+2024-07-24,O2C,4
+2024-07-24,Other,2
+2024-07-24,Policy Chat,4
+2024-07-24,Ring 2,5
+2024-07-24,Roku,4
+2024-07-24,VOXR,3
+2024-07-24,Youtube,9
+2024-07-24,Regal,10
+2024-07-25,Barrington,2
+2024-07-25,Channel Edge,2
+2024-07-25,Google,16
+2024-07-25,Lucent,3
+2024-07-25,O2C,9
+2024-07-25,Other,2
+2024-07-25,Policy Chat,3
+2024-07-25,Ring 2,4
+2024-07-25,Roku,4
+2024-07-25,VOXR,3
+2024-07-25,Youtube,5
+2024-07-25,Regal,3
+2024-07-26,Barrington,5
+2024-07-26,Channel Edge,6
+2024-07-26,Google,6
+2024-07-26,Lucent,1
+2024-07-26,O2C,6
+2024-07-26,Other,3
+2024-07-26,Policy Chat,2
+2024-07-26,Ring 2,2
+2024-07-26,Roku,5
+2024-07-26,VOXR,4
+2024-07-26,Youtube,7
+2024-07-26,Regal,1
+2024-07-27,Barrington,6
+2024-07-27,Channel Edge,4
+2024-07-27,Google,14
+2024-07-27,Lucent,2
+2024-07-27,O2C,9
+2024-07-27,Other,2
+2024-07-27,Policy Chat,2
+2024-07-27,Ring 2,2
+2024-07-27,Roku,3
+2024-07-27,VOXR,1
+2024-07-27,Youtube,9
+2024-07-27,Regal,2
+2024-07-28,Barrington,1
+2024-07-28,Channel Edge,3
+2024-07-28,Google,16
+2024-07-28,Lucent,2
+2024-07-28,O2C,10
+2024-07-28,Other,1
+2024-07-28,Policy Chat,1
+2024-07-28,Ring 2,3
+2024-07-28,Roku,1
+2024-07-28,VOXR,5
+2024-07-28,Youtube,6
+2024-07-28,Regal,5
+2024-07-29,Barrington,6
+2024-07-29,Channel Edge,3
+2024-07-29,Google,14
+2024-07-29,Lucent,1
+2024-07-29,O2C,12
+2024-07-29,Other,1
+2024-07-29,Policy Chat,3
+2024-07-29,Ring 2,3
+2024-07-29,Roku,3
+2024-07-29,VOXR,1
+2024-07-29,Youtube,7
+2024-07-29,Regal,3
+2024-07-30,Barrington,5
+2024-07-30,Channel Edge,3
+2024-07-30,Google,9
+2024-07-30,Lucent,2
+2024-07-30,O2C,6
+2024-07-30,Other,1
+2024-07-30,Policy Chat,5
+2024-07-30,Ring 2,2
+2024-07-30,Roku,5
+2024-07-30,VOXR,4
+2024-07-30,Youtube,4
+2024-07-30,Regal,6
+2024-07-31,Barrington,2
+2024-07-31,Channel Edge,4
+2024-07-31,Google,8
+2024-07-31,Lucent,1
+2024-07-31,O2C,7
+2024-07-31,Other,4
+2024-07-31,Policy Chat,2
+2024-07-31,Ring 2,3
+2024-07-31,Roku,4
+2024-07-31,VOXR,7
+2024-07-31,Youtube,7
+2024-07-31,Regal,5
+2024-08-01,Barrington,8
+2024-08-01,Channel Edge,2
+2024-08-01,Google,13
+2024-08-01,Lucent,4
+2024-08-01,O2C,12
+2024-08-01,Other,1
+2024-08-01,Policy Chat,1
+2024-08-01,Ring 2,1
+2024-08-01,Roku,3
+2024-08-01,VOXR,6
+2024-08-01,Youtube,5
+2024-08-01,Regal,2
+2024-08-02,Barrington,1
+2024-08-02,Channel Edge,1
+2024-08-02,Google,14
+2024-08-02,Lucent,2
+2024-08-02,O2C,5
+2024-08-02,Other,1
+2024-08-02,Policy Chat,2
+2024-08-02,Ring 2,2
+2024-08-02,Roku,6
+2024-08-02,VOXR,1
+2024-08-02,Youtube,7
+2024-08-02,Regal,4
+2024-08-03,Barrington,1
+2024-08-03,Channel Edge,3
+2024-08-03,Google,16
+2024-08-03,Lucent,2
+2024-08-03,O2C,7
+2024-08-03,Other,1
+2024-08-03,Policy Chat,1
+2024-08-03,Ring 2,1
+2024-08-03,Roku,1
+2024-08-03,VOXR,1
+2024-08-03,Youtube,3
+2024-08-03,Regal,3
+2024-08-04,Barrington,6
+2024-08-04,Channel Edge,6
+2024-08-04,Google,11
+2024-08-04,Lucent,1
+2024-08-04,O2C,8
+2024-08-04,Other,3
+2024-08-04,Policy Chat,4
+2024-08-04,Ring 2,4
+2024-08-04,Roku,3
+2024-08-04,VOXR,1
+2024-08-04,Youtube,5
+2024-08-04,Regal,6
+2024-08-05,Barrington,4
+2024-08-05,Channel Edge,3
+2024-08-05,Google,15
+2024-08-05,Lucent,1
+2024-08-05,O2C,3
+2024-08-05,Other,1
+2024-08-05,Policy Chat,2
+2024-08-05,Ring 2,2
+2024-08-05,Roku,3
+2024-08-05,VOXR,3
+2024-08-05,Youtube,7
+2024-08-05,Regal,1
+2024-08-06,Barrington,4
+2024-08-06,Channel Edge,1
+2024-08-06,Google,7
+2024-08-06,Lucent,3
+2024-08-06,O2C,11
+2024-08-06,Other,1
+2024-08-06,Policy Chat,6
+2024-08-06,Ring 2,4
+2024-08-06,Roku,2
+2024-08-06,VOXR,3
+2024-08-06,Youtube,11
+2024-08-06,Regal,5
+2024-08-07,Barrington,8
+2024-08-07,Channel Edge,4
+2024-08-07,Google,11
+2024-08-07,Lucent,1
+2024-08-07,O2C,8
+2024-08-07,Other,1
+2024-08-07,Policy Chat,4
+2024-08-07,Ring 2,6
+2024-08-07,Roku,3
+2024-08-07,VOXR,1
+2024-08-07,Youtube,8
+2024-08-07,Regal,3
+2024-08-08,Barrington,3
+2024-08-08,Channel Edge,1
+2024-08-08,Google,10
+2024-08-08,Lucent,1
+2024-08-08,O2C,10
+2024-08-08,Other,2
+2024-08-08,Policy Chat,4
+2024-08-08,Ring 2,1
+2024-08-08,Roku,2
+2024-08-08,VOXR,2
+2024-08-08,Youtube,5
+2024-08-08,Regal,4
+2024-08-09,Barrington,1
+2024-08-09,Channel Edge,1
+2024-08-09,Google,9
+2024-08-09,Lucent,2
+2024-08-09,O2C,13
+2024-08-09,Other,1
+2024-08-09,Policy Chat,1
+2024-08-09,Ring 2,5
+2024-08-09,Roku,2
+2024-08-09,VOXR,3
+2024-08-09,Youtube,4
+2024-08-09,Regal,5
+2024-08-10,Barrington,6
+2024-08-10,Channel Edge,2
+2024-08-10,Google,18
+2024-08-10,Lucent,3
+2024-08-10,O2C,10
+2024-08-10,Other,1
+2024-08-10,Policy Chat,5
+2024-08-10,Ring 2,2
+2024-08-10,Roku,4
+2024-08-10,VOXR,2
+2024-08-10,Youtube,7
+2024-08-10,Regal,2
+2024-08-11,Barrington,6
+2024-08-11,Channel Edge,9
+2024-08-11,Google,15
+2024-08-11,Lucent,1
+2024-08-11,O2C,5
+2024-08-11,Other,2
+2024-08-11,Policy Chat,3
+2024-08-11,Ring 2,2
+2024-08-11,Roku,2
+2024-08-11,VOXR,3
+2024-08-11,Youtube,4
+2024-08-11,Regal,1
+2024-08-12,Barrington,1
+2024-08-12,Channel Edge,1
+2024-08-12,Google,10
+2024-08-12,Lucent,4
+2024-08-12,O2C,8
+2024-08-12,Other,2
+2024-08-12,Policy Chat,1
+2024-08-12,Ring 2,4
+2024-08-12,Roku,3
+2024-08-12,VOXR,2
+2024-08-12,Youtube,6
+2024-08-12,Regal,2
+2024-08-13,Barrington,3
+2024-08-13,Channel Edge,2
+2024-08-13,Google,12
+2024-08-13,Lucent,2
+2024-08-13,O2C,4
+2024-08-13,Other,2
+2024-08-13,Policy Chat,4
+2024-08-13,Ring 2,1
+2024-08-13,Roku,4
+2024-08-13,VOXR,3
+2024-08-13,Youtube,4
+2024-08-13,Regal,3
+2024-08-14,Barrington,5
+2024-08-14,Channel Edge,4
+2024-08-14,Google,11
+2024-08-14,Lucent,1
+2024-08-14,O2C,9
+2024-08-14,Other,1
+2024-08-14,Policy Chat,3
+2024-08-14,Ring 2,4
+2024-08-14,Roku,1
+2024-08-14,VOXR,3
+2024-08-14,Youtube,6
+2024-08-14,Regal,2
+2024-08-15,Barrington,6
+2024-08-15,Channel Edge,2
+2024-08-15,Google,10
+2024-08-15,Lucent,2
+2024-08-15,O2C,4
+2024-08-15,Other,1
+2024-08-15,Policy Chat,3
+2024-08-15,Ring 2,9
+2024-08-15,Roku,5
+2024-08-15,VOXR,3
+2024-08-15,Youtube,6
+2024-08-15,Regal,3
+2024-08-16,Barrington,8
+2024-08-16,Channel Edge,2
+2024-08-16,Google,7
+2024-08-16,Lucent,1
+2024-08-16,O2C,10
+2024-08-16,Other,3
+2024-08-16,Policy Chat,4
+2024-08-16,Ring 2,2
+2024-08-16,Roku,3
+2024-08-16,VOXR,1
+2024-08-16,Youtube,8
+2024-08-16,Regal,4
+2024-08-17,Barrington,5
+2024-08-17,Channel Edge,2
+2024-08-17,Google,17
+2024-08-17,Lucent,4
+2024-08-17,O2C,4
+2024-08-17,Other,3
+2024-08-17,Policy Chat,3
+2024-08-17,Ring 2,4
+2024-08-17,Roku,7
+2024-08-17,VOXR,1
+2024-08-17,Youtube,12
+2024-08-17,Regal,1
+2024-08-18,Barrington,5
+2024-08-18,Channel Edge,2
+2024-08-18,Google,10
+2024-08-18,Lucent,3
+2024-08-18,O2C,5
+2024-08-18,Other,1
+2024-08-18,Policy Chat,4
+2024-08-18,Ring 2,5
+2024-08-18,Roku,4
+2024-08-18,VOXR,3
+2024-08-18,Youtube,3
+2024-08-18,Regal,3
+2024-08-19,Barrington,4
+2024-08-19,Channel Edge,4
+2024-08-19,Google,7
+2024-08-19,Lucent,3
+2024-08-19,O2C,8
+2024-08-19,Other,3
+2024-08-19,Policy Chat,5
+2024-08-19,Ring 2,1
+2024-08-19,Roku,1
+2024-08-19,VOXR,6
+2024-08-19,Youtube,7
+2024-08-19,Regal,4
+2024-08-20,Barrington,5
+2024-08-20,Channel Edge,3
+2024-08-20,Google,12
+2024-08-20,Lucent,3
+2024-08-20,O2C,5
+2024-08-20,Other,1
+2024-08-20,Policy Chat,4
+2024-08-20,Ring 2,3
+2024-08-20,Roku,3
+2024-08-20,VOXR,2
+2024-08-20,Youtube,4
+2024-08-20,Regal,1
+2024-08-21,Barrington,3
+2024-08-21,Channel Edge,2
+2024-08-21,Google,8
+2024-08-21,Lucent,1
+2024-08-21,O2C,11
+2024-08-21,Other,1
+2024-08-21,Policy Chat,1
+2024-08-21,Ring 2,1
+2024-08-21,Roku,4
+2024-08-21,VOXR,2
+2024-08-21,Youtube,4
+2024-08-21,Regal,4
+2024-08-22,Barrington,5
+2024-08-22,Channel Edge,3
+2024-08-22,Google,14
+2024-08-22,Lucent,2
+2024-08-22,O2C,3
+2024-08-22,Other,2
+2024-08-22,Policy Chat,5
+2024-08-22,Ring 2,4
+2024-08-22,Roku,8
+2024-08-22,VOXR,5
+2024-08-22,Youtube,3
+2024-08-22,Regal,5
+2024-08-23,Barrington,1
+2024-08-23,Channel Edge,4
+2024-08-23,Google,10
+2024-08-23,Lucent,1
+2024-08-23,O2C,3
+2024-08-23,Other,1
+2024-08-23,Policy Chat,4
+2024-08-23,Ring 2,5
+2024-08-23,Roku,5
+2024-08-23,VOXR,3
+2024-08-23,Youtube,11
+2024-08-23,Regal,1
+2024-08-24,Barrington,2
+2024-08-24,Channel Edge,4
+2024-08-24,Google,9
+2024-08-24,Lucent,6
+2024-08-24,O2C,7
+2024-08-24,Other,3
+2024-08-24,Policy Chat,2
+2024-08-24,Ring 2,4
+2024-08-24,Roku,4
+2024-08-24,VOXR,1
+2024-08-24,Youtube,7
+2024-08-24,Regal,4
+2024-08-25,Barrington,4
+2024-08-25,Channel Edge,4
+2024-08-25,Google,14
+2024-08-25,Lucent,4
+2024-08-25,O2C,9
+2024-08-25,Other,1
+2024-08-25,Policy Chat,2
+2024-08-25,Ring 2,3
+2024-08-25,Roku,4
+2024-08-25,VOXR,1
+2024-08-25,Youtube,6
+2024-08-25,Regal,4
+2024-08-26,Barrington,3
+2024-08-26,Channel Edge,2
+2024-08-26,Google,14
+2024-08-26,Lucent,2
+2024-08-26,O2C,10
+2024-08-26,Other,4
+2024-08-26,Policy Chat,3
+2024-08-26,Ring 2,4
+2024-08-26,Roku,7
+2024-08-26,VOXR,1
+2024-08-26,Youtube,4
+2024-08-26,Regal,3
+2024-08-27,Barrington,6
+2024-08-27,Channel Edge,1
+2024-08-27,Google,15
+2024-08-27,Lucent,1
+2024-08-27,O2C,6
+2024-08-27,Other,1
+2024-08-27,Policy Chat,4
+2024-08-27,Ring 2,1
+2024-08-27,Roku,5
+2024-08-27,VOXR,1
+2024-08-27,Youtube,8
+2024-08-27,Regal,4
+2024-08-28,Barrington,5
+2024-08-28,Channel Edge,4
+2024-08-28,Google,13
+2024-08-28,Lucent,2
+2024-08-28,O2C,8
+2024-08-28,Other,3
+2024-08-28,Policy Chat,5
+2024-08-28,Ring 2,2
+2024-08-28,Roku,7
+2024-08-28,VOXR,3
+2024-08-28,Youtube,3
+2024-08-28,Regal,3
+2024-08-29,Barrington,1
+2024-08-29,Channel Edge,1
+2024-08-29,Google,14
+2024-08-29,Lucent,1
+2024-08-29,O2C,9
+2024-08-29,Other,3
+2024-08-29,Policy Chat,2
+2024-08-29,Ring 2,4
+2024-08-29,Roku,7
+2024-08-29,VOXR,1
+2024-08-29,Youtube,4
+2024-08-29,Regal,1
+2024-08-30,Barrington,5
+2024-08-30,Channel Edge,1
+2024-08-30,Google,17
+2024-08-30,Lucent,1
+2024-08-30,O2C,5
+2024-08-30,Other,2
+2024-08-30,Policy Chat,3
+2024-08-30,Ring 2,3
+2024-08-30,Roku,5
+2024-08-30,VOXR,1
+2024-08-30,Youtube,5
+2024-08-30,Regal,3
+2024-08-31,Barrington,6
+2024-08-31,Channel Edge,4
+2024-08-31,Google,8
+2024-08-31,Lucent,3
+2024-08-31,O2C,9
+2024-08-31,Other,2
+2024-08-31,Policy Chat,1
+2024-08-31,Ring 2,1
+2024-08-31,Roku,3
+2024-08-31,VOXR,2
+2024-08-31,Youtube,13
+2024-08-31,Regal,5
+2024-09-01,Barrington,5
+2024-09-01,Channel Edge,2
+2024-09-01,Google,9
+2024-09-01,Lucent,1
+2024-09-01,O2C,9
+2024-09-01,Other,1
+2024-09-01,Policy Chat,1
+2024-09-01,Ring 2,2
+2024-09-01,Roku,8
+2024-09-01,VOXR,3
+2024-09-01,Youtube,6
+2024-09-01,Regal,3
+2024-09-02,Barrington,3
+2024-09-02,Channel Edge,4
+2024-09-02,Google,11
+2024-09-02,Lucent,3
+2024-09-02,O2C,2
+2024-09-02,Other,1
+2024-09-02,Policy Chat,4
+2024-09-02,Ring 2,4
+2024-09-02,Roku,2
+2024-09-02,VOXR,4
+2024-09-02,Youtube,4
+2024-09-02,Regal,2
+2024-09-03,Barrington,7
+2024-09-03,Channel Edge,2
+2024-09-03,Google,7
+2024-09-03,Lucent,1
+2024-09-03,O2C,5
+2024-09-03,Other,3
+2024-09-03,Policy Chat,4
+2024-09-03,Ring 2,4
+2024-09-03,Roku,5
+2024-09-03,VOXR,2
+2024-09-03,Youtube,8
+2024-09-03,Regal,4
+2024-09-04,Barrington,4
+2024-09-04,Channel Edge,2
+2024-09-04,Google,8
+2024-09-04,Lucent,4
+2024-09-04,O2C,5
+2024-09-04,Other,1
+2024-09-04,Policy Chat,4
+2024-09-04,Ring 2,2
+2024-09-04,Roku,2
+2024-09-04,VOXR,2
+2024-09-04,Youtube,3
+2024-09-04,Regal,3
+2024-09-05,Barrington,9
+2024-09-05,Channel Edge,1
+2024-09-05,Google,13
+2024-09-05,Lucent,1
+2024-09-05,O2C,7
+2024-09-05,Other,1
+2024-09-05,Policy Chat,5
+2024-09-05,Ring 2,1
+2024-09-05,Roku,6
+2024-09-05,VOXR,1
+2024-09-05,Youtube,3
+2024-09-05,Regal,5
+2024-09-06,Barrington,3
+2024-09-06,Channel Edge,5
+2024-09-06,Google,4
+2024-09-06,Lucent,1
+2024-09-06,O2C,5
+2024-09-06,Other,1
+2024-09-06,Policy Chat,1
+2024-09-06,Ring 2,4
+2024-09-06,Roku,3
+2024-09-06,VOXR,3
+2024-09-06,Youtube,5
+2024-09-06,Regal,3
+2024-09-07,Barrington,1
+2024-09-07,Channel Edge,5
+2024-09-07,Google,13
+2024-09-07,Lucent,1
+2024-09-07,O2C,6
+2024-09-07,Other,1
+2024-09-07,Policy Chat,3
+2024-09-07,Ring 2,2
+2024-09-07,Roku,6
+2024-09-07,VOXR,5
+2024-09-07,Youtube,4
+2024-09-07,Regal,3
+2024-09-08,Barrington,3
+2024-09-08,Channel Edge,2
+2024-09-08,Google,14
+2024-09-08,Lucent,3
+2024-09-08,O2C,8
+2024-09-08,Other,1
+2024-09-08,Policy Chat,1
+2024-09-08,Ring 2,2
+2024-09-08,Roku,6
+2024-09-08,VOXR,3
+2024-09-08,Youtube,3
+2024-09-08,Regal,1
+2024-09-09,Barrington,1
+2024-09-09,Channel Edge,2
+2024-09-09,Google,15
+2024-09-09,Lucent,2
+2024-09-09,O2C,6
+2024-09-09,Other,1
+2024-09-09,Policy Chat,3
+2024-09-09,Ring 2,3
+2024-09-09,Roku,6
+2024-09-09,VOXR,2
+2024-09-09,Youtube,5
+2024-09-09,Regal,3
+2024-09-10,Barrington,5
+2024-09-10,Channel Edge,6
+2024-09-10,Google,13
+2024-09-10,Lucent,1
+2024-09-10,O2C,7
+2024-09-10,Other,2
+2024-09-10,Policy Chat,1
+2024-09-10,Ring 2,4
+2024-09-10,Roku,3
+2024-09-10,VOXR,2
+2024-09-10,Youtube,11
+2024-09-10,Regal,3
+2024-09-11,Barrington,8
+2024-09-11,Channel Edge,1
+2024-09-11,Google,7
+2024-09-11,Lucent,1
+2024-09-11,O2C,6
+2024-09-11,Other,1
+2024-09-11,Policy Chat,2
+2024-09-11,Ring 2,1
+2024-09-11,Roku,5
+2024-09-11,VOXR,2
+2024-09-11,Youtube,6
+2024-09-11,Regal,5
+2024-09-12,Barrington,2
+2024-09-12,Channel Edge,3
+2024-09-12,Google,14
+2024-09-12,Lucent,2
+2024-09-12,O2C,13
+2024-09-12,Other,2
+2024-09-12,Policy Chat,2
+2024-09-12,Ring 2,2
+2024-09-12,Roku,3
+2024-09-12,VOXR,2
+2024-09-12,Youtube,7
+2024-09-12,Regal,1
+2024-09-13,Barrington,5
+2024-09-13,Channel Edge,5
+2024-09-13,Google,11
+2024-09-13,Lucent,1
+2024-09-13,O2C,9
+2024-09-13,Other,5
+2024-09-13,Policy Chat,9
+2024-09-13,Ring 2,2
+2024-09-13,Roku,5
+2024-09-13,VOXR,2
+2024-09-13,Youtube,8
+2024-09-13,Regal,4
+2024-09-14,Barrington,1
+2024-09-14,Channel Edge,1
+2024-09-14,Google,6
+2024-09-14,Lucent,6
+2024-09-14,O2C,8
+2024-09-14,Other,4
+2024-09-14,Policy Chat,1
+2024-09-14,Ring 2,4
+2024-09-14,Roku,8
+2024-09-14,VOXR,1
+2024-09-14,Youtube,8
+2024-09-14,Regal,1
+2024-09-15,Barrington,2
+2024-09-15,Channel Edge,1
+2024-09-15,Google,13
+2024-09-15,Lucent,2
+2024-09-15,O2C,11
+2024-09-15,Other,1
+2024-09-15,Policy Chat,3
+2024-09-15,Ring 2,3
+2024-09-15,Roku,4
+2024-09-15,VOXR,1
+2024-09-15,Youtube,7
+2024-09-15,Regal,2
+2024-09-16,Barrington,2
+2024-09-16,Channel Edge,3
+2024-09-16,Google,14
+2024-09-16,Lucent,3
+2024-09-16,O2C,9
+2024-09-16,Other,4
+2024-09-16,Policy Chat,3
+2024-09-16,Ring 2,1
+2024-09-16,Roku,5
+2024-09-16,VOXR,2
+2024-09-16,Youtube,7
+2024-09-16,Regal,4
+2024-09-17,Barrington,3
+2024-09-17,Channel Edge,6
+2024-09-17,Google,7
+2024-09-17,Lucent,2
+2024-09-17,O2C,8
+2024-09-17,Other,4
+2024-09-17,Policy Chat,3
+2024-09-17,Ring 2,2
+2024-09-17,Roku,3
+2024-09-17,VOXR,2
+2024-09-17,Youtube,6
+2024-09-17,Regal,4
+2024-09-18,Barrington,4
+2024-09-18,Channel Edge,6
+2024-09-18,Google,12
+2024-09-18,Lucent,1
+2024-09-18,O2C,12
+2024-09-18,Other,1
+2024-09-18,Policy Chat,1
+2024-09-18,Ring 2,3
+2024-09-18,Roku,4
+2024-09-18,VOXR,3
+2024-09-18,Youtube,4
+2024-09-18,Regal,3
+2024-09-19,Barrington,7
+2024-09-19,Channel Edge,2
+2024-09-19,Google,9
+2024-09-19,Lucent,3
+2024-09-19,O2C,3
+2024-09-19,Other,2
+2024-09-19,Policy Chat,5
+2024-09-19,Ring 2,1
+2024-09-19,Roku,3
+2024-09-19,VOXR,1
+2024-09-19,Youtube,15
+2024-09-19,Regal,2
+2024-09-20,Barrington,5
+2024-09-20,Channel Edge,4
+2024-09-20,Google,12
+2024-09-20,Lucent,1
+2024-09-20,O2C,5
+2024-09-20,Other,1
+2024-09-20,Policy Chat,1
+2024-09-20,Ring 2,2
+2024-09-20,Roku,4
+2024-09-20,VOXR,2
+2024-09-20,Youtube,4
+2024-09-20,Regal,5
+2024-09-21,Barrington,2
+2024-09-21,Channel Edge,2
+2024-09-21,Google,18
+2024-09-21,Lucent,1
+2024-09-21,O2C,9
+2024-09-21,Other,3
+2024-09-21,Policy Chat,5
+2024-09-21,Ring 2,2
+2024-09-21,Roku,6
+2024-09-21,VOXR,3
+2024-09-21,Youtube,5
+2024-09-21,Regal,3
+2024-09-22,Barrington,7
+2024-09-22,Channel Edge,5
+2024-09-22,Google,11
+2024-09-22,Lucent,4
+2024-09-22,O2C,10
+2024-09-22,Other,2
+2024-09-22,Policy Chat,4
+2024-09-22,Ring 2,4
+2024-09-22,Roku,4
+2024-09-22,VOXR,1
+2024-09-22,Youtube,6
+2024-09-22,Regal,1
+2024-09-23,Barrington,4
+2024-09-23,Channel Edge,3
+2024-09-23,Google,5
+2024-09-23,Lucent,5
+2024-09-23,O2C,4
+2024-09-23,Other,1
+2024-09-23,Policy Chat,4
+2024-09-23,Ring 2,2
+2024-09-23,Roku,3
+2024-09-23,VOXR,2
+2024-09-23,Youtube,3
+2024-09-23,Regal,3
+2024-09-24,Barrington,3
+2024-09-24,Channel Edge,3
+2024-09-24,Google,14
+2024-09-24,Lucent,4
+2024-09-24,O2C,6
+2024-09-24,Other,3
+2024-09-24,Policy Chat,3
+2024-09-24,Ring 2,2
+2024-09-24,Roku,5
+2024-09-24,VOXR,2
+2024-09-24,Youtube,10
+2024-09-24,Regal,2
+2024-09-25,Barrington,1
+2024-09-25,Channel Edge,1
+2024-09-25,Google,11
+2024-09-25,Lucent,1
+2024-09-25,O2C,4
+2024-09-25,Other,1
+2024-09-25,Policy Chat,4
+2024-09-25,Ring 2,5
+2024-09-25,Roku,5
+2024-09-25,VOXR,2
+2024-09-25,Youtube,4
+2024-09-25,Regal,4
+2024-09-26,Barrington,4
+2024-09-26,Channel Edge,1
+2024-09-26,Google,8
+2024-09-26,Lucent,1
+2024-09-26,O2C,8
+2024-09-26,Other,2
+2024-09-26,Policy Chat,2
+2024-09-26,Ring 2,3
+2024-09-26,Roku,2
+2024-09-26,VOXR,2
+2024-09-26,Youtube,2
+2024-09-26,Regal,2
+2024-09-27,Barrington,2
+2024-09-27,Channel Edge,1
+2024-09-27,Google,6
+2024-09-27,Lucent,3
+2024-09-27,O2C,6
+2024-09-27,Other,1
+2024-09-27,Policy Chat,3
+2024-09-27,Ring 2,2
+2024-09-27,Roku,3
+2024-09-27,VOXR,2
+2024-09-27,Youtube,6
+2024-09-27,Regal,4
+2024-09-28,Barrington,6
+2024-09-28,Channel Edge,3
+2024-09-28,Google,10
+2024-09-28,Lucent,3
+2024-09-28,O2C,3
+2024-09-28,Other,2
+2024-09-28,Policy Chat,1
+2024-09-28,Ring 2,3
+2024-09-28,Roku,3
+2024-09-28,VOXR,4
+2024-09-28,Youtube,6
+2024-09-28,Regal,2
+2024-09-29,Barrington,3
+2024-09-29,Channel Edge,3
+2024-09-29,Google,10
+2024-09-29,Lucent,3
+2024-09-29,O2C,4
+2024-09-29,Other,1
+2024-09-29,Policy Chat,3
+2024-09-29,Ring 2,5
+2024-09-29,Roku,5
+2024-09-29,VOXR,7
+2024-09-29,Youtube,11
+2024-09-29,Regal,6
+2024-09-30,Barrington,2
+2024-09-30,Channel Edge,1
+2024-09-30,Google,13
+2024-09-30,Lucent,2
+2024-09-30,O2C,8
+2024-09-30,Other,1
+2024-09-30,Policy Chat,4
+2024-09-30,Ring 2,1
+2024-09-30,Roku,2
+2024-09-30,VOXR,1
+2024-09-30,Youtube,6
+2024-09-30,Regal,2
+2024-10-01,Barrington,6
+2024-10-01,Channel Edge,2
+2024-10-01,Google,10
+2024-10-01,Lucent,5
+2024-10-01,O2C,5
+2024-10-01,Other,4
+2024-10-01,Policy Chat,2
+2024-10-01,Ring 2,2
+2024-10-01,Roku,3
+2024-10-01,VOXR,1
+2024-10-01,Youtube,4
+2024-10-01,Regal,1
+2024-10-02,Barrington,4
+2024-10-02,Channel Edge,3
+2024-10-02,Google,18
+2024-10-02,Lucent,1
+2024-10-02,O2C,6
+2024-10-02,Other,4
+2024-10-02,Policy Chat,1
+2024-10-02,Ring 2,3
+2024-10-02,Roku,3
+2024-10-02,VOXR,1
+2024-10-02,Youtube,6
+2024-10-02,Regal,4
+2024-10-03,Barrington,1
+2024-10-03,Channel Edge,3
+2024-10-03,Google,14
+2024-10-03,Lucent,2
+2024-10-03,O2C,4
+2024-10-03,Other,3
+2024-10-03,Policy Chat,1
+2024-10-03,Ring 2,1
+2024-10-03,Roku,7
+2024-10-03,VOXR,2
+2024-10-03,Youtube,5
+2024-10-03,Regal,3
+2024-10-04,Barrington,3
+2024-10-04,Channel Edge,1
+2024-10-04,Google,13
+2024-10-04,Lucent,2
+2024-10-04,O2C,4
+2024-10-04,Other,2
+2024-10-04,Policy Chat,3
+2024-10-04,Ring 2,1
+2024-10-04,Roku,1
+2024-10-04,VOXR,5
+2024-10-04,Youtube,4
+2024-10-04,Regal,3
+2024-10-05,Barrington,2
+2024-10-05,Channel Edge,2
+2024-10-05,Google,11
+2024-10-05,Lucent,3
+2024-10-05,O2C,11
+2024-10-05,Other,1
+2024-10-05,Policy Chat,3
+2024-10-05,Ring 2,3
+2024-10-05,Roku,1
+2024-10-05,VOXR,2
+2024-10-05,Youtube,5
+2024-10-05,Regal,8
+2024-10-06,Barrington,6
+2024-10-06,Channel Edge,1
+2024-10-06,Google,6
+2024-10-06,Lucent,2
+2024-10-06,O2C,10
+2024-10-06,Other,1
+2024-10-06,Policy Chat,1
+2024-10-06,Ring 2,1
+2024-10-06,Roku,3
+2024-10-06,VOXR,2
+2024-10-06,Youtube,4
+2024-10-06,Regal,3
+2024-10-07,Barrington,10
+2024-10-07,Channel Edge,2
+2024-10-07,Google,14
+2024-10-07,Lucent,4
+2024-10-07,O2C,10
+2024-10-07,Other,1
+2024-10-07,Policy Chat,4
+2024-10-07,Ring 2,3
+2024-10-07,Roku,3
+2024-10-07,VOXR,2
+2024-10-07,Youtube,5
+2024-10-07,Regal,3
+2024-10-08,Barrington,4
+2024-10-08,Channel Edge,1
+2024-10-08,Google,7
+2024-10-08,Lucent,1
+2024-10-08,O2C,10
+2024-10-08,Other,1
+2024-10-08,Policy Chat,1
+2024-10-08,Ring 2,1
+2024-10-08,Roku,4
+2024-10-08,VOXR,3
+2024-10-08,Youtube,7
+2024-10-08,Regal,1
+2024-10-09,Barrington,3
+2024-10-09,Channel Edge,1
+2024-10-09,Google,12
+2024-10-09,Lucent,1
+2024-10-09,O2C,3
+2024-10-09,Other,1
+2024-10-09,Policy Chat,3
+2024-10-09,Ring 2,2
+2024-10-09,Roku,4
+2024-10-09,VOXR,1
+2024-10-09,Youtube,3
+2024-10-09,Regal,4
+2024-10-10,Barrington,5
+2024-10-10,Channel Edge,2
+2024-10-10,Google,6
+2024-10-10,Lucent,1
+2024-10-10,O2C,8
+2024-10-10,Other,3
+2024-10-10,Policy Chat,1
+2024-10-10,Ring 2,3
+2024-10-10,Roku,1
+2024-10-10,VOXR,1
+2024-10-10,Youtube,5
+2024-10-10,Regal,4
+2024-10-11,Barrington,1
+2024-10-11,Channel Edge,2
+2024-10-11,Google,10
+2024-10-11,Lucent,3
+2024-10-11,O2C,9
+2024-10-11,Other,2
+2024-10-11,Policy Chat,3
+2024-10-11,Ring 2,1
+2024-10-11,Roku,1
+2024-10-11,VOXR,2
+2024-10-11,Youtube,7
+2024-10-11,Regal,1
+2024-10-12,Barrington,5
+2024-10-12,Channel Edge,1
+2024-10-12,Google,14
+2024-10-12,Lucent,1
+2024-10-12,O2C,10
+2024-10-12,Other,1
+2024-10-12,Policy Chat,1
+2024-10-12,Ring 2,1
+2024-10-12,Roku,5
+2024-10-12,VOXR,2
+2024-10-12,Youtube,2
+2024-10-12,Regal,4
+2024-10-13,Barrington,8
+2024-10-13,Channel Edge,1
+2024-10-13,Google,10
+2024-10-13,Lucent,2
+2024-10-13,O2C,6
+2024-10-13,Other,2
+2024-10-13,Policy Chat,2
+2024-10-13,Ring 2,2
+2024-10-13,Roku,4
+2024-10-13,VOXR,3
+2024-10-13,Youtube,3
+2024-10-13,Regal,2
+2024-10-14,Barrington,3
+2024-10-14,Channel Edge,1
+2024-10-14,Google,10
+2024-10-14,Lucent,4
+2024-10-14,O2C,5
+2024-10-14,Other,1
+2024-10-14,Policy Chat,3
+2024-10-14,Ring 2,2
+2024-10-14,Roku,5
+2024-10-14,VOXR,3
+2024-10-14,Youtube,8
+2024-10-14,Regal,3
+2024-10-15,Barrington,5
+2024-10-15,Channel Edge,5
+2024-10-15,Google,6
+2024-10-15,Lucent,2
+2024-10-15,O2C,7
+2024-10-15,Other,1
+2024-10-15,Policy Chat,4
+2024-10-15,Ring 2,1
+2024-10-15,Roku,5
+2024-10-15,VOXR,1
+2024-10-15,Youtube,6
+2024-10-15,Regal,4
+2024-10-16,Barrington,8
+2024-10-16,Channel Edge,4
+2024-10-16,Google,9
+2024-10-16,Lucent,1
+2024-10-16,O2C,3
+2024-10-16,Other,4
+2024-10-16,Policy Chat,2
+2024-10-16,Ring 2,5
+2024-10-16,Roku,1
+2024-10-16,VOXR,6
+2024-10-16,Youtube,5
+2024-10-16,Regal,6
+2024-10-17,Barrington,4
+2024-10-17,Channel Edge,4
+2024-10-17,Google,8
+2024-10-17,Lucent,1
+2024-10-17,O2C,7
+2024-10-17,Other,1
+2024-10-17,Policy Chat,2
+2024-10-17,Ring 2,2
+2024-10-17,Roku,2
+2024-10-17,VOXR,2
+2024-10-17,Youtube,2
+2024-10-17,Regal,1
+2024-10-18,Barrington,3
+2024-10-18,Channel Edge,3
+2024-10-18,Google,6
+2024-10-18,Lucent,3
+2024-10-18,O2C,5
+2024-10-18,Other,3
+2024-10-18,Policy Chat,3
+2024-10-18,Ring 2,3
+2024-10-18,Roku,1
+2024-10-18,VOXR,4
+2024-10-18,Youtube,2
+2024-10-18,Regal,4
+2024-10-19,Barrington,1
+2024-10-19,Channel Edge,6
+2024-10-19,Google,5
+2024-10-19,Lucent,3
+2024-10-19,O2C,4
+2024-10-19,Other,1
+2024-10-19,Policy Chat,4
+2024-10-19,Ring 2,1
+2024-10-19,Roku,4
+2024-10-19,VOXR,3
+2024-10-19,Youtube,9
+2024-10-19,Regal,3
+2024-10-20,Barrington,3
+2024-10-20,Channel Edge,4
+2024-10-20,Google,13
+2024-10-20,Lucent,1
+2024-10-20,O2C,2
+2024-10-20,Other,1
+2024-10-20,Policy Chat,4
+2024-10-20,Ring 2,3
+2024-10-20,Roku,3
+2024-10-20,VOXR,3
+2024-10-20,Youtube,6
+2024-10-20,Regal,1
+2024-10-21,Barrington,1
+2024-10-21,Channel Edge,2
+2024-10-21,Google,8
+2024-10-21,Lucent,4
+2024-10-21,O2C,6
+2024-10-21,Other,2
+2024-10-21,Policy Chat,2
+2024-10-21,Ring 2,1
+2024-10-21,Roku,5
+2024-10-21,VOXR,1
+2024-10-21,Youtube,5
+2024-10-21,Regal,4
+2024-10-22,Barrington,4
+2024-10-22,Channel Edge,1
+2024-10-22,Google,8
+2024-10-22,Lucent,1
+2024-10-22,O2C,5
+2024-10-22,Other,3
+2024-10-22,Policy Chat,1
+2024-10-22,Ring 2,1
+2024-10-22,Roku,4
+2024-10-22,VOXR,4
+2024-10-22,Youtube,12
+2024-10-22,Regal,1
+2024-10-23,Barrington,5
+2024-10-23,Channel Edge,2
+2024-10-23,Google,6
+2024-10-23,Lucent,2
+2024-10-23,O2C,8
+2024-10-23,Other,3
+2024-10-23,Policy Chat,2
+2024-10-23,Ring 2,4
+2024-10-23,Roku,6
+2024-10-23,VOXR,2
+2024-10-23,Youtube,7
+2024-10-23,Regal,3
+2024-10-24,Barrington,10
+2024-10-24,Channel Edge,1
+2024-10-24,Google,14
+2024-10-24,Lucent,2
+2024-10-24,O2C,6
+2024-10-24,Other,2
+2024-10-24,Policy Chat,1
+2024-10-24,Ring 2,2
+2024-10-24,Roku,5
+2024-10-24,VOXR,3
+2024-10-24,Youtube,3
+2024-10-24,Regal,1
+2024-10-25,Barrington,1
+2024-10-25,Channel Edge,1
+2024-10-25,Google,6
+2024-10-25,Lucent,1
+2024-10-25,O2C,8
+2024-10-25,Other,1
+2024-10-25,Policy Chat,4
+2024-10-25,Ring 2,1
+2024-10-25,Roku,4
+2024-10-25,VOXR,7
+2024-10-25,Youtube,9
+2024-10-25,Regal,5
+2024-10-26,Barrington,1
+2024-10-26,Channel Edge,5
+2024-10-26,Google,7
+2024-10-26,Lucent,2
+2024-10-26,O2C,7
+2024-10-26,Other,1
+2024-10-26,Policy Chat,3
+2024-10-26,Ring 2,1
+2024-10-26,Roku,1
+2024-10-26,VOXR,1
+2024-10-26,Youtube,4
+2024-10-26,Regal,1
+2024-10-27,Barrington,4
+2024-10-27,Channel Edge,3
+2024-10-27,Google,11
+2024-10-27,Lucent,3
+2024-10-27,O2C,1
+2024-10-27,Other,1
+2024-10-27,Policy Chat,5
+2024-10-27,Ring 2,5
+2024-10-27,Roku,4
+2024-10-27,VOXR,2
+2024-10-27,Youtube,7
+2024-10-27,Regal,1
+2024-10-28,Barrington,2
+2024-10-28,Channel Edge,6
+2024-10-28,Google,13
+2024-10-28,Lucent,1
+2024-10-28,O2C,9
+2024-10-28,Other,1
+2024-10-28,Policy Chat,5
+2024-10-28,Ring 2,3
+2024-10-28,Roku,3
+2024-10-28,VOXR,2
+2024-10-28,Youtube,7
+2024-10-28,Regal,3
+2024-10-29,Barrington,2
+2024-10-29,Channel Edge,1
+2024-10-29,Google,5
+2024-10-29,Lucent,2
+2024-10-29,O2C,6
+2024-10-29,Other,1
+2024-10-29,Policy Chat,8
+2024-10-29,Ring 2,1
+2024-10-29,Roku,5
+2024-10-29,VOXR,1
+2024-10-29,Youtube,4
+2024-10-29,Regal,1
+2024-10-30,Barrington,3
+2024-10-30,Channel Edge,1
+2024-10-30,Google,11
+2024-10-30,Lucent,1
+2024-10-30,O2C,7
+2024-10-30,Other,1
+2024-10-30,Policy Chat,2
+2024-10-30,Ring 2,1
+2024-10-30,Roku,2
+2024-10-30,VOXR,1
+2024-10-30,Youtube,6
+2024-10-30,Regal,3
+2024-10-31,Barrington,3
+2024-10-31,Channel Edge,2
+2024-10-31,Google,11
+2024-10-31,Lucent,2
+2024-10-31,O2C,5
+2024-10-31,Other,2
+2024-10-31,Policy Chat,4
+2024-10-31,Ring 2,1
+2024-10-31,Roku,4
+2024-10-31,VOXR,1
+2024-10-31,Youtube,5
+2024-10-31,Regal,1
+2024-11-01,Barrington,1
+2024-11-01,Channel Edge,2
+2024-11-01,Google,10
+2024-11-01,Lucent,1
+2024-11-01,O2C,6
+2024-11-01,Other,1
+2024-11-01,Policy Chat,4
+2024-11-01,Ring 2,2
+2024-11-01,Roku,2
+2024-11-01,VOXR,3
+2024-11-01,Youtube,2
+2024-11-01,Regal,6
+2024-11-02,Barrington,3
+2024-11-02,Channel Edge,4
+2024-11-02,Google,2
+2024-11-02,Lucent,1
+2024-11-02,O2C,6
+2024-11-02,Other,1
+2024-11-02,Policy Chat,1
+2024-11-02,Ring 2,1
+2024-11-02,Roku,4
+2024-11-02,VOXR,1
+2024-11-02,Youtube,7
+2024-11-02,Regal,6
+2024-11-03,Barrington,5
+2024-11-03,Channel Edge,4
+2024-11-03,Google,8
+2024-11-03,Lucent,2
+2024-11-03,O2C,5
+2024-11-03,Other,2
+2024-11-03,Policy Chat,2
+2024-11-03,Ring 2,5
+2024-11-03,Roku,1
+2024-11-03,VOXR,1
+2024-11-03,Youtube,8
+2024-11-03,Regal,5
+2024-11-04,Barrington,2
+2024-11-04,Channel Edge,2
+2024-11-04,Google,6
+2024-11-04,Lucent,3
+2024-11-04,O2C,6
+2024-11-04,Other,2
+2024-11-04,Policy Chat,5
+2024-11-04,Ring 2,2
+2024-11-04,Roku,3
+2024-11-04,VOXR,1
+2024-11-04,Youtube,6
+2024-11-04,Regal,4
+2024-11-05,Barrington,4
+2024-11-05,Channel Edge,3
+2024-11-05,Google,11
+2024-11-05,Lucent,2
+2024-11-05,O2C,4
+2024-11-05,Other,1
+2024-11-05,Policy Chat,3
+2024-11-05,Ring 2,3
+2024-11-05,Roku,5
+2024-11-05,VOXR,2
+2024-11-05,Youtube,5
+2024-11-05,Regal,2
+2024-11-06,Barrington,1
+2024-11-06,Channel Edge,1
+2024-11-06,Google,12
+2024-11-06,Lucent,2
+2024-11-06,O2C,5
+2024-11-06,Other,2
+2024-11-06,Policy Chat,5
+2024-11-06,Ring 2,3
+2024-11-06,Roku,4
+2024-11-06,VOXR,2
+2024-11-06,Youtube,4
+2024-11-06,Regal,1
+2024-11-07,Barrington,6
+2024-11-07,Channel Edge,1
+2024-11-07,Google,8
+2024-11-07,Lucent,4
+2024-11-07,O2C,4
+2024-11-07,Other,1
+2024-11-07,Policy Chat,3
+2024-11-07,Ring 2,6
+2024-11-07,Roku,3
+2024-11-07,VOXR,1
+2024-11-07,Youtube,5
+2024-11-07,Regal,2
+2024-11-08,Barrington,4
+2024-11-08,Channel Edge,4
+2024-11-08,Google,9
+2024-11-08,Lucent,3
+2024-11-08,O2C,9
+2024-11-08,Other,1
+2024-11-08,Policy Chat,1
+2024-11-08,Ring 2,2
+2024-11-08,Roku,4
+2024-11-08,VOXR,1
+2024-11-08,Youtube,7
+2024-11-08,Regal,2
+2024-11-09,Barrington,6
+2024-11-09,Channel Edge,4
+2024-11-09,Google,11
+2024-11-09,Lucent,4
+2024-11-09,O2C,2
+2024-11-09,Other,1
+2024-11-09,Policy Chat,6
+2024-11-09,Ring 2,1
+2024-11-09,Roku,3
+2024-11-09,VOXR,4
+2024-11-09,Youtube,3
+2024-11-09,Regal,4
+2024-11-10,Barrington,5
+2024-11-10,Channel Edge,3
+2024-11-10,Google,8
+2024-11-10,Lucent,1
+2024-11-10,O2C,8
+2024-11-10,Other,1
+2024-11-10,Policy Chat,3
+2024-11-10,Ring 2,2
+2024-11-10,Roku,1
+2024-11-10,VOXR,3
+2024-11-10,Youtube,6
+2024-11-10,Regal,1
+2024-11-11,Barrington,1
+2024-11-11,Channel Edge,2
+2024-11-11,Google,8
+2024-11-11,Lucent,3
+2024-11-11,O2C,5
+2024-11-11,Other,1
+2024-11-11,Policy Chat,5
+2024-11-11,Ring 2,4
+2024-11-11,Roku,1
+2024-11-11,VOXR,1
+2024-11-11,Youtube,6
+2024-11-11,Regal,2
+2024-11-12,Barrington,4
+2024-11-12,Channel Edge,1
+2024-11-12,Google,6
+2024-11-12,Lucent,3
+2024-11-12,O2C,4
+2024-11-12,Other,2
+2024-11-12,Policy Chat,1
+2024-11-12,Ring 2,1
+2024-11-12,Roku,5
+2024-11-12,VOXR,1
+2024-11-12,Youtube,6
+2024-11-12,Regal,2
+2024-11-13,Barrington,3
+2024-11-13,Channel Edge,4
+2024-11-13,Google,4
+2024-11-13,Lucent,3
+2024-11-13,O2C,4
+2024-11-13,Other,3
+2024-11-13,Policy Chat,5
+2024-11-13,Ring 2,1
+2024-11-13,Roku,1
+2024-11-13,VOXR,1
+2024-11-13,Youtube,7
+2024-11-13,Regal,3
+2024-11-14,Barrington,5
+2024-11-14,Channel Edge,4
+2024-11-14,Google,5
+2024-11-14,Lucent,2
+2024-11-14,O2C,8
+2024-11-14,Other,1
+2024-11-14,Policy Chat,1
+2024-11-14,Ring 2,1
+2024-11-14,Roku,4
+2024-11-14,VOXR,3
+2024-11-14,Youtube,3
+2024-11-14,Regal,3
+2024-11-15,Barrington,3
+2024-11-15,Channel Edge,1
+2024-11-15,Google,8
+2024-11-15,Lucent,2
+2024-11-15,O2C,6
+2024-11-15,Other,4
+2024-11-15,Policy Chat,2
+2024-11-15,Ring 2,2
+2024-11-15,Roku,2
+2024-11-15,VOXR,2
+2024-11-15,Youtube,9
+2024-11-15,Regal,3
+2024-11-16,Barrington,3
+2024-11-16,Channel Edge,1
+2024-11-16,Google,7
+2024-11-16,Lucent,1
+2024-11-16,O2C,3
+2024-11-16,Other,1
+2024-11-16,Policy Chat,3
+2024-11-16,Ring 2,3
+2024-11-16,Roku,4
+2024-11-16,VOXR,4
+2024-11-16,Youtube,7
+2024-11-16,Regal,3
+2024-11-17,Barrington,3
+2024-11-17,Channel Edge,5
+2024-11-17,Google,14
+2024-11-17,Lucent,4
+2024-11-17,O2C,7
+2024-11-17,Other,2
+2024-11-17,Policy Chat,2
+2024-11-17,Ring 2,2
+2024-11-17,Roku,2
+2024-11-17,VOXR,2
+2024-11-17,Youtube,4
+2024-11-17,Regal,3
+2024-11-18,Barrington,2
+2024-11-18,Channel Edge,2
+2024-11-18,Google,11
+2024-11-18,Lucent,2
+2024-11-18,O2C,7
+2024-11-18,Other,3
+2024-11-18,Policy Chat,2
+2024-11-18,Ring 2,3
+2024-11-18,Roku,3
+2024-11-18,VOXR,1
+2024-11-18,Youtube,4
+2024-11-18,Regal,3
+2024-11-19,Barrington,2
+2024-11-19,Channel Edge,2
+2024-11-19,Google,10
+2024-11-19,Lucent,3
+2024-11-19,O2C,4
+2024-11-19,Other,2
+2024-11-19,Policy Chat,3
+2024-11-19,Ring 2,1
+2024-11-19,Roku,5
+2024-11-19,VOXR,2
+2024-11-19,Youtube,5
+2024-11-19,Regal,1
+2024-11-20,Barrington,4
+2024-11-20,Channel Edge,2
+2024-11-20,Google,11
+2024-11-20,Lucent,1
+2024-11-20,O2C,12
+2024-11-20,Other,1
+2024-11-20,Policy Chat,1
+2024-11-20,Ring 2,1
+2024-11-20,Roku,2
+2024-11-20,VOXR,4
+2024-11-20,Youtube,6
+2024-11-20,Regal,3
+2024-11-21,Barrington,3
+2024-11-21,Channel Edge,1
+2024-11-21,Google,10
+2024-11-21,Lucent,1
+2024-11-21,O2C,2
+2024-11-21,Other,2
+2024-11-21,Policy Chat,4
+2024-11-21,Ring 2,1
+2024-11-21,Roku,2
+2024-11-21,VOXR,2
+2024-11-21,Youtube,4
+2024-11-21,Regal,4
+2024-11-22,Barrington,7
+2024-11-22,Channel Edge,1
+2024-11-22,Google,6
+2024-11-22,Lucent,3
+2024-11-22,O2C,4
+2024-11-22,Other,3
+2024-11-22,Policy Chat,4
+2024-11-22,Ring 2,2
+2024-11-22,Roku,2
+2024-11-22,VOXR,1
+2024-11-22,Youtube,4
+2024-11-22,Regal,5
+2024-11-23,Barrington,3
+2024-11-23,Channel Edge,3
+2024-11-23,Google,12
+2024-11-23,Lucent,1
+2024-11-23,O2C,5
+2024-11-23,Other,1
+2024-11-23,Policy Chat,3
+2024-11-23,Ring 2,3
+2024-11-23,Roku,6
+2024-11-23,VOXR,1
+2024-11-23,Youtube,5
+2024-11-23,Regal,2
+2024-11-24,Barrington,2
+2024-11-24,Channel Edge,2
+2024-11-24,Google,9
+2024-11-24,Lucent,1
+2024-11-24,O2C,2
+2024-11-24,Other,2
+2024-11-24,Policy Chat,2
+2024-11-24,Ring 2,3
+2024-11-24,Roku,1
+2024-11-24,VOXR,3
+2024-11-24,Youtube,5
+2024-11-24,Regal,1
+2024-11-25,Barrington,6
+2024-11-25,Channel Edge,1
+2024-11-25,Google,11
+2024-11-25,Lucent,1
+2024-11-25,O2C,4
+2024-11-25,Other,3
+2024-11-25,Policy Chat,4
+2024-11-25,Ring 2,1
+2024-11-25,Roku,3
+2024-11-25,VOXR,2
+2024-11-25,Youtube,5
+2024-11-25,Regal,5
+2024-11-26,Barrington,1
+2024-11-26,Channel Edge,3
+2024-11-26,Google,9
+2024-11-26,Lucent,3
+2024-11-26,O2C,10
+2024-11-26,Other,3
+2024-11-26,Policy Chat,2
+2024-11-26,Ring 2,5
+2024-11-26,Roku,7
+2024-11-26,VOXR,2
+2024-11-26,Youtube,4
+2024-11-26,Regal,4
+2024-11-27,Barrington,4
+2024-11-27,Channel Edge,4
+2024-11-27,Google,6
+2024-11-27,Lucent,3
+2024-11-27,O2C,14
+2024-11-27,Other,1
+2024-11-27,Policy Chat,3
+2024-11-27,Ring 2,4
+2024-11-27,Roku,4
+2024-11-27,VOXR,2
+2024-11-27,Youtube,6
+2024-11-27,Regal,1
+2024-11-28,Barrington,2
+2024-11-28,Channel Edge,3
+2024-11-28,Google,9
+2024-11-28,Lucent,1
+2024-11-28,O2C,9
+2024-11-28,Other,2
+2024-11-28,Policy Chat,1
+2024-11-28,Ring 2,2
+2024-11-28,Roku,5
+2024-11-28,VOXR,2
+2024-11-28,Youtube,4
+2024-11-28,Regal,2
+2024-11-29,Barrington,7
+2024-11-29,Channel Edge,2
+2024-11-29,Google,7
+2024-11-29,Lucent,1
+2024-11-29,O2C,10
+2024-11-29,Other,1
+2024-11-29,Policy Chat,1
+2024-11-29,Ring 2,1
+2024-11-29,Roku,2
+2024-11-29,VOXR,1
+2024-11-29,Youtube,6
+2024-11-29,Regal,2
+2024-11-30,Barrington,4
+2024-11-30,Channel Edge,1
+2024-11-30,Google,6
+2024-11-30,Lucent,2
+2024-11-30,O2C,8
+2024-11-30,Other,1
+2024-11-30,Policy Chat,5
+2024-11-30,Ring 2,2
+2024-11-30,Roku,2
+2024-11-30,VOXR,2
+2024-11-30,Youtube,7
+2024-11-30,Regal,2
+2024-12-01,Barrington,4
+2024-12-01,Channel Edge,4
+2024-12-01,Google,14
+2024-12-01,Lucent,1
+2024-12-01,O2C,5
+2024-12-01,Other,2
+2024-12-01,Policy Chat,4
+2024-12-01,Ring 2,3
+2024-12-01,Roku,4
+2024-12-01,VOXR,3
+2024-12-01,Youtube,3
+2024-12-01,Regal,2
+2024-12-02,Barrington,1
+2024-12-02,Channel Edge,1
+2024-12-02,Google,5
+2024-12-02,Lucent,1
+2024-12-02,O2C,8
+2024-12-02,Other,1
+2024-12-02,Policy Chat,1
+2024-12-02,Ring 2,3
+2024-12-02,Roku,3
+2024-12-02,VOXR,4
+2024-12-02,Youtube,4
+2024-12-02,Regal,4
+2024-12-03,Barrington,1
+2024-12-03,Channel Edge,2
+2024-12-03,Google,10
+2024-12-03,Lucent,3
+2024-12-03,O2C,7
+2024-12-03,Other,4
+2024-12-03,Policy Chat,4
+2024-12-03,Ring 2,2
+2024-12-03,Roku,3
+2024-12-03,VOXR,2
+2024-12-03,Youtube,2
+2024-12-03,Regal,4
+2024-12-04,Barrington,3
+2024-12-04,Channel Edge,3
+2024-12-04,Google,11
+2024-12-04,Lucent,1
+2024-12-04,O2C,6
+2024-12-04,Other,1
+2024-12-04,Policy Chat,6
+2024-12-04,Ring 2,1
+2024-12-04,Roku,6
+2024-12-04,VOXR,1
+2024-12-04,Youtube,9
+2024-12-04,Regal,3
+2024-12-05,Barrington,5
+2024-12-05,Channel Edge,5
+2024-12-05,Google,8
+2024-12-05,Lucent,1
+2024-12-05,O2C,6
+2024-12-05,Other,1
+2024-12-05,Policy Chat,3
+2024-12-05,Ring 2,1
+2024-12-05,Roku,3
+2024-12-05,VOXR,2
+2024-12-05,Youtube,6
+2024-12-05,Regal,3
+2024-12-06,Barrington,6
+2024-12-06,Channel Edge,2
+2024-12-06,Google,8
+2024-12-06,Lucent,1
+2024-12-06,O2C,4
+2024-12-06,Other,1
+2024-12-06,Policy Chat,2
+2024-12-06,Ring 2,3
+2024-12-06,Roku,6
+2024-12-06,VOXR,1
+2024-12-06,Youtube,7
+2024-12-06,Regal,3
+2024-12-07,Barrington,2
+2024-12-07,Channel Edge,2
+2024-12-07,Google,11
+2024-12-07,Lucent,1
+2024-12-07,O2C,11
+2024-12-07,Other,1
+2024-12-07,Policy Chat,3
+2024-12-07,Ring 2,3
+2024-12-07,Roku,1
+2024-12-07,VOXR,1
+2024-12-07,Youtube,3
+2024-12-07,Regal,1
+2024-12-08,Barrington,4
+2024-12-08,Channel Edge,1
+2024-12-08,Google,6
+2024-12-08,Lucent,1
+2024-12-08,O2C,5
+2024-12-08,Other,3
+2024-12-08,Policy Chat,3
+2024-12-08,Ring 2,3
+2024-12-08,Roku,5
+2024-12-08,VOXR,1
+2024-12-08,Youtube,9
+2024-12-08,Regal,1
+2024-12-09,Barrington,5
+2024-12-09,Channel Edge,2
+2024-12-09,Google,11
+2024-12-09,Lucent,2
+2024-12-09,O2C,6
+2024-12-09,Other,3
+2024-12-09,Policy Chat,1
+2024-12-09,Ring 2,6
+2024-12-09,Roku,1
+2024-12-09,VOXR,1
+2024-12-09,Youtube,3
+2024-12-09,Regal,3
+2024-12-10,Barrington,2
+2024-12-10,Channel Edge,2
+2024-12-10,Google,8
+2024-12-10,Lucent,1
+2024-12-10,O2C,6
+2024-12-10,Other,2
+2024-12-10,Policy Chat,1
+2024-12-10,Ring 2,4
+2024-12-10,Roku,2
+2024-12-10,VOXR,1
+2024-12-10,Youtube,5
+2024-12-10,Regal,1
+2024-12-11,Barrington,3
+2024-12-11,Channel Edge,2
+2024-12-11,Google,9
+2024-12-11,Lucent,2
+2024-12-11,O2C,7
+2024-12-11,Other,1
+2024-12-11,Policy Chat,2
+2024-12-11,Ring 2,1
+2024-12-11,Roku,3
+2024-12-11,VOXR,2
+2024-12-11,Youtube,5
+2024-12-11,Regal,3
+2024-12-12,Barrington,4
+2024-12-12,Channel Edge,2
+2024-12-12,Google,15
+2024-12-12,Lucent,1
+2024-12-12,O2C,4
+2024-12-12,Other,1
+2024-12-12,Policy Chat,2
+2024-12-12,Ring 2,4
+2024-12-12,Roku,4
+2024-12-12,VOXR,3
+2024-12-12,Youtube,9
+2024-12-12,Regal,3
+2024-12-13,Barrington,4
+2024-12-13,Channel Edge,1
+2024-12-13,Google,5
+2024-12-13,Lucent,1
+2024-12-13,O2C,7
+2024-12-13,Other,1
+2024-12-13,Policy Chat,2
+2024-12-13,Ring 2,1
+2024-12-13,Roku,1
+2024-12-13,VOXR,3
+2024-12-13,Youtube,3
+2024-12-13,Regal,1
+2024-12-14,Barrington,2
+2024-12-14,Channel Edge,1
+2024-12-14,Google,6
+2024-12-14,Lucent,2
+2024-12-14,O2C,6
+2024-12-14,Other,2
+2024-12-14,Policy Chat,3
+2024-12-14,Ring 2,1
+2024-12-14,Roku,4
+2024-12-14,VOXR,1
+2024-12-14,Youtube,4
+2024-12-14,Regal,3
+2024-12-15,Barrington,1
+2024-12-15,Channel Edge,1
+2024-12-15,Google,6
+2024-12-15,Lucent,1
+2024-12-15,O2C,8
+2024-12-15,Other,2
+2024-12-15,Policy Chat,4
+2024-12-15,Ring 2,6
+2024-12-15,Roku,3
+2024-12-15,VOXR,3
+2024-12-15,Youtube,3
+2024-12-15,Regal,4
+2024-12-16,Barrington,3
+2024-12-16,Channel Edge,1
+2024-12-16,Google,10
+2024-12-16,Lucent,3
+2024-12-16,O2C,10
+2024-12-16,Other,1
+2024-12-16,Policy Chat,5
+2024-12-16,Ring 2,1
+2024-12-16,Roku,4
+2024-12-16,VOXR,4
+2024-12-16,Youtube,7
+2024-12-16,Regal,2
+2024-12-17,Barrington,2
+2024-12-17,Channel Edge,5
+2024-12-17,Google,7
+2024-12-17,Lucent,2
+2024-12-17,O2C,7
+2024-12-17,Other,1
+2024-12-17,Policy Chat,1
+2024-12-17,Ring 2,2
+2024-12-17,Roku,4
+2024-12-17,VOXR,1
+2024-12-17,Youtube,3
+2024-12-17,Regal,3
+2024-12-18,Barrington,2
+2024-12-18,Channel Edge,4
+2024-12-18,Google,2
+2024-12-18,Lucent,1
+2024-12-18,O2C,7
+2024-12-18,Other,1
+2024-12-18,Policy Chat,4
+2024-12-18,Ring 2,2
+2024-12-18,Roku,1
+2024-12-18,VOXR,4
+2024-12-18,Youtube,5
+2024-12-18,Regal,3
+2024-12-19,Barrington,4
+2024-12-19,Channel Edge,1
+2024-12-19,Google,11
+2024-12-19,Lucent,3
+2024-12-19,O2C,5
+2024-12-19,Other,1
+2024-12-19,Policy Chat,1
+2024-12-19,Ring 2,2
+2024-12-19,Roku,2
+2024-12-19,VOXR,3
+2024-12-19,Youtube,6
+2024-12-19,Regal,4
+2024-12-20,Barrington,3
+2024-12-20,Channel Edge,4
+2024-12-20,Google,5
+2024-12-20,Lucent,4
+2024-12-20,O2C,6
+2024-12-20,Other,1
+2024-12-20,Policy Chat,2
+2024-12-20,Ring 2,3
+2024-12-20,Roku,4
+2024-12-20,VOXR,2
+2024-12-20,Youtube,6
+2024-12-20,Regal,3
+2024-12-21,Barrington,2
+2024-12-21,Channel Edge,2
+2024-12-21,Google,4
+2024-12-21,Lucent,4
+2024-12-21,O2C,5
+2024-12-21,Other,1
+2024-12-21,Policy Chat,4
+2024-12-21,Ring 2,1
+2024-12-21,Roku,2
+2024-12-21,VOXR,2
+2024-12-21,Youtube,4
+2024-12-21,Regal,4
+2024-12-22,Barrington,4
+2024-12-22,Channel Edge,3
+2024-12-22,Google,7
+2024-12-22,Lucent,3
+2024-12-22,O2C,5
+2024-12-22,Other,1
+2024-12-22,Policy Chat,2
+2024-12-22,Ring 2,8
+2024-12-22,Roku,3
+2024-12-22,VOXR,1
+2024-12-22,Youtube,6
+2024-12-22,Regal,5
+2024-12-23,Barrington,2
+2024-12-23,Channel Edge,1
+2024-12-23,Google,3
+2024-12-23,Lucent,1
+2024-12-23,O2C,3
+2024-12-23,Other,1
+2024-12-23,Policy Chat,2
+2024-12-23,Ring 2,3
+2024-12-23,Roku,4
+2024-12-23,VOXR,2
+2024-12-23,Youtube,6
+2024-12-23,Regal,4
+2024-12-24,Barrington,3
+2024-12-24,Channel Edge,1
+2024-12-24,Google,7
+2024-12-24,Lucent,1
+2024-12-24,O2C,6
+2024-12-24,Other,2
+2024-12-24,Policy Chat,3
+2024-12-24,Ring 2,2
+2024-12-24,Roku,4
+2024-12-24,VOXR,3
+2024-12-24,Youtube,7
+2024-12-24,Regal,2
+2024-12-25,Barrington,6
+2024-12-25,Channel Edge,1
+2024-12-25,Google,5
+2024-12-25,Lucent,1
+2024-12-25,O2C,4
+2024-12-25,Other,1
+2024-12-25,Policy Chat,3
+2024-12-25,Ring 2,1
+2024-12-25,Roku,4
+2024-12-25,VOXR,2
+2024-12-25,Youtube,13
+2024-12-25,Regal,3
+2024-12-26,Barrington,2
+2024-12-26,Channel Edge,2
+2024-12-26,Google,11
+2024-12-26,Lucent,3
+2024-12-26,O2C,9
+2024-12-26,Other,3
+2024-12-26,Policy Chat,3
+2024-12-26,Ring 2,2
+2024-12-26,Roku,5
+2024-12-26,VOXR,1
+2024-12-26,Youtube,7
+2024-12-26,Regal,3
+2024-12-27,Barrington,3
+2024-12-27,Channel Edge,2
+2024-12-27,Google,13
+2024-12-27,Lucent,1
+2024-12-27,O2C,4
+2024-12-27,Other,2
+2024-12-27,Policy Chat,7
+2024-12-27,Ring 2,2
+2024-12-27,Roku,5
+2024-12-27,VOXR,4
+2024-12-27,Youtube,4
+2024-12-27,Regal,3
+2024-12-28,Barrington,1
+2024-12-28,Channel Edge,1
+2024-12-28,Google,7
+2024-12-28,Lucent,2
+2024-12-28,O2C,2
+2024-12-28,Other,3
+2024-12-28,Policy Chat,1
+2024-12-28,Ring 2,1
+2024-12-28,Roku,1
+2024-12-28,VOXR,1
+2024-12-28,Youtube,6
+2024-12-28,Regal,3
+2024-12-29,Barrington,2
+2024-12-29,Channel Edge,3
+2024-12-29,Google,7
+2024-12-29,Lucent,2
+2024-12-29,O2C,6
+2024-12-29,Other,3
+2024-12-29,Policy Chat,4
+2024-12-29,Ring 2,2
+2024-12-29,Roku,2
+2024-12-29,VOXR,3
+2024-12-29,Youtube,4
+2024-12-29,Regal,3
+2024-12-30,Barrington,3
+2024-12-30,Channel Edge,2
+2024-12-30,Google,9
+2024-12-30,Lucent,1
+2024-12-30,O2C,5
+2024-12-30,Other,2
+2024-12-30,Policy Chat,7
+2024-12-30,Ring 2,1
+2024-12-30,Roku,3
+2024-12-30,VOXR,4
+2024-12-30,Youtube,3
+2024-12-30,Regal,3
+2024-12-31,Barrington,1
+2024-12-31,Channel Edge,1
+2024-12-31,Google,6
+2024-12-31,Lucent,1
+2024-12-31,O2C,3
+2024-12-31,Other,3
+2024-12-31,Policy Chat,5
+2024-12-31,Ring 2,2
+2024-12-31,Roku,4
+2024-12-31,VOXR,4
+2024-12-31,Youtube,3
+2024-12-31,Regal,2
