@@ -42,27 +42,69 @@ def generate_synthetic_data(start_date, end_date, agg_level):
         
         weights = {}
         
-        # Google becomes dominant source - starts low, grows to 40% of volume
-        weights['Google'] = 0.08 + (0.35 * progress)
+        # REGIME 1: Early days (0-33%) - Roku and VOXR dominate
+        # REGIME 2: Transition (33-66%) - O2C and Google surge, old sources collapse
+        # REGIME 3: Modern era (66-100%) - Google and O2C completely dominate
         
-        # O2C becomes second major source - grows to 25% of volume
-        weights['O2C'] = 0.08 + (0.20 * progress)
-        
-        # Barrington maintains steady presence at 15%
-        weights['Barrington'] = 0.15 + np.random.normal(0, 0.02)
-        
-        # Legacy sources decline over time
-        weights['Roku'] = 0.12 * (1 - progress * 0.7)  # Declines from 12% to ~4%
-        weights['VOXR'] = 0.10 * (1 - progress * 0.6)  # Declines from 10% to ~4%
-        
-        # Other sources stay relatively small and stable
-        weights['Lucent'] = 0.06 + np.random.normal(0, 0.01)
-        weights['Channel Edge'] = 0.05 + np.random.normal(0, 0.01)
-        weights['Policy Chat'] = 0.05 + np.random.normal(0, 0.01)
-        weights['Youtube'] = 0.04 + np.random.normal(0, 0.01)
-        weights['Ring 2'] = 0.03 + np.random.normal(0, 0.01)
-        weights['Regal'] = 0.03 + np.random.normal(0, 0.01)
-        weights['Other'] = 0.02 + np.random.normal(0, 0.01)
+        if progress < 0.33:
+            # Early regime: Roku and VOXR are kings
+            weights['Roku'] = 0.35 + np.random.normal(0, 0.02)
+            weights['VOXR'] = 0.30 + np.random.normal(0, 0.02)
+            weights['Barrington'] = 0.15 + np.random.normal(0, 0.01)
+            weights['Google'] = 0.08 + np.random.normal(0, 0.01)
+            weights['O2C'] = 0.05 + np.random.normal(0, 0.01)
+            weights['Lucent'] = 0.03
+            weights['Channel Edge'] = 0.02
+            weights['Policy Chat'] = 0.01
+            weights['Youtube'] = 0.005
+            weights['Ring 2'] = 0.003
+            weights['Regal'] = 0.002
+            weights['Other'] = 0.001
+            
+        elif progress < 0.66:
+            # Transition regime: Massive shift happening
+            transition_progress = (progress - 0.33) / 0.33
+            
+            # Old sources collapsing
+            weights['Roku'] = 0.35 * (1 - transition_progress**1.5)
+            weights['VOXR'] = 0.30 * (1 - transition_progress**1.5)
+            
+            # New sources exploding
+            weights['Google'] = 0.08 + (0.30 * transition_progress**0.7)
+            weights['O2C'] = 0.05 + (0.25 * transition_progress**0.7)
+            
+            # Barrington stays steady
+            weights['Barrington'] = 0.15 + np.random.normal(0, 0.01)
+            
+            # Others grow slightly
+            weights['Lucent'] = 0.03 + (0.03 * transition_progress)
+            weights['Channel Edge'] = 0.02 + (0.02 * transition_progress)
+            weights['Policy Chat'] = 0.01 + (0.02 * transition_progress)
+            weights['Youtube'] = 0.005 + (0.015 * transition_progress)
+            weights['Ring 2'] = 0.003 + (0.007 * transition_progress)
+            weights['Regal'] = 0.002 + (0.008 * transition_progress)
+            weights['Other'] = 0.001 + (0.009 * transition_progress)
+            
+        else:
+            # Modern regime: Google and O2C dominate completely
+            mature_progress = (progress - 0.66) / 0.34
+            
+            weights['Google'] = 0.38 + (0.07 * mature_progress) + np.random.normal(0, 0.02)
+            weights['O2C'] = 0.30 + (0.05 * mature_progress) + np.random.normal(0, 0.02)
+            weights['Barrington'] = 0.12 + np.random.normal(0, 0.01)
+            
+            # Legacy sources nearly dead
+            weights['Roku'] = 0.02 + np.random.normal(0, 0.005)
+            weights['VOXR'] = 0.02 + np.random.normal(0, 0.005)
+            
+            # Mid-tier sources stable
+            weights['Lucent'] = 0.06 + np.random.normal(0, 0.01)
+            weights['Channel Edge'] = 0.04 + np.random.normal(0, 0.01)
+            weights['Policy Chat'] = 0.03 + np.random.normal(0, 0.01)
+            weights['Youtube'] = 0.02 + np.random.normal(0, 0.005)
+            weights['Ring 2'] = 0.01 + np.random.normal(0, 0.005)
+            weights['Regal'] = 0.01 + np.random.normal(0, 0.005)
+            weights['Other'] = 0.01 + np.random.normal(0, 0.005)
         
         # Ensure no negative weights
         weights = {k: max(0.01, v) for k, v in weights.items()}
